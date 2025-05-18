@@ -1,0 +1,10 @@
+{
+    "headline": "Stocks Extend Losses at End of a Chaotic Week: Markets Wrap",
+    "publish_time": "2025-04-03T22:29:31.230Z",
+    "author": [
+        "Anand Krishnamoorthy",
+        "Sujata Rao"
+    ],
+    "href": "https://www.bloomberg.com/news/articles/2025-04-03/stock-market-today-dow-s-p-live-updates",
+    "content": "Stocks slid further, adding to losses after a $2.5 trillion wipeout of US equities and putting the MSCI global benchmark on track for the biggest weekly loss in seven months. Treasuries rallied and the dollar steadied.\nAgainst a backdrop of an intensifying global trade war, as well as the monthly jobs report and a speech by Federal Reserve ChairJerome Powelllater today, investors were in no mood to take any chances. S&P 500 futures dipped 0.4% in early trading and Europe’s Stoxx 600 index sank 1.2%. The US 10-year bond yield fell below 4%."
+}

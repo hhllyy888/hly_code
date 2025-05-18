@@ -1,0 +1,7 @@
+{
+    "headline": "TikTok Drives ByteDance’s 29% Growth While China Business Slows",
+    "publish_time": "2025-04-11T04:05:35.381Z",
+    "author": "None",
+    "href": "https://www.bloomberg.com/news/articles/2025-04-11/tiktok-drives-bytedance-s-29-growth-while-china-business-slows",
+    "content": "ByteDance Ltd.’s revenue jumped 29% to $155 billion in 2024, after online video phenom TikTok drove a worldwide expansion that helped offset an economic downturn back home in China.\nIts international sales grew a much quicker 63% to $39 billion, contributing to roughly a quarter of the topline, according to people briefed on the numbers. Net profit for the year edged up to around $33 billion, they said, asking to remain anonymous discussing private information."
+}

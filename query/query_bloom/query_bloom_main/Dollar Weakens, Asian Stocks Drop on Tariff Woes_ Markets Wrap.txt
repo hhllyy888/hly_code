@@ -1,0 +1,9 @@
+{
+    "headline": "Dollar Weakens, Asian Stocks Drop on Tariff Woes: Markets Wrap",
+    "publish_time": "2025-04-10T22:39:50.712Z",
+    "author": [
+        "Anand Krishnamoorthy"
+    ],
+    "href": "https://www.bloomberg.com/news/articles/2025-04-10/stock-market-today-dow-s-p-live-updates",
+    "content": "Thedollarextended losses after its biggest plunge in three years whilestocksandbondssold off as a worsening global trade war eroded an already fragile appetite for risk.\nA gauge ofAsian stockswas on track for its third consecutive week of declines as market relief turned to angst after the White House clarified US tariffs on Chinarose to 145%.US Treasuriesextended the week’s slide. In a sign investors are seeking havens and non-US alternatives, the euro soared as much as 1.6%, theyenstrengthened andgoldset a new high. Equity-indexfuturesfor Europe inched up while those for the US fluctuated."
+}

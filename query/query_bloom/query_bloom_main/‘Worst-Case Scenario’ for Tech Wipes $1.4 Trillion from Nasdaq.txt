@@ -1,0 +1,10 @@
+{
+    "headline": "‘Worst-Case Scenario’ for Tech Wipes $1.4 Trillion from Nasdaq",
+    "publish_time": "2025-04-04T08:14:06.954Z",
+    "author": [
+        "Jeran Wittenstein",
+        "Ryan Vlastelica"
+    ],
+    "href": "https://www.bloomberg.com/news/articles/2025-04-04/-worst-case-scenario-for-tech-wipes-1-4-trillion-from-nasdaq",
+    "content": "There’s virtually nowhere to hide for many US technology companies under PresidentDonald Trump’s new tariff regime, the harshest in a century.\nAfter Thursday’s slump wiped $1.4 trillion in market capitalisation from the Nasdaq 100 Stock Index, the gauge is down 16% in the past six weeks. The Magnificent Seven even more, at 20%. Chipmakers are in free fall. And there’s little sign the pain will end anytime soon."
+}

@@ -1,0 +1,7 @@
+{
+    "headline": "What Trump says he's trying to accomplish with tariffs",
+    "published_time": "2025-04-03T23:10:44+0000",
+    "author": "Greg Iacurci",
+    "href": "https://www.cnbc.com/2025/04/03/trump-tariffs-goals-deficit-jobs.html?&qsearchterm=tariff",
+    "content": "key point \nPresident Donald Trump issued sweeping new tariffs against U.S. trading partners.\nTrump pitched the import taxes, the highest in over a century, as a way to raise federal revenue to cut taxes and reduce the national debt.\nHe also said he'll use tariffs to boost U.S. industry and push nations to reduce their perceived trade barriers.\nSome of Trump's goals are at odds with each other, economists said.\nPresident Donald Trump has cited a host of reasons to impose steep new tariffs on U.S. trading partners. Some of the justifications are at odds with each other, economists said.\nTrump on Wednesday announced a new 10% tariff on all imports, plus additional levies for major exporters including China, India, Vietnam and the European Union.\nThe duties, when combined with others already announced earlier this year, push the average effective U.S. tariff rate from 2.3% in 2024 to about 24% — the highest in 125 years, according to a note Wednesday from Capital Economics."
+}

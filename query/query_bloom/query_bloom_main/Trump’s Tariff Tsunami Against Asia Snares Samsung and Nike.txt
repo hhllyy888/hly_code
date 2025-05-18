@@ -1,0 +1,10 @@
+{
+    "headline": "Trump’s Tariff Tsunami Against Asia Snares Samsung and Nike",
+    "publish_time": "2025-04-03T08:22:58.026Z",
+    "author": [
+        "Katia Dmitrieva",
+        "James Mayger"
+    ],
+    "href": "https://www.bloomberg.com/news/articles/2025-04-03/samsung-nike-among-collateral-damage-as-trump-targets-china-1",
+    "content": "Supply Lines is a daily newsletter that tracks global trade.Sign up here.\nCompanies globally have been quietlyshifting productionto avoid the tariffs President Donald Trump slapped on China during Trade War 1.0. Now, the president’s “Liberation Day” levies are skewering that strategy."
+}

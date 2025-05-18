@@ -1,0 +1,7 @@
+{
+    "headline": "Oil’s Selloff Gathers Pace as Trade War Roils Global Markets",
+    "publish_time": "2025-04-10T22:42:09.082Z",
+    "author": "None",
+    "href": "https://www.bloomberg.com/news/articles/2025-04-10/latest-oil-market-news-and-analysis-for-april-11",
+    "content": "Oilheaded for a second weekly loss as mounting disorder in global markets triggered by US President Donald Trump’s aggressive trade policy spurred concerns about a recession and a flight from risk.\nBrent fell toward $63 a barrel, and is down almost 4% this week after hitting a four-year low, while West Texas Intermediate was near $60.Frantic selloffshave hit US stocks,bondsand the dollar on rising concerns about the impact of US tariffs, including on China, the biggest crude importer."
+}

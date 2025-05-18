@@ -1,0 +1,9 @@
+{
+    "headline": "Spanish Premier Begins Outreach to China, Calls It Partner of EU",
+    "publish_time": "2025-04-11T04:24:39.762Z",
+    "author": [
+        "Daniel Basteiro"
+    ],
+    "href": "https://www.bloomberg.com/news/articles/2025-04-11/spanish-premier-begins-outreach-to-china-calls-it-partner-of-eu",
+    "content": "Spanish Prime MinisterPedro Sanchezsaid his country will work to build “solid and balanced” relations between China and the European Union, as their ties come under strain from an intensifying trade war started byDonald Trump.\n“We need mutually beneficial relations and to promote balanced trade and investments,” Sanchez said in introductory remarks ahead of his meeting with Chinese PresidentXi Jinpingin Beijing."
+}

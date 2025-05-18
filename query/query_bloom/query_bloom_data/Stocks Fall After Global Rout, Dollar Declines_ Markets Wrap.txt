@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks Fall After Global Rout, Dollar Declines: Markets Wrap",
+    "publish_time": "2025-04-03T22:29:31.230Z",
+    "author": [
+        "Anand Krishnamoorthy"
+    ],
+    "href": "https://www.bloomberg.com/news/articles/2025-04-03/stock-market-today-dow-s-p-live-updates",
+    "content": "Asian sharesfell to the lowest level in two months after a rout wiped out about$2.5 trillionfrom American equities as PresidentDonald Trump’s once-a-centurytariff shockprompted investors to trim risk.\nStock-indexfuturesfor the US and Europe dropped 0.4%, paring losses in earlier Asian trading. Thedollarextended its slide while yields on the 10-year US Treasury dipped below the closely watched4%level once more on Friday. Globaljunk bondsweakened the most since March 2020."
+}

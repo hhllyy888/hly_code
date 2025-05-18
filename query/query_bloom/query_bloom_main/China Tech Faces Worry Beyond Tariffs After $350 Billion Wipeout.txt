@@ -1,0 +1,9 @@
+{
+    "headline": "China Tech Faces Worry Beyond Tariffs After $350 Billion Wipeout",
+    "publish_time": "2025-04-11T00:25:12.490Z",
+    "author": [
+        "Charlotte Yang"
+    ],
+    "href": "https://www.bloomberg.com/news/articles/2025-04-11/china-tech-faces-worry-beyond-tariffs-after-350-billion-wipeout",
+    "content": "Even as China’s tech stocks begin to recoup some of their recent big losses, some investors and analysts are eyeing looming concerns that may have a worse impact thanDonald Trump’s tariffs.\nTheHang Seng Tech Indexhas shed more than $350 billion in market value since a March high, though it has gained more than 10% over the past four sessions. While China’s rapid AI development remains a key positive, heightened geopolitical tensions are at the forefront at the moment."
+}

@@ -1,0 +1,7 @@
+{
+    "headline": "The biggest winners and losers in Europe as Trump announces sweeping tariffs",
+    "published_time": "2025-04-03T13:29:56+0000",
+    "author": "Chloe Taylor",
+    "href": "https://www.cnbc.com/2025/04/03/trump-liberation-day-tariffs-biggest-winners-and-losers.html?&qsearchterm=tariff",
+    "content": "key point \nU.S. President Donald Trump announced “reciprocal tariffs” on more than 180 countries and territories on Wednesday.\nThe new duties will include a 20% tariff on goods imported from the European Union, along with 10% levies on those originating from the U.K.\nLuxury goods, autos and German products are among those hardest hit, while there was some positivity for regional currencies and European pharmaceuticals on Thursday.\nGlobal markets, businesses and long-standing geopolitical relationships were thrown into disarray on Thursday, the day after U.S. President Donald Trump announced his tariff policy — and Europe was not spared from the chaos.\nThe European Union has been hit with 20% duties, while the U.K. was hit with a lower 10%, benefiting from its more balanced U.S. trade relationship. All eyes will now be on how far policymakers will go in their response, and how deeply the conflict can escalate.\nMost analysts agree that, from an economic perspective, there are few — or perhaps no — winners from the expected slowdown in growth and the fracturing of trade ties.\nSome bright spots nevertheless emerged among European assets on Thursday — as well as some deeply negative ones."
+}

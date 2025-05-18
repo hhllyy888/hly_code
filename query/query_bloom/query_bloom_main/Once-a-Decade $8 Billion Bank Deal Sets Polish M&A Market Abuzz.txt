@@ -1,0 +1,9 @@
+{
+    "headline": "Once-a-Decade $8 Billion Bank Deal Sets Polish M&A Market Abuzz",
+    "publish_time": "2025-04-11T04:30:03.171Z",
+    "author": [
+        "Maciej Martewicz"
+    ],
+    "href": "https://www.bloomberg.com/news/newsletters/2025-04-11/santander-s-8-billion-bank-deal-sets-polish-m-a-market-abuzz",
+    "content": "Hi, this isMaciej Martewiczin Warsaw. Welcome to our weekly newsletter on what’s shaping economics and investments from the Baltic Sea to the Balkans. You cansubscribe here. We will be taking a break next week due to the Easter holiday. Eastern Europe Edition will resume on April 25.\nOne of themost covetedbanking markets in eastern Europe is offering a rare big-time entry opportunity."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Trump Sued Over US Tariffs by Conservative-backed Legal Group",
+    "publish_time": "2025-04-04T00:03:07.485Z",
+    "author": [
+        "Benjamin Bain"
+    ],
+    "href": "https://www.bloomberg.com/news/articles/2025-04-04/trump-sued-over-tariffs-by-small-us-firm-claiming-severe-harm",
+    "content": "A powerful legal group backed by conservative funding sued PresidentDonald Trump, setting up an early legal clash over the significant US tariffs his administration announced this week.\nThe New Civil Liberties Alliance saidThursdaythe president illegally imposed an emergency tariff on Chinese goods. NCLA is representing a small retail stationery business namedSimplified, which claims it will suffer “severe” harm from his “unconstitutional” tariffs on China."
+}

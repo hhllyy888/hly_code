@@ -1,0 +1,9 @@
+{
+    "headline": "Santander Confirms Targets, Sees Profitability Rising in Quarter",
+    "publish_time": "2025-04-04T06:18:31.194Z",
+    "author": [
+        "Jorge Zuloaga"
+    ],
+    "href": "https://www.bloomberg.com/news/articles/2025-04-04/santander-confirms-targets-sees-profitability-rising-in-quarter",
+    "content": "Banco Santander SAsaid it expects a key measure of profitability to rise in the first quarter, in the first indication of how Spain’s largest lender fared at the start of the year.\nSantander said on Friday that its return on tangible equity, after taking into account additional tier 1 bonds, probably rose to around 15.7% in the first three months, according to a filing ahead of its annual general meeting. The figure compares with an RoTE of 15.5% last year, according to a spokesperson, and a goal of 16.5% for this year."
+}

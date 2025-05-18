@@ -1,0 +1,9 @@
+{
+    "headline": "Oil Extends Sharp Drop After Surprise OPEC+ Hike, Trump Tariffs",
+    "publish_time": "2025-04-03T22:53:48.111Z",
+    "author": [
+        "Yongchang Chin"
+    ],
+    "href": "https://www.bloomberg.com/news/articles/2025-04-03/latest-oil-market-news-and-analysis-for-april-4",
+    "content": "Oilfell further after President Donald Trump’s tariffs and an OPEC+ decision to increase output faster than previously announced triggered the worst rout since 2022.\nBrent crude fell below $70 a barrel after plunging 6.4% on Thursday, while West Texas Intermediate was near $66. Hours after Trump’s deluge of tariffs created fresh doubts about the outlook for the global economy, OPEC and its alliestripleda planned output hike for May in what delegates described as a deliberate effort to drive down prices to punish members that were producing more than their quota."
+}

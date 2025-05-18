@@ -1,0 +1,9 @@
+{
+    "headline": "Victory Over Inflation Now Seems So Yesterday",
+    "publish_time": "2025-04-11T05:07:20.217Z",
+    "author": [
+        "John Authers"
+    ],
+    "href": "https://www.bloomberg.com/opinion/newsletters/2025-04-11/trade-war-victory-over-inflation-now-seems-so-yesterday",
+    "content": "To get John Authers’ newsletter delivered directly to your inbox,sign up here.\nIrony of ironies. On a day when the battle to save the value of the dollar in the pockets of US consumers seemed finally to be won, its value to everyone else sank.Inflation is yesterday’s news, it appears, and the currency’s fate is now driven by confidence and the uncertainties surrounding tariffs that are yet to affect prices."
+}

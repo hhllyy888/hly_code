@@ -1,0 +1,7 @@
+{
+    "headline": "None",
+    "published_time": "None",
+    "author": "None",
+    "href": "https://www.cnbc.com/2025/04/03/what-to-expect-from-trumps-tariff-policies-according-to-economists.html?&qsearchterm=tariff",
+    "content": ""
+}

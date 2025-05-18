@@ -1,0 +1,7 @@
+{
+    "headline": "Huawei charts cautious global comeback with ultra-expensive phones — but major challenges remain",
+    "published_time": "2025-03-03T23:11:56+0000",
+    "author": "Arjun Kharpal",
+    "href": "https://www.cnbc.com/2025/03/04/huawei-charts-cautious-global-comeback-but-major-challenges-remain.html?&qsearchterm=China major events",
+    "content": "key point \nHuawei has launched the Mate X6 and Mate XT trifold outside of China as it charts a cautious return to international markets.\nAt the Mobile World Congress (MWC) in Barcelona Huawei showed off its Mate XT underscoring its strategy of maintaining its brand image as an innovative company while selling high-end smartphones.\nWhile Huawei has made a comeback in China, analysts said it will not see the same success overseas, especially as it still remains cut off from Google services.\nBARCELONA — Huawei is dipping its toes back into the international smartphone market, but analysts warn the lingering effects of U.S. sanctions is likely to hamper the Chinese company's ability to compete with leaders Apple and Samsung.\nOver the past few months, Huawei has launched two key devices outside of China. The first in December was the Mate X6, a foldable smartphone, followed by the Mate XT, Huawei's 3,499 euros ($3,660) trifold phone.\nHuawei was looking to stand out from the crowd of similar-looking smartphones at the Mobile World Congress (MWC) in Barcelona, the world's biggest telecoms trade show. The Chinese firm had a large stand showing off its wares, including the Mate XT."
+}

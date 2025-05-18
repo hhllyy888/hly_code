@@ -1,0 +1,9 @@
+{
+    "headline": "The Three Women Who Want to Reshape the European Union",
+    "publish_time": "2025-04-04T08:00:13.449Z",
+    "author": [
+        "Flavia Krause-Jackson"
+    ],
+    "href": "https://www.bloomberg.com/news/articles/2025-04-04/meloni-le-pen-and-weidel-forge-different-paths-for-europe-s-right-wing",
+    "content": "Botticelli’s Three Graces stand, hands interlaced, gazing in different directions. The painting is an allegory for Spring, which lends itself to political interpretation, commissioned as it was by the Medici family. A decade ago, it might have reflected a progressive tableau.\nPolitics today would transpose onto the canvas the ever-changing faces of Giorgia Meloni, Marine Le Pen and Alice Weidel to show the evolution of Europe’s populist right. The first came to power against the odds in Italy. The secondwants to beFrench president by 2027, though a court last month banned her from standing office. The third has her eyes set on the German chancellery in 2029."
+}

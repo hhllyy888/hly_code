@@ -1,0 +1,7 @@
+{
+    "headline": "How Does Diplomacy Work Now?",
+    "publish_time": "2025-04-04T08:30:10.184Z",
+    "author": "None",
+    "href": "https://www.bloomberg.com/news/articles/2025-04-04/how-does-diplomacy-work-in-the-age-of-trump",
+    "content": "InA History of Diplomacy(Reaktion Books, 2010), historian Jeremy Black challenged the traditional take on international relations. Black, a senior fellow at the Foreign Policy Research Institute, charted the development of a global diplomatic system that is constantly evolving, shaped by domestic political agendas, conflicts, culture and new technologies. In this Next Chapter, Black revisits the subject against the backdrop of dramatic twists in the global order.\nThus British writer and politician Arthur Ponsonby offered a critique of the work of the diplomat in his 1915 bookDemocracy and Diplomacy: A Plea for Popular Control of Foreign Policy. This assessment is all-too true of so much writing about international relations: Scholars, in the cloistered calm of academic aloofness, present diplomacy as primarily the work of bureaucrats operating in a rigid system, who guard the interests of their nations with mounds of dispatches and memoranda."
+}

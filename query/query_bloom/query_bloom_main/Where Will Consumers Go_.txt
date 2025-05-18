@@ -1,0 +1,9 @@
+{
+    "headline": "Where Will Consumers Go?",
+    "publish_time": "2025-04-04T09:00:15.459Z",
+    "author": [
+        "Conor Sen"
+    ],
+    "href": "https://www.bloomberg.com/opinion/articles/2025-04-04/with-tariffs-and-inflation-where-will-consumers-go",
+    "content": "Investors crushed the stocks of consumer discretionary companies on Thursday in response to President Donald Trump’s tariff announcement, making little distinction between home goods companies such asWilliams-Sonoma Inc., apparel names includingNike Inc.or restaurants such asCheesecake Factory Inc. The concern about consumers makes sense; tariffs will squeeze already stretched household budgets and put downward pressure on a labor market that wasuneven at best.\nYet tariffs won’t affect every part of the consumption basket equally. Some categories, particularly automobiles, home furnishings and apparel, will bear the brunt of the levies, with prices on imported goods likely to soar (giving domestic producers an excuse to follow suit). Many consumer service categories, on the other hand, won’t see their costs go up much, if at all. This will be especially true for anything that’s local and labor or real estate intensive. Once the dust settles, consumers are likely to shift their spending from goods to services if tariffs remain in place at announced or similar levels."
+}

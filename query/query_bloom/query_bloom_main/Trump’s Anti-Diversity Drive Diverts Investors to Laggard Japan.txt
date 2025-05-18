@@ -1,0 +1,9 @@
+{
+    "headline": "Trump’s Anti-Diversity Drive Diverts Investors to Laggard Japan",
+    "publish_time": "2025-04-10T21:00:00.001Z",
+    "author": [
+        "Alice French"
+    ],
+    "href": "https://www.bloomberg.com/news/articles/2025-04-10/trump-s-dei-rollback-gives-japan-a-chance-to-draw-esg-inflows",
+    "content": "Japanese firms have long lagged behind their Western peers on gender equality. A US crackdown on diversity may give them a chance to shine.\nThe spotlight is falling on Japan’s companies as President Donald Trump’smovetoroll backmeasures emphasizing diversity, equality and inclusion looks set todivertESG funds to alternative destinations. That’s the cue for the Asian nation after its companies boosted the number of women directors faster than their global peers last year."
+}

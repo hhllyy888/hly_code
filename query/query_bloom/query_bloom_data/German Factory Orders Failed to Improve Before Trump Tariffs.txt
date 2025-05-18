@@ -1,0 +1,9 @@
+{
+    "headline": "German Factory Orders Failed to Improve Before Trump Tariffs",
+    "publish_time": "2025-04-04T06:12:29.032Z",
+    "author": [
+        "Alexander Weber"
+    ],
+    "href": "https://www.bloomberg.com/news/articles/2025-04-04/german-factory-orders-were-unchanged-before-trump-s-tariff-salvo",
+    "content": "Germanfactory orders unexpectedly failed to increase in February as the world economy prepared for US PresidentDonald Trumpto ratchet up import duties and upend global supply chains.\nDemandwas unchanged from January, whose drop — at 5.5% — wasn’t as big as initially thought, the statistics officesaidFriday. Analysts in a Bloombergsurveyhad estimated a 3.4% gain for February."
+}

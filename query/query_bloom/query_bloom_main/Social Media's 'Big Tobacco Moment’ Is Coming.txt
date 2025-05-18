@@ -1,0 +1,9 @@
+{
+    "headline": "Social Media's 'Big Tobacco Moment’ Is Coming",
+    "publish_time": "2025-04-11T04:00:05.548Z",
+    "author": [
+        "Parmy Olson"
+    ],
+    "href": "https://www.bloomberg.com/opinion/articles/2025-04-11/social-media-s-big-tobacco-moment-is-coming",
+    "content": "The new Bloomberg Originals documentaryCan’t Look Away,which follows parents suing tech companies after the deaths of their children, is difficult to watch. It should be. The film lays bare what many parents already know: Social media is rewiring their children’s brains, creating a generation of short attention spans and social anxiety. While viewing the film, what became clear is that tech platforms aren’t doing nearly enough to stop it — and probably never will.\nIt’s apparent simply in Meta Platforms Inc. Chief Executive Officer Mark Zuckerberg’s shift in tone. In January 2025, he stood before some of these parents at a US Senate Judiciary Committee hearingand said, “I’m sorry for everything you’ve gone through.” Before the year was out, the Facebook creator’s rhetoric had changed. Donning a gold chain and longer hair,he told an audienceof technologists “I don’t apologize anymore.”"
+}

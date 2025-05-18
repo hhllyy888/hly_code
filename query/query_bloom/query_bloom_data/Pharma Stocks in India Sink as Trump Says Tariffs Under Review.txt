@@ -1,0 +1,10 @@
+{
+    "headline": "Pharma Stocks in India Sink as Trump Says Tariffs Under Review",
+    "publish_time": "2025-04-04T05:43:53.746Z",
+    "author": [
+        "Alex Gabriel Simon",
+        "Ashutosh Joshi"
+    ],
+    "href": "https://www.bloomberg.com/news/articles/2025-04-04/pharma-stocks-in-india-sink-as-trump-says-tariffs-under-review",
+    "content": "Shares of Indian drugmakers slumped after PresidentDonald Trumpsaid US tariffs on pharmaceuticals are still under consideration.\nTheNSE Nifty Pharma Indexfell as much as 6.2% on Friday, heading for the biggest decline since March 2020. Drugmakers were the top gainers Thursday as the sector was believed to have been exempted from US import duties."
+}

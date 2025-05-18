@@ -1,0 +1,12 @@
+{
+    "headline": "OPEC+ Stuns Oil Market With Policy Shift to Drive Down Price",
+    "publish_time": "2025-04-03T18:16:50.978Z",
+    "author": [
+        "Grant Smith",
+        "Fiona MacDonald",
+        "Salma El Wardany",
+        "Nayla Razzouk"
+    ],
+    "href": "https://www.bloomberg.com/news/articles/2025-04-03/opec-stuns-oil-market-with-policy-switch-to-drive-down-prices",
+    "content": "For most of this decade, the OPEC+ alliance has been the world’s most stalwart defender of high oil prices. In just a few moments this week, that role reversed dramatically.\nIn a video conference on Thursday, the coalition of crude producers led by Saudi Arabia and Russia was expected to simply remind errant members to respect their output limits, ahead of rubber stamping its existing plan to gradually raise production."
+}

@@ -1,0 +1,10 @@
+{
+    "headline": "Three More BOE Rate Cuts Expected in 2025 Amid Trump Trade War",
+    "publish_time": "2025-04-03T16:46:48.633Z",
+    "author": [
+        "Tom Rees",
+        "James Hirai"
+    ],
+    "href": "https://www.bloomberg.com/news/articles/2025-04-03/trade-war-boosts-odds-of-boe-pushing-ahead-with-may-rate-cut",
+    "content": "US PresidentDonald Trump’s global trade war is tipping the balance at the Bank of England toward more interest-rate cuts, investors and economists say.\nMarkets on Friday morning were fully pricing in another three quarter-point rate reductions before the end of the year, following theraft of tariffsunveiled by the White House on Wednesday. Earlier in the week, only two further cuts were priced in."
+}
