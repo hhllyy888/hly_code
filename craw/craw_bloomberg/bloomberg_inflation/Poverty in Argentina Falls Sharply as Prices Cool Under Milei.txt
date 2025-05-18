@@ -1,0 +1,7 @@
+{
+    "headline": "Poverty in Argentina Falls Sharply as Prices Cool Under Milei",
+    "publish_time": "2025-03-31T19:12:34.597Z",
+    "author": "Manuela Tobias",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-31/poverty-in-argentina-falls-sharply-as-prices-cool-under-milei?srnd=phx-economics-inflation-and-prices",
+    "content": "Poverty in Argentina dropped sharply as the disinflationary effects of PresidentJavier Milei’s shock austerity program took root.\nAbout 38.1% of Argentines fell under the poverty line in the second half of last year, according to government data published Monday, down from the more than two-decade high of52.9%between January and June 2024."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Pakistan’s Inflation Slows in April Ahead of Rate Decision",
+    "published_time": "2025-05-02T08:34:30Z",
+    "chinese_publish_time": "2025-05-02T16:34:30",
+    "author": "Kamran Haider",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-02/pakistan-s-inflation-slows-in-april-ahead-of-rate-decision?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Subscribeto Economics Daily for the latest news and analysis.\nPakistan’s inflation slowed last month, though risks to price gains from global trade disruptions will likely keep the central bank cautious."
+}

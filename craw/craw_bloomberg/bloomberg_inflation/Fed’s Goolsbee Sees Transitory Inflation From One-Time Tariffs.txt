@@ -1,0 +1,7 @@
+{
+    "headline": "Fed’s Goolsbee Sees Transitory Inflation From One-Time Tariffs",
+    "publish_time": "2025-03-21T13:25:18.111Z",
+    "author": "Catarina Saraiva",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-21/fed-s-goolsbee-sees-transitory-inflation-from-one-time-tariffs?srnd=phx-economics-inflation-and-prices",
+    "content": "Supply Lines is a daily newsletter that tracks global trade.Sign up here.\nFederal Reserve Bank of Chicago PresidentAustan Goolsbeesaid the inflationary impact from tariffs could be transitory if they were limited in scope."
+}

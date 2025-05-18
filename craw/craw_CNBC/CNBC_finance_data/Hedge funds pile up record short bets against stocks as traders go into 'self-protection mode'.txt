@@ -1,0 +1,7 @@
+{
+    "headline": "Hedge funds pile up record short bets against stocks as traders go into 'self-protection mode'",
+    "published_time": "2025-04-07T19:01:54+0000",
+    "author": "Yun Li",
+    "href": "https://www.cnbc.com/2025/04/07/hedge-funds-make-record-short-bets-against-stocks-in-self-protection-mode.html",
+    "content": ""
+}

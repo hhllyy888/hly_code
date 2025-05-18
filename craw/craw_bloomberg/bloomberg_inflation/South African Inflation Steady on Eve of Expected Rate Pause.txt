@@ -1,0 +1,7 @@
+{
+    "headline": "South African Inflation Steady on Eve of Expected Rate Pause",
+    "publish_time": "2025-03-19T08:05:36.837Z",
+    "author": "Monique Vanek",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-19/south-african-inflation-steady-on-eve-of-expected-rate-pause?srnd=phx-economics-inflation-and-prices",
+    "content": "South Africa’s inflation rate flatlined on the eve of awidely expectedinterest-rate pause.\nThe consumer-price index rose 3.2% in February from a year earlier, the same as the previous month, Pretoria-based Statistics South Africa said in a statement on its website on Wednesday. The median of 17 estimates in aBloomberg surveyof economists was 3.4%."
+}

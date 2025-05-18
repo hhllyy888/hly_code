@@ -1,0 +1,9 @@
+{
+    "headline": "US bank regulators pull back guardrails on bank crypto activities",
+    "published_time": "2025-04-25T08:55:46Z",
+    "chinese_publish_time": "2025-04-25T16:55:46",
+    "author": "Pete Schroeder",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/us-bank-regulators-pull-back-guardrails-bank-crypto-activities-2025-04-24/",
+    "source": "Reuters",
+    "content": "WASHINGTON, April 24 (Reuters) - U.S. banking regulators announced on Thursday they were pulling back several documents that urge banks to show caution when dabbling in cryptocurrency and related activities.\nThe Federal Reserve said it was withdrawing a pair of supervisory letters stipulating that banks should seek advance approval from regulators before engaging in crypto-asset and stablecoin activities.\nIn addition, the Fed joined the Federal Deposit Insurance Corporation and Office of the Comptroller of the Currency in withdrawing a pair of 2023 statements urging banks to be vigilant around crypto-related risks.\nUnder the prior guidance, regulators warned banks to be wary of volatility, legal uncertainty and liquidity risks when considering whether to provide crypto-related services or take on crypto companies as clients.\nScrapping that guidance marks the latest move by the Trump administration to strike a more crypto-friendly stance. In its statement announcing the changes, the Fed said regulators would be looking into whether new guidance to \"support innovation, including crypto-asset activities, is appropriate.\"\nIn March, the OCC was the first US regulator to move to make it easier for banks to engage in crypto activities, similarly moving to scrap guidance adopted under the previous administration urging banks to be cautious in the space."
+}

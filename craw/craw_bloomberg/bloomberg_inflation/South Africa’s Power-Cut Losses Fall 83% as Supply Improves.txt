@@ -1,0 +1,7 @@
+{
+    "headline": "South Africa’s Power-Cut Losses Fall 83% as Supply Improves",
+    "publish_time": "2025-03-18T12:19:42.256Z",
+    "author": "Paul Burkhardt",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-18/south-africa-s-power-cut-losses-plummet-83-as-supply-stabilizes?srnd=phx-economics-inflation-and-prices",
+    "content": "The cost of power cuts to South Africa’s economy plunged 83% last year as supply stabilized, a Council for Scientific and Industrial Researchreportshowed.\nThe economy forfeited 481 billion rand ($26.7 billion) in output due to the outages, known locally as loadshedding, down from as much as 2.9 trillion rand in 2023 when there were record blackouts, according to the report released Monday.Gross domestic producttotaled 4.7 trillion rand last year, 0.6% more than in 2023, according to the state statistics agency."
+}

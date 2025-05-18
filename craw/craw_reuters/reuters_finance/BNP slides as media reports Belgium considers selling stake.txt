@@ -1,0 +1,9 @@
+{
+    "headline": "BNP slides as media reports Belgium considers selling stake",
+    "published_time": "2025-04-02T08:58:28Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/bnp-slides-media-reports-belgium-considers-selling-stake-2025-04-02/",
+    "content": "April 2 (Reuters) - Shares in BNP Paribas (BNPP.PA), opens new tab fell after French financial media Les Echos on Tuesday reported the Belgian government is considering selling its shares to set up a defence fund.\nShares in the French lender were down 2.6% around 0816 GMT, while the European Stoxx banking index (.SX7P), opens new tab shed 1.1%. Traders attributed BNP's sharper selloff to the report of the possible Belgian sale.\nThe stock had been boosted by a 32.5% rise since the beginning of the year, as of Tuesday's close, peaking at an 18-year high last week.\nThrough its financial arm, SFPIM, Belgium currently holds a 5.6% stake in the French lender, following the group's acquisition of Fortis Bank Belgium in 2009.\nThe Belgian government didn't immediately reply to a request for comment.\nAt current market value, the disposal of the 63.3 million shares would be valued at around 4.84 billion euros ($5.22 billion).\nBelgium is looking for options to fund its planned increase in defence spending, in order to reach 2% of its gross domestic product this year, the minimum level agreed among NATO allies.\n($1 = 0.9269 euros)"
+}

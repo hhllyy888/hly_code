@@ -1,0 +1,7 @@
+{
+    "headline": "Stock volatility poses an 'opportunity,' investment analyst says. Here's why",
+    "published_time": "2025-03-21T18:40:50+0000",
+    "author": "Greg Iacurci",
+    "href": "https://www.cnbc.com/2025/03/21/why-stock-volatility-poses-an-opportunity-investment-analyst.html",
+    "content": "key point \nThe S&P 500 has wobbled in 2025. The U.S. stock index briefly touched correction territory last week.\nInvestors can take advantage of such selloffs by buying stocks at a discount, financial experts say.\nInvestors should be mindful of their overall stock/bond allocations when doing so.\nVolatility often sends investors running for the hills.\nBut gyrations are a feature — not a bug — of the stock market. Savvy investors can take advantage of a downturn by leaning into the pain, according to financial experts.\nThey point to the recent pullback in U.S. stocks as a chance to buy stocks on the cheap.\n\"Volatility — and opportunity — have arrived,\" Austin Pickle, an investment strategy analyst at the Wells Fargo Investment Institute, wrote in a note on Monday.\nMore from Personal Finance:Tariffs are 'simply inflationary,' economist saysJudge bars Musk's DOGE team from Social Security recordsTrump: student loans will be handled by Small Business Administration\nThe S&P 500 briefly fell into a correction last week, meaning the U.S. stock index was down 10% from its recent peak.\nThe index was fighting Friday to avoid its fifth-straight week of losses, which would be its worst losing streak since 2022. The S&P 500 is down 4% for the year."
+}

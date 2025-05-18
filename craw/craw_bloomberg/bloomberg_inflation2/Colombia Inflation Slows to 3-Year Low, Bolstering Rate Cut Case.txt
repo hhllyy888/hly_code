@@ -1,0 +1,9 @@
+{
+    "headline": "Colombia Inflation Slows to 3-Year Low, Bolstering Rate Cut Case",
+    "published_time": "2025-04-07T23:12:00Z",
+    "chinese_publish_time": "2025-04-08T07:12:00",
+    "author": "Oscar Medina",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-07/colombia-inflation-slows-to-3-year-low-bolstering-rate-cut-case?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Colombianinflationslowed for the first time in four months, potentially bolstering the arguments of the minority on the central board who last week voted to restart interest rate cuts.\nConsumer pricesrose 5.09% in March from the same month a year earlier, the statistics agency said Monday, the slowest pace since late 2021. That was lower than the 5.12% median forecast of analysts surveyed by Bloomberg."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Euro zone bank lending continued to pick up before tariffs, ECB data shows",
+    "published_time": "2025-04-29T08:14:45Z",
+    "chinese_publish_time": "2025-04-29T16:14:45",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/euro-zone-bank-lending-continued-pick-up-before-tariffs-ecb-data-shows-2025-04-29/",
+    "source": "Reuters",
+    "content": "FRANKFURT, April 29 (Reuters) - Lending growth to euro zone businesses continued to accelerate in March, indicating that a series of interest rate cuts was bolstering activity before the United States launched a global trade war, European Central Bank data showed on Tuesday.\nLending to euro area firms expanded by 2.3% in March after a 2.0% reading a month earlier, its highest level since the middle of 2023. Household lending meanwhile expanded by 1.7% after 1.5% in February, a close to two-year high.\nHowever, growth in the M3 measure of money circulating in the bloc, often an indicator of future economic activity, slowed to 3.6% in March from 3.9% a month earlier, trailing expectations for 4.0%."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves midday: Nvidia, ASML, Advanced Micro Devices and more",
+    "published_time": "2025-04-16T16:50:44Z",
+    "chinese_publish_time": "2025-04-17T00:50:44",
+    "author": "Lisa Kailai Han",
+    "url": "https://www.cnbc.com/2025/04/16/stocks-making-the-biggest-moves-midday-nvda-asml-amd.html",
+    "source": "CNBC",
+    "content": ""
+}

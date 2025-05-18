@@ -1,0 +1,7 @@
+{
+    "headline": "UK Food Inflation at Nine-Month High Puts Pressure on Labour",
+    "publish_time": "2025-03-31T23:01:00.001Z",
+    "author": "Tom Rees",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-31/uk-food-inflation-at-nine-month-high-adds-to-pressure-on-labour?srnd=phx-economics-inflation-and-prices",
+    "content": "The rising price of store cupboard staples and alcoholic drinks has lifted UK food inflation to a nine-month high, as the country’s Labour government faces growing political pressure over living costs.\nThe British Retail Consortium said Tuesday that food prices climbed 2.4% in the year to March, faster than the 2.1% increase previously. The cost of ambient food — such as tins, cans and jars kept at room temperature — jumped 3.7%, a sharp acceleration from a 2.8% increase in February."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "UniCredit CEO says bank complying with ECB's requests on Russia",
+    "published_time": "2025-03-27T12:38:53Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/unicredit-ceo-says-bank-complying-with-ecbs-requests-russia-2025-03-27/",
+    "content": "MILAN, March 27 (Reuters) - UniCredit (CRDI.MI), opens new tab is compliant with demands by the European Central Bank on the reduction of its Russian business, and even ahead of some of the supervisors' requests, CEO Andrea Orcel said on Thursday.\n\"We're fully compliant,\" Orcel said answering a question by a shareholder at the annual meeting.\nUniCredit has challenged in court an ECB decision that set stringent deadlines for the reduction of UniCredit's Russian business, saying that complying with the ECB's demands could lead the bank to break Russian law and international sanctions.\nUniCredit said in February, when it published full-year results, that cross-border payments it handled with Russia had risen 8% in the fourth quarter to 9.8 billion euros due to one-off debt repayments from western companies."
+}

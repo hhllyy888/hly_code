@@ -1,0 +1,9 @@
+{
+    "headline": "European bank shares on course for bear market",
+    "published_time": "2025-04-07T07:17:15Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/european-bank-shares-extend-losses-fear-tariff-induced-recession-2025-04-07/",
+    "content": "April 7 (Reuters) - An index of European banking <.SX7P shares fell 4.8% on Monday, falling more than 20% from recent closing high and leaving it on course to confirm it is in a bear market.\nThe decline extended into a third day as U.S. President Donald Trump's sweeping tariffs ignited fears of an all-out trade war and a global economic recession.\nTogether with the losses over the past two trading days, the index had fallen by more than 18% on Monday.\nGermany's Commerzbank (CBKG.DE), opens new tab, Deutsche Bank (DBKGn.DE), opens new tab, France's Credit Agricole (CAGR.PA), opens new tab, Societe Generale (SOGN.PA), opens new tab, BNP Paribas (BNPP.PA), opens new tab were all down between 9% and 10%.\nBritain's Barclays (BARC.L), opens new tab was down 9%, HSBC (HSBA.L), opens new tab dropped around 5%.\nBanking stocks elsewhere also tanked, with an index of Japanese bank stocks plunging as much as 17%."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Kushner's Affinity's assets jump to $4.8 billion after Gulf cash injection",
+    "published_time": "2025-03-28T16:35:48Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/kushners-affinitys-assets-jump-48-billion-after-gulf-cash-injection-2025-03-28/",
+    "content": "LONDON, March 28 (Reuters) - Jared Kushner's investment company Affinity Partners saw assets under management jump 60% last year to $4.8 billion, according to a regulatory filing, after it received a cash injection from Middle East investors including Qatar's sovereign wealth fund.\nKushner, son-in-law of U.S. President Donald Trump, launched the investment firm in 2021 after leaving the White House at the end of President Donald Trump's first term, when he was a top adviser on the Middle East.\nAffinity secured $1.5 billion of extra capital in 2024 from two of its existing investors - Abu Dhabi-based Lunate and Qatar's sovereign wealth fund the Qatar Investment Authority - Kushner told an investment podcast in December.\nHe said the increased capital would give the fund \"more firepower\" and had been closed before Trump was re-elected for a second term.\nThat injection helped lift its assets under management to $4.8 billion by the end of 2024, up from $3 billion the prior year, according to filings with the U.S. Securities and Exchange Commission under the company name A Fin Management LLC.\nThe sole owner of the company is Jared Kushner, the filing said.\nSaudi Arabia has invested $2 billion in Affinity Partners, according to congressional investigators."
+}

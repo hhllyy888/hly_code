@@ -1,0 +1,7 @@
+{
+    "headline": "JPMorgan says it’s finally time to buy the Chinese consumer recovery",
+    "published_time": "2025-03-30T13:09:11+0000",
+    "author": "Evelyn Cheng",
+    "href": "https://www.cnbc.com/2025/03/30/jpmorgan-says-its-time-to-buy-the-chinese-consumer-recovery.html",
+    "content": ""
+}

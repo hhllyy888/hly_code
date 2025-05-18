@@ -1,0 +1,9 @@
+{
+    "headline": "Germany finance regulator: banks strong but uncertainty high",
+    "published_time": "2025-05-07T08:02:26Z",
+    "chinese_publish_time": "2025-05-07T16:02:26",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/germany-finance-regulator-banks-strong-uncertainty-high-2025-05-07/",
+    "source": "Reuters",
+    "content": "FRANKFURT, May 7 (Reuters) - Mark Branson, the president of Germany's bank watchdog BaFin, said on Wednesday that the nation's financial firms were in a strong position but that uncertainty would remain extremely high.\n\"The possibility that problems in the non-banking sector have an impact on banks cannot be ruled out just because we have weathered the turbulence well so far,\" Branson said."
+}

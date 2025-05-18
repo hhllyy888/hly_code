@@ -1,0 +1,9 @@
+{
+    "headline": "Prices are falling on some purchases. 'Enjoy,' economist says: 'They're not here to stay'",
+    "published_time": "2025-05-06T10:30:01Z",
+    "chinese_publish_time": "2025-05-06T18:30:01",
+    "author": "Greg Iacurci",
+    "url": "https://www.cnbc.com/2025/05/06/airfare-produce-and-tvs-which-prices-are-falling-for-consumers.html",
+    "source": "CNBC",
+    "content": "key point \nConsumers are seeing prices fall in certain pockets of the U.S. economy, even as the overall inflation rate remains elevated.\nAirline fares, produce, consumer electronics and energy are among the broad categories seeing declines, according to the consumer price index.\nPresident Donald Trump said Friday that gasoline prices had dipped to $1.98 per gallon. However, that claim isn't true: The retail gas price is more than $3 a gallon.\nEven though inflation hasn't yet declined to policymakers' target level, some pockets of the U.S. economy have seen prices fall recently.\nConsumers have seen prices deflate for airfare, produce, household goods, electronics and gasoline, for example, according to the consumer price index, an inflation gauge. (Deflation is when prices decline, while disinflation is when prices continue to grow but at a slower pace.)\n\"There are a lot of idiosyncratic factors affecting certain categories,\" said Ryan Sweet, chief U.S. economist at Oxford Economics. \"In the end, it's supply and demand that will affect prices.\""
+}

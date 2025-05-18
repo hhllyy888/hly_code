@@ -1,0 +1,9 @@
+{
+    "headline": "Lyft to buy taxi app FreeNow for $200 million to expand into Europe",
+    "published_time": "2025-04-16T11:30:01Z",
+    "chinese_publish_time": "2025-04-16T19:30:01",
+    "author": "Ryan Browne",
+    "url": "https://www.cnbc.com/2025/04/16/lyft-to-buy-taxi-app-free-now-for-200-million-to-expand-into-europe.html",
+    "source": "CNBC",
+    "content": "key point \nRide-hailing firm Lyft is buying European taxi app FreeNow for $199 million.\nThe acquisition — Lyft's first in Europe — is expected to close in the second half of 2025.\nEurope is a highly competitive ride-hailing market, occupied by the likes of Uber, Bolt and Gett.\nU.S. ride-hailing firm Lyft on Wednesday announced that it's buying European taxi app FreeNow in a 175 million euro ($199 million) deal.\nThe company said that the acquisition — Lyft's first in Europe — is expected to close in the second half of 2025, and that, once combined, the two companies will serve over 50 million combined annual users.\nFounded in 2009 as myTaxi, FreeNow is a ride-hailing platform headquartered in Hamburg, Germany. The company has been jointly owned by German automotive giants BMW and Mercedes-Benz since 2019.\nThe app is available in over 150 cities across nine countries, including Ireland, the U.K., Germany and France. Beyond traditional taxi and ride-hailing services, FreeNow also offers other mobility options including e-scooters, e-mopeds and e-bikes."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "British finance minister Reeves to hold tariff crisis talks with top executives, Sky News reports",
+    "published_time": "2025-04-08T20:27:48Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/world/uk/british-finance-minister-reeves-hold-tariff-crisis-talks-with-top-executives-sky-2025-04-08/",
+    "content": "April 8 (Reuters) - British finance minister Rachel Reeves will hold talks with bosses from companies including Hargreaves Lansdown, Legal & General (LGEN.L), opens new tab, Lloyds Banking Group (LLOY.L), opens new tab and M&G (MNG.L), opens new tab amid ongoing volatility in global financial markets, Sky News reported on Tuesday.\nThe finance ministry declined to comment on the report.\nThis comes as Reeves on Tuesday said she would meet U.S. Treasury Secretary Scott Bessent soon as part of broader talks over a new economic partnership that London hopes will reduce its tariff levy.\nU.S. President Donald Trump imposed a 10% tariff on most imports from Britain and a 25% tariff on key sectors such as cars and steel."
+}

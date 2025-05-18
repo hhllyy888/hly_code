@@ -1,0 +1,9 @@
+{
+    "headline": "French bank Societe Generale selects William Connelly as new chairman",
+    "published_time": "2025-04-11T10:31:42Z",
+    "chinese_publish_time": "2025-04-11T18:31:42",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/french-bank-societe-generale-lines-up-william-connelly-new-chairman-2025-04-10/",
+    "source": "Reuters",
+    "content": "PARIS, April 10 (Reuters) - (This April 10 story has been corrected to say that Slawomir Krupa was named CEO in 2023, not 2024, in paragraph 4)\nSociete Generale (SOGN.PA), opens new tab has selected William Connelly to be chairman of the board of directors starting May 2026, subject to his renewal as a director by the general meeting on May 20, the French bank said on Thursday.\nConnelly, a member of the board of directors since 2017, chairs the risk committee and is a member of the nomination and corporate governance committee.\nHe will succeed Lorenzo Smaghi, who has been chairman since 2015. Smaghi’s mandate as chairman, set to expire in 2026, cannot be extended without him losing his independent status.\nSociete Generale had named Slawomir Krupa as CEO in 2023, completing a succession process that Smaghi helped to drive after the long tenure of Frédéric Oudéa and paving the way for a new leadership duo at the group.\nConnelly, who holds French citizenship, started his career in 1980 at Chase Manhattan Bank. He held senior roles in corporate and investment banking before joining ING, where he led the group's wholesale banking operations from 2011 to 2016."
+}

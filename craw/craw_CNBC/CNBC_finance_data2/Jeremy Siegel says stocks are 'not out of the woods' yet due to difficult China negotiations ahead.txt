@@ -1,0 +1,9 @@
+{
+    "headline": "Jeremy Siegel says stocks are 'not out of the woods' yet due to difficult China negotiations ahead",
+    "published_time": "2025-04-10T12:10:27Z",
+    "chinese_publish_time": "2025-04-10T20:10:27",
+    "author": "Yun Li",
+    "url": "https://www.cnbc.com/2025/04/10/jeremy-siegel-says-stocks-are-not-out-of-the-woods-yet-due-to-difficult-china-negotiations-ahead.html",
+    "source": "CNBC",
+    "content": ""
+}

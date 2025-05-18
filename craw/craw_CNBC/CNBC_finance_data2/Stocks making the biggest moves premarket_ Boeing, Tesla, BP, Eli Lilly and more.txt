@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Boeing, Tesla, BP, Eli Lilly and more",
+    "published_time": "2025-04-23T12:29:44Z",
+    "chinese_publish_time": "2025-04-23T20:29:44",
+    "author": "Sean Conlon",
+    "url": "https://www.cnbc.com/2025/04/23/stocks-making-the-biggest-moves-premarket-ba-tsla-bp-lly.html",
+    "source": "CNBC",
+    "content": ""
+}

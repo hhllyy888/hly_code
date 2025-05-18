@@ -1,0 +1,9 @@
+{
+    "headline": "Northvolt bankruptcy trustee secures agreement for scaled-down operation",
+    "published_time": "2025-03-31T13:41:38Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/autos-transportation/northvolt-bankruptcy-trustee-secures-agreement-scaled-down-operation-2025-03-31/",
+    "content": "COPENHAGEN, March 31 (Reuters) - Northvolt's bankruptcy trustee said on Monday it had reached an agreement in principle with key stakeholders in the electric vehicle battery maker for financial guarantees allowing the company to maintain a scaled-down continuation of operations.\nNorthvolt filed for bankruptcy in Sweden on March 12, marking it one of the country's largest corporate failures and effectively ending Europe's best hope of developing a rival to challenge China.\nThe scaled-back operation within the framework of the bankruptcy will employ around 1,700 of the company's staff, Mikael Kubu at judicial reorganisation specialists Ackordscentralen said in a statement.\nHe said that some additional people would be employed in foreign subsidiaries, without specifying any details.\nNorthvolt had around 5,000 employees when it filed for bankruptcy.\n\"Despite major cutbacks, it is positive that the business can continue to some extent, which is probably crucial for being able to sell the business in whole or in part,\" Kubu said.\nThe agreement will be formalised in the coming days, he added."
+}

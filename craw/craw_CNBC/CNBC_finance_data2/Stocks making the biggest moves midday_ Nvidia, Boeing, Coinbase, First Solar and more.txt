@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves midday: Nvidia, Boeing, Coinbase, First Solar and more",
+    "published_time": "2025-05-13T17:18:25Z",
+    "chinese_publish_time": "2025-05-14T01:18:25",
+    "author": "Michelle Fox",
+    "url": "https://www.cnbc.com/2025/05/13/stocks-making-the-biggest-moves-midday-nvda-ba-coin-fslr-and-more.html",
+    "source": "CNBC",
+    "content": ""
+}

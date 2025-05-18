@@ -1,0 +1,9 @@
+{
+    "headline": "Deutsche Bank: Kirsty Roth, Klaus Moosmayer proposed to join supervisory board",
+    "published_time": "2025-03-31T14:39:12Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/deutsche-bank-kirsty-roth-klaus-moosmayer-proposed-join-supervisory-board-2025-03-31/",
+    "content": "March 31 (Reuters) - Deutsche Bank (DBKGn.DE), opens new tab said on Monday that Kirsty Roth and Klaus Moosmayer have been proposed to join the German bank's supervisory board in a vote at the upcoming annual shareholder meeting on May 22.\nRoth is chief operations and technology officer at Thomson Reuters (TRI.TO), opens new tab, the owner of Reuters News, while Klaus Moosmayer has been chief ethics, risk & compliance officer at Novartis (NOVN.S), opens new tab, Deutsche said in a statement.\nThe two are set to fill positions on the non-executive board to be left vacant by Theodor Weimer and Dagmar Valcarcel, whose current terms are expiring, the bank added.\nChange is also under way at the lender's executive board. Deutsche Bank last Friday extended CEO Christian Sewing's contract, while its finance chief and another top executive will depart as part of a management revamp.\nNovartis earlier on Monday said that Moosmayer had decided to leave the Swiss drugmaker and that its Chief Legal Officer Karen Hale would take on Moosmayer's responsibilities on April 14, in addition to her current role."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "EU antitrust regulators to rule on Unicredit's Banco BPM bid by June 4",
+    "published_time": "2025-05-02T21:19:38Z",
+    "chinese_publish_time": "2025-05-03T05:19:38",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-antitrust-regulators-rule-unicredits-banco-bpm-bid-by-june-4-2025-05-02/",
+    "source": "Reuters",
+    "content": "BRUSSELS, May 2 (Reuters) - EU antitrust regulators will rule on Italian bank UniCredit's (CRDI.MI), opens new tab takeover bid for its smaller rival Banco BPM (BAMI.MI), opens new tab by June 4, according to a filing on the European Commission website.\nUniCredit's offer, which runs until June 23, has already been rejected by Banco BPM as too low.\nThe EU competition watchdog can approve the bid with or without remedies at the end of its preliminary review or it can open a four-month-long investigation if it has serious concerns.\nThe Italian government has used its 'golden power' to impose conditions on the deal."
+}

@@ -1,0 +1,7 @@
+{
+    "headline": "Inflation More Urgent Tariff Issue Right Now, Fed’s Kugler Says",
+    "publish_time": "2025-04-07T16:11:07.543Z",
+    "author": "Amara Omeokwe",
+    "href": "https://www.bloomberg.com/news/articles/2025-04-07/fed-s-kugler-says-inflation-more-urgent-tariff-issue-right-now?srnd=phx-economics-inflation-and-prices",
+    "content": "Federal Reserve GovernorAdriana Kuglersaid President Donald Trump’s trade policy currently has more pressing implications for inflation than for economic growth.\nKugler said consumers’ moves to purchase products before newly announced tariffs take effect may be offering support for economic activity in early 2025, while there are signs the changes in trade policy are already putting some upward pressure on prices."
+}

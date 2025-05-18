@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves premarket: United Airlines, Nvidia, Tesla, Travelers and more",
+    "published_time": "2025-04-16T12:20:17Z",
+    "chinese_publish_time": "2025-04-16T20:20:17",
+    "author": "Brian Evans",
+    "url": "https://www.cnbc.com/2025/04/16/stocks-making-the-biggest-moves-premarket-ual-nvda-tsla-trv-and-more.html",
+    "source": "CNBC",
+    "content": ""
+}

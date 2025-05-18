@@ -1,0 +1,9 @@
+{
+    "headline": "Santander UK lines up ex-Treasury chief Tom Scholar as new chair, Sky News reports",
+    "published_time": "2025-04-05T09:05:27Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/world/uk/santander-uk-lines-up-ex-treasury-chief-tom-scholar-new-chair-sky-news-reports-2025-04-05/",
+    "content": "April 5 (Reuters) - The UK arm of Spain's Banco Santander (SAN.MC), opens new tab, (SANS_pa.L), opens new tab is lining up Tom Scholar, the former permanent secretary to the Treasury, as the company's next chairman, Sky News reported on Saturday citing insiders.\nThe company's board chair William Vereker announced his intention to step down in late January this year.\nSantander UK did not confirm if Scholar was lined up to be the next chairman, saying that it is \"conducting a thorough appointment process\" and that the new chair would be announced once the process was completed.\nVereker's resignation came at a time when Santander UK is booking subpar profitability compared to the bank's overall returns amid market concerns about the higher costs of business borne by banks in Britain compared to other countries.\nSantander, which first entered the British market in 2004 when it bought Abbey National, said in March it would close 95 of its 444 branches in June, affecting 750 jobs."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Should investors dump U.S. stocks for international equities? Here's what experts are saying",
+    "published_time": "2025-04-17T16:54:52Z",
+    "chinese_publish_time": "2025-04-18T00:54:52",
+    "author": "Greg Iacurci, Jessica Dickler",
+    "url": "https://www.cnbc.com/2025/04/17/us-stocks-international-stocks-trump-tariffs.html",
+    "source": "CNBC",
+    "content": "key point \nU.S. stocks had been outperforming the world for years heading into 2025.\nNow, some investors are changing their investment strategy to boost their international exposure.\nAlthough global diversification may be a good move as U.S. markets come under pressure, CNBC Financial Advisor Council members caution against chasing returns.\nSome investors accustomed to the dominance of U.S. stocks versus the rest of the world are making a stunning pivot toward international equities, fearing U.S. assets may have taken on more risk amid escalating trade tensions initiated by President Donald Trump.\nThe S&P 500 sank more than 6% since Trump first announced his tariff plan, while the Dow and Nasdaq have each tumbled more than 7%.\nThere was a strong argument to dial back U.S. stock holdings and adopt a more global portfolio even before the recent volatility, said Christine Benz, director of personal finance and retirement planning for Morningstar.\n\"But I think the case for international diversification is even greater [now], given recent developments,\" she said.\nJacob Manoukian, head of U.S. investment strategy at J.P. Morgan Private Bank, offered a similar assessment. \"Global diversification seems like a prudent strategy,\" he wrote in a research note on Monday."
+}

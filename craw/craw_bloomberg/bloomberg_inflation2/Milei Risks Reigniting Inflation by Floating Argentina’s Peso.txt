@@ -1,0 +1,9 @@
+{
+    "headline": "Milei Risks Reigniting Inflation by Floating Argentina’s Peso",
+    "published_time": "2025-04-16T12:00:00Z",
+    "chinese_publish_time": "2025-04-16T20:00:00",
+    "author": "Ignacio Olivera Doll",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-16/milei-risks-reigniting-inflation-by-floating-argentina-s-peso-usd-ars?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Lea la nota en español\nEvery morning, Carlos Abons and his six employees visit hardware stores around Buenos Aires, delivering electrical supplies and encouraging customers to place new orders with his family-run business. But this Monday was different for them."
+}

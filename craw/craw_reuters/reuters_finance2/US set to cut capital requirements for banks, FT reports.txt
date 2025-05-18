@@ -1,0 +1,9 @@
+{
+    "headline": "US set to cut capital requirements for banks, FT reports",
+    "published_time": "2025-05-15T16:13:07Z",
+    "chinese_publish_time": "2025-05-16T00:13:07",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/us-poised-cut-capital-requirements-banks-ft-reports-2025-05-15/",
+    "source": "Reuters",
+    "content": "May 15 (Reuters) - U.S. authorities are preparing to announce one of the biggest cuts in capital requirements for banks in more than a decade, the Financial Times reported on Thursday.\nRegulators were poised to reduce the supplementary leverage ratio (SLR) in the next few months, the newspaper reported, citing several people familiar with the matter.\nThe SLR is a rule that requires big U.S. banks to keep an extra layer of loss-absorbing capital.\nThe U.S. banking industry is optimistic that regulators will soon move to change how much capital they set aside against typically safe investments, particularly after the turmoil in Treasury markets last month.\nA move to revamp the SLR could reduce the amount of cash banks must reserve, freeing them up for more lending or other activities, and could incentivize banks to play a larger role in intermediating Treasury markets.\nU.S. regulators have flagged the SLR as meriting reconsideration and are mulling whether to tweak the rule's formula to reduce big banks' burdens or provide relief for extremely safe investments, such as treasuries.\nThe Federal Reserve, Federal Deposit Insurance Corporation and the Office of the Comptroller of the Currency declined to Reuters requests for comment."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves midday: Apple, Alibaba, Palantir Technologies and more",
+    "published_time": "2025-04-14T16:34:33Z",
+    "chinese_publish_time": "2025-04-15T00:34:33",
+    "author": "Sean Conlon",
+    "url": "https://www.cnbc.com/2025/04/14/stocks-making-the-biggest-moves-midday-aapl-baba-pltr.html",
+    "source": "CNBC",
+    "content": ""
+}

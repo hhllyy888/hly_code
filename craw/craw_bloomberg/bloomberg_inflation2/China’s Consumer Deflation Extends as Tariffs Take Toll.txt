@@ -1,0 +1,9 @@
+{
+    "headline": "China’s Consumer Deflation Extends as Tariffs Take Toll",
+    "published_time": "2025-05-10T01:56:57Z",
+    "chinese_publish_time": "2025-05-10T09:56:57",
+    "author": "None",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-10/china-s-consumer-deflation-extends-in-april-as-tariffs-take-toll?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Supply Lines is a daily newsletter that tracks global trade.Sign up here.\nChina’s consumer deflation extended for a third month in April as punitive tariffs imposed by the US add to a drag on prices from weak domestic demand."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves premarket: JPMorgan Chase, Newmont, Wells Fargo and more",
+    "published_time": "2025-04-11T12:11:54Z",
+    "chinese_publish_time": "2025-04-11T20:11:54",
+    "author": "Sean Conlon",
+    "url": "https://www.cnbc.com/2025/04/11/stocks-making-the-biggest-moves-premarket-jpm-nem-wfc.html",
+    "source": "CNBC",
+    "content": ""
+}

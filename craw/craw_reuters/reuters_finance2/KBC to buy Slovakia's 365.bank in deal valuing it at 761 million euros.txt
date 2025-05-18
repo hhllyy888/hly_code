@@ -1,0 +1,9 @@
+{
+    "headline": "KBC to buy Slovakia's 365.bank in deal valuing it at 761 million euros",
+    "published_time": "2025-05-15T17:28:07Z",
+    "chinese_publish_time": "2025-05-16T01:28:07",
+    "author": "Jakob Van Calster, Mateusz  Rabiega",
+    "url": "https://www.reuters.com/business/finance/kbc-buy-slovakias-365bank-deal-valuing-it-761-million-euros-2025-05-15/",
+    "source": "Reuters",
+    "content": "May 15 (Reuters) - Belgian bank KBC Groep (KBC.BR), opens new tab said on Thursday it has reached a cash agreement to acquire 98.45% of 365.bank, in a deal valuing the Slovakia-based lender at 761 million euros ($852 million).\nKBC said the acquisition will help strengthen its presence in Slovakia and the Central and Eastern Europe region, and is its biggest deal since it acquired Raiffeisen Bank's (RBIV.VI), opens new tab Bulgarian operations in the summer of 2022.\n\"Our goal has always been and remains to strengthen our presence in Central and Eastern Europe ... Through this acquisition, we strengthen our geographical diversification (and) we continue to build market leadership in Slovakia,\" KBC CEO Johan Thijs said in a statement.\nThijs had told Reuters in February that he was keen to expand KBC's business in this area.\nThe offer represented a 1.4 multiple of 365.bank's book value by December 2024 and is expected to be finalised by the end of the year, pending regulatory approval, KBC said.\nThe deal would push ČSOB, KBC's wholly-owned subsidiary and the largest bank by assets in neighbouring Czech Republic, to a market share in Slovakia of around 16%.\nThe transaction would have an effect of about 50 basis points on KBC's common equity tier-1 ratio, which stood at 14.5% in the first quarter as the bank reiterated its ambition to be amongst the best-capitalised financial institutions in Europe.\n($1 = 0.8935 euros)"
+}

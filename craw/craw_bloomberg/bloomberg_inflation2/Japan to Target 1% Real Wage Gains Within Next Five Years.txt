@@ -1,0 +1,9 @@
+{
+    "headline": "Japan to Target 1% Real Wage Gains Within Next Five Years",
+    "published_time": "2025-05-14T10:33:59Z",
+    "chinese_publish_time": "2025-05-14T18:33:59",
+    "author": "Erica Yokoyama",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-14/japan-aims-to-achieve-1-real-wage-gains-within-next-five-years?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "The Japanese government is likely to establish 1% growth in real wages as its first-ever official target for pay increases, a move that comes as prolonged inflation continues to exert a drag on domestic demand.\nThe government will set a goal of reaching 1% annual gains in real wages by the fiscal year starting in April 2029, according to a policy draft by Prime MinisterShigeru Ishiba’s new capitalism panel released Wednesday. The goal is based on the premise that stable and sustainable 2% inflation is in place."
+}

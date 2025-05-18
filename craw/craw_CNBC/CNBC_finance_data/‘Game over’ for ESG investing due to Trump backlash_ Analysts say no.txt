@@ -1,0 +1,7 @@
+{
+    "headline": "‘Game over’ for ESG investing due to Trump backlash? Analysts say no",
+    "published_time": "2025-03-31T13:00:02+0000",
+    "author": "Greg Iacurci",
+    "href": "https://www.cnbc.com/2025/03/31/trumps-backlash-isnt-game-over-for-esg-investing.html",
+    "content": "key point \nESG funds have suffered outflows for two consecutive years, partly due to political blowback.\nInvestment analysts say \"environmental, social and governance\" funds are here to stay despite headwinds. \nCritics say ESG investing is akin to \"woke\" capitalism. Advocates say it delivers better long-term returns for investors. \nInvestors have pulled money from so-called ESG funds in recent years, amid political backlash, high interest rates and other headwinds.\nBut analysts say the outlook and long-term investment thesis for the fund category, which stands for \"environmental, social and governance,\" are favorable.\nPresident Donald Trump's agenda \"isn't 'game over' for ESG investing,\" Diana Iovanel, a senior markets economist at Capital Economics, wrote in a research note on Tuesday.\nDemand for ESG investments \"is here to stay\" even in the face of political pressure, Iovanel wrote."
+}

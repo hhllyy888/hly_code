@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Microsoft, CVS Health, Meta Platforms, Qualcomm and more",
+    "published_time": "2025-05-01T12:13:15Z",
+    "chinese_publish_time": "2025-05-01T20:13:15",
+    "author": "Lisa Kailai Han",
+    "url": "https://www.cnbc.com/2025/05/01/stocks-making-the-biggest-moves-premarket-msft-cvs-meta-qcom.html",
+    "source": "CNBC",
+    "content": ""
+}

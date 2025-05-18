@@ -1,0 +1,7 @@
+{
+    "headline": "Japan to See Most Price Hikes for Food Products in 18 Months",
+    "publish_time": "2025-03-31T07:43:48.656Z",
+    "author": "Brian Fowler",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-31/japan-to-see-most-price-hikes-for-food-products-in-18-months?srnd=phx-economics-inflation-and-prices",
+    "content": "Japanese food and beverage companies will raise prices on more than 4,000 products starting Tuesday to offset higher costs for everything from raw materials to labor, according to a survey by Teikoku Databank.\nA total of 4,225 products will get price hikes, the most since October 2023, Teikoku said Monday based on asurveyof 195 food and beverage firms. Among products to see price increases are processed foods such as sausage, seasonings and beverages including canned beer."
+}

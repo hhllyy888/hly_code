@@ -1,0 +1,7 @@
+{
+    "headline": "German Inflation Revised Down to 2.6% in Positive Sign for ECB",
+    "publish_time": "2025-03-14T07:31:25.638Z",
+    "author": "Mark Schroers",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-14/german-inflation-revised-down-to-2-6-in-positive-sign-for-ecb?srnd=phx-economics-inflation-and-prices",
+    "content": "German inflationslowed in February instead of remaining stable as initially reported, offeringEuropean Central Bankpolicymakers more hope that cost pressures are fading.\nConsumer prices in Europe’s largest economy increased 2.6% from a year ago, the statistics officesaidFriday. The initial estimate released last month was 2.8%."
+}

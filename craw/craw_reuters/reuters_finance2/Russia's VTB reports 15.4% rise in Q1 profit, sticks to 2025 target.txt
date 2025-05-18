@@ -1,0 +1,9 @@
+{
+    "headline": "Russia's VTB reports 15.4% rise in Q1 profit, sticks to 2025 target",
+    "published_time": "2025-04-25T07:30:07Z",
+    "chinese_publish_time": "2025-04-25T15:30:07",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/russias-vtb-reports-154-rise-q1-profit-sticks-2025-target-2025-04-25/",
+    "source": "Reuters",
+    "content": "MOSCOW, April 25 (Reuters) - Russia's second largest lender VTB (VTBR.MM), opens new tab said on Friday that its first quarter net profit rose by 15.4% year-on-year, reaching 141.2 billion roubles ($1.70 billion), despite falling margins due to high interest rates.\nVTB maintained its 2025 net profit forecast of 430 billion roubles. The bank's net interest margin fell to 0.7% compared to 2.2% in the first quarter of 2024.\n\"A high level of profitability was achieved against the backdrop of continued pressure on net interest margin and the normalisation of risk cost,\" said VTB's First Deputy CEO Dmitry Pyanov.\nPyanov said that income from transactions with securities also provided support for the first quarter results. Russia's stock market rallied in the first two months of the year, but started declining again in March.\n\"Taking into account these likely non-recurring revenues associated with the positive dynamics of the stock market in the first quarter, it is likely that for a long time, until the fourth quarter, we will regard this quarter as the best,\" Pyanov said.\n\"That is, the second and third quarters will most likely be worse,\" he added.($1 = 83.2455 roubles)"
+}

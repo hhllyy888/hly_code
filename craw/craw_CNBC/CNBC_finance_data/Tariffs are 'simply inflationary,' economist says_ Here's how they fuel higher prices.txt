@@ -1,0 +1,7 @@
+{
+    "headline": "Tariffs are 'simply inflationary,' economist says: Here's how they fuel higher prices",
+    "published_time": "2025-03-20T19:34:34+0000",
+    "author": "Greg Iacurci",
+    "href": "https://www.cnbc.com/2025/03/20/tariffs-are-simply-inflationary-economist-says-heres-why.html",
+    "content": "key point \nTariffs are expected to raise the U.S. inflation rate in 2025, Federal Reserve chair Jerome Powell said Wednesday. \nU.S. businesses pass tariff costs on to consumers, both directly and indirectly, economists said. \nAn increase in the inflation rate may be relatively short-lived, if tariffs amount to a one-time price increase, economists said.\nThere was an oft-repeated message in Federal Reserve chair Jerome Powell's press conference on Wednesday: Tariffs will raise consumer prices.\nThe U.S. central bank raised its inflation forecast for 2025, as have many economists, due to the expected impact of a trade war initiated by the Trump administration.\n\"A good part of it is coming from tariffs,\" Powell said of the Fed's elevated inflation estimate.\n\"I do think with the arrival of the tariff inflation, further progress may be delayed,\" Powell said.\nHis statement comes at a time when pandemic-era inflation has gradually declined but hasn't yet been fully tamed to the Fed's goal of a 2% annual inflation rate.\n\"Tariffs are simply inflationary, despite what [President] Donald Trump may tell people,\" said Bradley Saunders, a North America economist at Capital Economics."
+}

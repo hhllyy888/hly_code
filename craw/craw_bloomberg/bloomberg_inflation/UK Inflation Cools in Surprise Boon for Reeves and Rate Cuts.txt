@@ -1,0 +1,7 @@
+{
+    "headline": "UK Inflation Cools in Surprise Boon for Reeves and Rate Cuts",
+    "publish_time": "2025-03-26T07:04:49.007Z",
+    "author": "Tom Rees",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-26/uk-inflation-unexpectedly-slows-in-boost-for-rate-cut-hopes?srnd=phx-economics-inflation-and-prices",
+    "content": "UK inflation unexpectedly cooled, strengthening the case for the Bank of England to cut interest rates again in May and providing a morale boost for Chancellor of the ExchequerRachel Reevesahead of a key economic statement Wednesday.\nConsumer pricesclimbed 2.8% in February from a year earlier, slowing from 3% the previous month, the Office for National Statistics said. It was below the 3% economists wereexpectingon average and in line with the 2.8% predicted by the BOE last month. Clothing prices were the biggest driver of the slowdown, while goods price inflation also eased, the ONS said."
+}

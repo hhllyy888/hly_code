@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves midday: Oklo, eToro, Super Micro Computer, Nvidia, JD.com and more",
+    "published_time": "2025-05-14T16:53:31Z",
+    "chinese_publish_time": "2025-05-15T00:53:31",
+    "author": "Sean Conlon",
+    "url": "https://www.cnbc.com/2025/05/14/stocks-making-the-biggest-moves-midday-oklo-etor-smci-nvda-jd.html",
+    "source": "CNBC",
+    "content": ""
+}

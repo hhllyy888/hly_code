@@ -1,0 +1,7 @@
+{
+    "headline": "Danny Moses of 'The Big Short' says the market is underestimating DOGE's negative impact on the economy",
+    "published_time": "2025-03-20T19:35:14+0000",
+    "author": "Yun Li",
+    "href": "https://www.cnbc.com/2025/03/20/moses-of-the-big-short-says-market-underestimating-doges-negative-impact.html",
+    "content": ""
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "UK house prices fall as market feels tax break hangover",
+    "published_time": "2025-04-07T06:43:20Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/world/uk/uk-house-prices-fell-by-05-march-halifax-2025-04-07/",
+    "content": "LONDON, April 7 (Reuters) - British house prices unexpectedly fell in March, according to data from mortgage lender Halifax which represented the latest sign of a cooling in the market after a rush to buy homes ahead of the expiry of a tax break.\nHouse prices fell by 0.5% last month from February, Halifax said on Monday.\nA Reuters poll of economists had pointed to a rise of 0.1%.\nHalifax also revised down its estimate for a fall in house prices in February to a drop of 0.2% from an originally reported 0.1% decrease.\nHowever, prices in March this year compared with the same month last year were up by 2.8%, the same pace of annual increase as seen in February.\nThe expiry at the end of March of temporary tax incentives for buyers of less expensive homes as well as for first-time buyers encouraged buyers to move ahead more quickly with their plans in the months leading up to the change.\nLast week, another mortgage lender, Nationwide, said its measure of house prices was flat in March and it expected the market to remain soft in the coming months.\nAmanda Bryden, head of mortgages at Halifax, said demand was returning to normal levels after the rush created by the tax change deadline and new applications for loans were slowing.\n\"Looking ahead, potential buyers still face challenges from the new normal of higher borrowing costs, a limited supply of available properties to choose from, and an uncertain economic outlook,\" Bryden said.\n\"However, with further base rate cuts anticipated alongside positive wage growth, mortgage affordability should continue to improve gradually, and therefore we still expect a modest rise in house prices this year,\" she said."
+}

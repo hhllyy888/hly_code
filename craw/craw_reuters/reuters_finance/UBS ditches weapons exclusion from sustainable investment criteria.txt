@@ -1,0 +1,10 @@
+{
+    "headline": "UBS ditches weapons exclusion from sustainable investment criteria",
+    "published_time": "2025-04-01T16:07:33Z",
+    "author": [
+        "Naomi Rovnick",
+        "Iain Withers"
+    ],
+    "href": "https://www.reuters.com/sustainability/sustainable-finance-reporting/ubs-ditches-weapons-exclusion-sustainable-investment-criteria-2025-04-01/",
+    "content": "LONDON, April 1 (Reuters) - UBS's (UBSG.S), opens new tab asset management arm has become the latest European money manager to ditch some exclusions on investments in defence companies as private investors race to enable their funds to finance the region's rearmament drive.\nUBS Asset Management, which runs $1.8 trillion of assets, has scrapped a block on some sustainability funds backing manufacturers of conventional weapons, according to its latest exclusion policy report published last month.\nGermany's Allianz Global Investors has also decided to drop some exclusions on defence investments, Reuters reported on Monday, amid a broader drive by European investors to reconsider their policies as geopolitical tensions intensify.\nDefence stocks have soared in value this year as European countries, under pressure from U.S. President Donald Trump, have vowed to increase military expenditure.\nUBS's sustainable investing focus and impact funds had previously been prohibited from investing in companies that generated more than 10% of their revenues from producing conventional military weapons.\nExclusions still apply to controversial weapons such as cluster munitions and biological weapons.\nThe Swiss money manager did not give a reason for dropping the exclusion, after removing it from the latest exclusion policy document.\nDanske Bank (DANSKE.CO), opens new tab also lifted some restrictions on its asset management arm investing in defence assets, the company said in a statement on Tuesday."
+}

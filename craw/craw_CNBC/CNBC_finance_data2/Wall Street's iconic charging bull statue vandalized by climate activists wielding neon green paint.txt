@@ -1,0 +1,9 @@
+{
+    "headline": "Wall Street's iconic charging bull statue vandalized by climate activists wielding neon green paint",
+    "published_time": "2025-04-22T16:47:50Z",
+    "chinese_publish_time": "2025-04-23T00:47:50",
+    "author": "Yun Li",
+    "url": "https://www.cnbc.com/2025/04/22/wall-streets-iconic-charging-bull-statue-vandalized-by-climate-activists.html",
+    "source": "CNBC",
+    "content": "Wall Street's iconic Charging Bull statue on Tuesday was vandalized by a group of environmental activists who sprayed the bronze sculpture with neon green paint.\nThe group, called Extinction Rebellion, painted the words \"Greed=Death\" on the body of the bull, the symbol of a surging stock market that is located in Bowling Green park near the New York Stock Exchange. Tuesday marks the 56th annual \"Earth Day,\" first observed in 1970.\n\"Good morning from the resistance. We came to Wall Street to call out the bulls---,\" the activist group said on social media site X. \"Bulls--- told by the 1% who gamble with our futures. Bulls-- to bailouts for those who wrecked our economy.\"\nOne protester, who climbed up and sat on the neck of the bull, was told to dismount by a New York City police officer.\nLater Tuesday, the group of activists cleaned the green paint off the bull after their demonstration.\nThe sculpture, made by Arturo Di Modica, a Sicilian immigrant to New York, was originally installed in front of the stock exchange in 1989, but was later moved a couple of blocks south to its current location, according to the city's Department of Parks and Recreation."
+}

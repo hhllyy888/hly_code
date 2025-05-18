@@ -1,0 +1,9 @@
+{
+    "headline": "Wise targets double-digit pretax profit margin by 2026",
+    "published_time": "2025-04-03T07:48:49Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/wise-targets-double-digit-pretax-profit-margin-by-fy-2026-2025-04-03/",
+    "content": "LONDON, April 3 (Reuters) - Wise plc (WISEa.L), opens new tab expects to deliver underlying income growth of 15-20% and underlying pretax profit margin at the upper end of its target range in its 2026 financial year, citing strong progress on its \"money without borders\" vision.\nThe British money transfer firm, which is hosting a London-based capital markets event on Thursday, said it was targeting underlying pretax profit margin of 13-16% over the medium term and an underlying income compound annual growth rate of 15-20%.\nWise shares were up 5.3% by 0721 GMT.\n\"Wise customers have moved more than half a trillion across borders and trust us to now hold more than 20 billion pounds of their money,\" the company said in a statement.\nThursday's presentation will include preliminary figures for its 2025 financial year that will show 21% growth year-on-year in active customers to 15.5 million, a 22% rise in cross-border volumes to 145 billion pounds and a 16% rise in underlying income to 1.36 billion pounds.\nWise said its board had consulted extensively with shareholders on optimal listing arrangements for the company and expects to share the outcome of a review of its listing arrangements with investors in the coming weeks."
+}

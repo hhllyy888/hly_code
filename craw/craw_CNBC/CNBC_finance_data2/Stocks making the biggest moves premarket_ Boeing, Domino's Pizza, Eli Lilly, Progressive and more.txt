@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Boeing, Domino's Pizza, Eli Lilly, Progressive and more",
+    "published_time": "2025-04-28T12:28:58Z",
+    "chinese_publish_time": "2025-04-28T20:28:58",
+    "author": "Pia Singh",
+    "url": "https://www.cnbc.com/2025/04/28/stocks-making-the-biggest-moves-premarket-ba-dpz-lly-pgr.html",
+    "source": "CNBC",
+    "content": ""
+}

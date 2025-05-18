@@ -1,0 +1,9 @@
+{
+    "headline": "American Consumers Are Getting Rattled by Trump’s Tariff Chaos",
+    "published_time": "2025-04-11T15:21:22Z",
+    "chinese_publish_time": "2025-04-11T23:21:22",
+    "author": "Enda Curran, Claire Ballentine, Mark Niquette, Daniela Sirtori",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-11/trump-s-tariff-experiment-is-making-americans-queasy-over-prices?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Donald Trump’s “Liberation Day” tariff announcement set off the most volatile stretch of his second term, with financial marketsdescending into chaos, China unleashingretaliatory measuresand the US presidentpausing some leviesonly hours after they took effect.\nThe whiplash made for a dramatic reminder to shoppers and companies that Trump’s trade policy can change on a dime. That unpredictability, economists say, is likely to be a drag on spending and investing."
+}

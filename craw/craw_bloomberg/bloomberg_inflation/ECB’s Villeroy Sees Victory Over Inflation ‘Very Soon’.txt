@@ -1,0 +1,7 @@
+{
+    "headline": "ECB’s Villeroy Sees Victory Over Inflation ‘Very Soon’",
+    "publish_time": "2025-03-14T08:00:57.623Z",
+    "author": "William Horobin",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-14/ecb-s-villeroy-sees-victory-over-inflation-very-soon?srnd=phx-economics-inflation-and-prices",
+    "content": "TheEuropean Central Bankwill win the battle against inflation this year, Governing Council memberFrancois Villeroy de Galhausaid.\nPrice increases will return to the ECB’s 2% target “during” 2025 after already falling below that level in France, theBank of Francegovernor said."
+}

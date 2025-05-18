@@ -1,0 +1,7 @@
+{
+    "headline": "Peru’s Inflation Slowed Less Than Expected to 1.28% in March",
+    "publish_time": "2025-04-01T14:18:49.059Z",
+    "author": "Marcelo Rochabrun",
+    "href": "https://www.bloomberg.com/news/articles/2025-04-01/peru-s-inflation-slowed-less-than-expected-to-1-28-in-march?srnd=phx-economics-inflation-and-prices",
+    "content": "Inflation in Peru’s capital slowed less than expected in March, in line with central bank expectations that the pace ofconsumer price increaseswill likely quicken toward year-end.\nConsumer prices rose 1.28% last month in Lima from the same month a year earlier, down from 1.48% in February. The result was higher than the 1.02%median estimateof economists surveyed by Bloomberg. On the month, consumer prices rose 0.81%, the highest reading since March 2024."
+}

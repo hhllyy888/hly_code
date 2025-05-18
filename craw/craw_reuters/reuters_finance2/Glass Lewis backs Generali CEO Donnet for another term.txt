@@ -1,0 +1,9 @@
+{
+    "headline": "Glass Lewis backs Generali CEO Donnet for another term",
+    "published_time": "2025-04-10T06:55:12Z",
+    "chinese_publish_time": "2025-04-10T14:55:12",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/glass-lewis-backs-generali-ceo-donnet-another-term-2025-04-10/",
+    "source": "Reuters",
+    "content": "MILAN, April 10 (Reuters) - Proxy adviser Glass Lewis has recommended Generali (GASI.MI), opens new tab investors vote to hand CEO Philippe Donnet another term at a general meeting on April 24.\nItaly's biggest insurer investor Mediobanca (MDBI.MI), opens new tab has put forward Donnet as a candidate as part of a slate of board nominees.\nA major Generali shareholder, Francesco Gaetano Caltagirone, who has long opposed Donnet, proposed an alternative six candidates. While he is not planning to challenge Donnet directly, if he wins, the 13-member board would be split and unable to take decisions.\nA third slate of nominees was submitted by a group of fund managers.\n\"We believe shareholders would be better served by using their vote to ensure board continuity,\" Glass Lewis said in a report, an excerpt of which was seen by Reuters on Thursday.\nInternational Shareholder Advisers (ISS), another leading proxy adviser, recommended Generali shareholders vote to give Donnet another term."
+}

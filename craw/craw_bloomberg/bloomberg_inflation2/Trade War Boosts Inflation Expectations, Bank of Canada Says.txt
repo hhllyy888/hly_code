@@ -1,0 +1,9 @@
+{
+    "headline": "Trade War Boosts Inflation Expectations, Bank of Canada Says",
+    "published_time": "2025-04-07T14:35:40Z",
+    "chinese_publish_time": "2025-04-07T22:35:40",
+    "author": "Randy Thanthong-Knight",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-07/trade-war-ignites-inflation-expectations-bank-of-canada-says?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Bank of Canadasurveys show firms believe upward price pressures from the trade conflict with the US will exceed the downward pull from weaker demand, threatening to undo progress on keeping inflation expectations well-anchored.\nCanadian business sentiment deteriorated in the first quarter, the bank’s survey of firms showed Monday. The outlook indicator fell to minus 2.14 from minus 1.16 at the end of last year, reversing an improving trend seen over the past two quarters. Firms’ sales outlook has softened, and investment and hiring plans are being put on hold."
+}

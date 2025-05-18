@@ -1,0 +1,7 @@
+{
+    "headline": "BlackRock CEO Larry Fink says protectionism 'has returned with force' ",
+    "published_time": "2025-03-31T13:48:09+0000",
+    "author": "Yun Li",
+    "href": "https://www.cnbc.com/2025/03/31/blackrock-ceo-larry-fink-says-protectionism-has-returned-with-force-.html",
+    "content": ""
+}

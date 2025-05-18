@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves after hours: Affirm, Coinbase, Pinterest and more",
+    "published_time": "2025-05-08T21:00:23Z",
+    "chinese_publish_time": "2025-05-09T05:00:23",
+    "author": "Brian Evans",
+    "url": "https://www.cnbc.com/2025/05/08/stocks-making-the-biggest-moves-after-hours-afrm-coin-pins.html",
+    "source": "CNBC",
+    "content": ""
+}

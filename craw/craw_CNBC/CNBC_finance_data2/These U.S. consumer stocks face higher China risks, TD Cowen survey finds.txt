@@ -1,0 +1,9 @@
+{
+    "headline": "These U.S. consumer stocks face higher China risks, TD Cowen survey finds",
+    "published_time": "2025-04-27T13:09:46Z",
+    "chinese_publish_time": "2025-04-27T21:09:46",
+    "author": "Evelyn Cheng",
+    "url": "https://www.cnbc.com/2025/04/27/td-cowen-survey-these-us-consumer-stocks-face-higher-china-risks.html",
+    "source": "CNBC",
+    "content": ""
+}

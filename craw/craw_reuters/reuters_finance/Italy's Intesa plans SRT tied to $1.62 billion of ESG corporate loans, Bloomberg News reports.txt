@@ -1,0 +1,9 @@
+{
+    "headline": "Italy's Intesa plans SRT tied to $1.62 billion of ESG corporate loans, Bloomberg News reports",
+    "published_time": "2025-04-02T10:27:22Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/italys-intesa-plans-srt-tied-162-billion-esg-corporate-loans-bloomberg-news-2025-04-02/",
+    "content": "April 2 (Reuters) - Italy's Intesa Sanpaolo (ISP.MI), opens new tab is planning to sell a significant risk transfer tied to a portfolio of corporate loans, Bloomberg News reported on Wednesday.\nThe bank is discussing with investors an SRT deal tied to about 1.5 billion euros ($1.62 billion) of environmental, social and governance labeled loans, the report said, citing people familiar with the matter.\n($1 = 0.9261 euros)"
+}

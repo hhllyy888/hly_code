@@ -1,0 +1,9 @@
+{
+    "headline": "Norway sovereign wealth fund buys offshore wind farms stakes for $1.5 bln",
+    "published_time": "2025-03-31T07:57:28Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/markets/deals/norway-sovereign-wealth-fund-buys-stake-two-offshore-wind-farms-rwe-2025-03-31/",
+    "content": "COPENHAGEN/FRANKFURT, March 31 (Reuters) - Norway's sovereign wealth fund, the world's largest, said on Monday it has acquired a 49% stake in two offshore wind farms under construction in Denmark and Germany from RWE (RWEG.DE), opens new tab for 1.4 billion euros ($1.5 billion).\nNorges Bank Investment Management's purchase of the stakes in RWE's Nordseecluster and Thor wind projects is expected to close by the beginning of the third quarter and leaves Germany's top utility in charge of construction and operation.\nWith a total expected capacity of 2.64 gigawatt, both projects will produce enough electricity to power more than 2.6 million households in Germany and Denmark, RWE said in a separate statement.\nThe deal reduces RWE's share of the projects' net cash investments by around 4 billion euros and results in a book gain of 150 million, Bernstein analysts wrote, adding it represented a 12% premium to already spent capex.\n\"Today's farm-down announcement is a step forward on reducing RWE's net capex as announced with the FY24 results and de-risks any further capex risks on these projects,\" they wrote. \"However, RWE still retains the market price-risk for the first 15 years on these projects ...\"\nRWE earlier this month said it would cut its investment programme that runs until 2030 by 10 billion euros, or more than a fifth, warning that conditions in the renewable sector had made it more difficult to hit its return targets.\n($1 = 0.9235 euros)"
+}

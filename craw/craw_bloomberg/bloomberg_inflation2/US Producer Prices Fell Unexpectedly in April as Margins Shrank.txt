@@ -1,0 +1,9 @@
+{
+    "headline": "US Producer Prices Fell Unexpectedly in April as Margins Shrank",
+    "published_time": "2025-05-15T12:34:35Z",
+    "chinese_publish_time": "2025-05-15T20:34:35",
+    "author": "Augusta Saraiva",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-15/us-producer-prices-fall-unexpectedly-as-margins-decline?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Prices paid to US producers unexpectedly declined in April by the most in five years, largely reflecting a slump in margins, suggesting companies are absorbing some of the hit from higher tariffs.\nThe 0.5% decrease in theproducer price indexfollowed no change in March, Bureau of Labor Statistics data showed Thursday. The median forecast in a Bloomberg survey of economists called for a 0.2% gain. Excluding food and energy, thePPIdeclined 0.4% — the most since 2015."
+}

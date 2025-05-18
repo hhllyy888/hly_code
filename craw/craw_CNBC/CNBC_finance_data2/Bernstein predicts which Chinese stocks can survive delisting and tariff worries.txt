@@ -1,0 +1,9 @@
+{
+    "headline": "Bernstein predicts which Chinese stocks can survive delisting and tariff worries",
+    "published_time": "2025-04-20T12:37:13Z",
+    "chinese_publish_time": "2025-04-20T20:37:13",
+    "author": "Evelyn Cheng",
+    "url": "https://www.cnbc.com/2025/04/20/chinese-stocks-that-could-survive-delisting-tariff-worries.html",
+    "source": "CNBC",
+    "content": ""
+}

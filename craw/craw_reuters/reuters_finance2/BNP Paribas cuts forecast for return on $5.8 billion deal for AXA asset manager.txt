@@ -1,0 +1,9 @@
+{
+    "headline": "BNP Paribas cuts forecast for return on $5.8 billion deal for AXA asset manager",
+    "published_time": "2025-04-14T06:32:41Z",
+    "chinese_publish_time": "2025-04-14T14:32:41",
+    "author": "Mathieu Rosemain",
+    "url": "https://www.reuters.com/business/finance/bnp-paribas-cuts-year-three-return-forecast-axa-im-deal-2025-04-14/",
+    "source": "Reuters",
+    "content": " article summary \nECB guidance prompts revision\nCET1 capital ratio to take 35 bps hit\nPARIS, April 14 - BNP Paribas (BNPP.PA), opens new tab, France's biggest bank, has cut its forecast for the return on invested capital on its 5.1 billion euro ($5.8 billion) acquisition of AXA's asset management arm, it said on Monday.\nThe French lender said it expected more than 14% in the third year, down from a previously projected 18%. That return is expected to be more than 20% in the fourth year, it added.\nThe revision follows updated guidance from the European Central Bank on capital treatment, which would result in a hit of 35 basis points to BNP's CET1 ratio compared with the 25 basis points initially expected for this measure of financial strength.\nThe updated guidance notably concerned the right to use the so-called Danish compromise, a regulatory approach that reduces the capital burden for banks that own insurers.\nBNP's shares fell on Friday, underperforming the wider European banking sector, after news emerged that it would not benefit from the favourable capital treatment for its deal to buy AXA Investment Managers via its insurance division, BNP Paribas Cardif.\nThe ECB's view could have negative implications for consolidation across Europe's financial industry, making certain deals more expensive.\nBNP said its share buyback and dividend plans remain unchanged.\n($1 = 0.8789 euros)"
+}

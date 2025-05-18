@@ -1,0 +1,9 @@
+{
+    "headline": "The U.S. will 'absolutely' have a recession in 2025 if high tariffs stay, Apollo's Slok says",
+    "published_time": "2025-04-21T17:17:12Z",
+    "chinese_publish_time": "2025-04-22T01:17:12",
+    "author": "Sarah Min",
+    "url": "https://www.cnbc.com/2025/04/21/us-will-have-a-recession-in-2025-if-high-tariffs-stay-apollos-slok-says.html",
+    "source": "CNBC",
+    "content": ""
+}

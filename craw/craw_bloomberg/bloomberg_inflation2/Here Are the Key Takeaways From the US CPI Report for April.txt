@@ -1,0 +1,9 @@
+{
+    "headline": "Here Are the Key Takeaways From the US CPI Report for April",
+    "published_time": "2025-05-13T13:27:32Z",
+    "chinese_publish_time": "2025-05-13T21:27:32",
+    "author": "Chris Anstey",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-13/five-key-takeaways-from-the-us-cpi-report-for-april-toplive?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Subscribeto Economics Daily for the latest news and analysis.\nHere are five key takeaways from today’s April US consumer price index report:"
+}

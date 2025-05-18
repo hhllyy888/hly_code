@@ -1,0 +1,9 @@
+{
+    "headline": "Ray Dalio calls for US trade deal with China",
+    "published_time": "2025-04-10T03:30:31Z",
+    "chinese_publish_time": "2025-04-10T11:30:31",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/markets/us/ray-dalio-calls-us-trade-deal-with-china-2025-04-10/",
+    "source": "Reuters",
+    "content": "April 9 (Reuters) - Ray Dalio, founder of the world's largest hedge fund, called for a U.S. deal with the Chinese on tariffs and said that the next goal for U.S. President Donald Trump's administration should be to cut the country's deficit to 3% of GDP.\n\"Trump's decision to step back from a worse way and negotiate how to deal with these imbalances is a much better way,\" Dalio, who helms hedge fund Bridgewater Associates, said in a post on X, while referring to Trump's tariff decision earlier in the day.\nIn a stunning reversal, Trump earlier on Wednesday said he would temporarily lower the hefty duties he had just imposed on dozens of countries while further ramping up pressure on China."
+}

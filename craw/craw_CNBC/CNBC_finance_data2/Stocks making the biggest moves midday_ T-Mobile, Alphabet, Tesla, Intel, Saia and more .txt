@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves midday: T-Mobile, Alphabet, Tesla, Intel, Saia and more ",
+    "published_time": "2025-04-25T16:53:40Z",
+    "chinese_publish_time": "2025-04-26T00:53:40",
+    "author": "Brian Evans",
+    "url": "https://www.cnbc.com/2025/04/25/stocks-making-the-biggest-moves-midday-tmus-googl-tsla-intc-saia-and-more-.html",
+    "source": "CNBC",
+    "content": ""
+}

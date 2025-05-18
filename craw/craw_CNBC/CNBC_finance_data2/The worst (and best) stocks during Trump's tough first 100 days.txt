@@ -1,0 +1,9 @@
+{
+    "headline": "The worst (and best) stocks during Trump's tough first 100 days",
+    "published_time": "2025-04-28T17:32:03Z",
+    "chinese_publish_time": "2025-04-29T01:32:03",
+    "author": "Alex Harring",
+    "url": "https://www.cnbc.com/2025/04/28/the-worst-and-best-stocks-during-trumps-tough-first-100-days.html",
+    "source": "CNBC",
+    "content": ""
+}

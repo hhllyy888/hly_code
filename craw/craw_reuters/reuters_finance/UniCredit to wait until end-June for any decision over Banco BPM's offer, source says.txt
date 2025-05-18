@@ -1,0 +1,9 @@
+{
+    "headline": "UniCredit to wait until end-June for any decision over Banco BPM's offer, source says",
+    "published_time": "2025-04-03T16:11:48Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/markets/deals/unicredit-wait-until-end-june-any-decision-over-banco-bpms-offer-source-says-2025-04-03/",
+    "content": "MILAN, April 3 (Reuters) - UniCredit (CRDI.MI), opens new tab will continue to evaluate in the coming months whether to proceed with its proposed buyout bid for Banco BPM (BAMI.MI), opens new tab, and any decision would be taken only towards the end of June, a person close to the Italian bank said.\n\"The bank will decide whether or not to continue with the transaction in line with the terms of its offer,\" the person said. \"No decision, if any, will made before the end of June.\"\nUniCredit is preparing to launch on April 28 its tender offer, which is subject to conditions that would allow it to drop it as Banco BPM changed the terms of its proposed acquisition of fund manager Anima Holding (ANIM.MI), opens new tab."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Turkey’s Inflation Eases Slightly as Lira Turmoil Slows Progress",
+    "published_time": "2025-05-05T07:04:36Z",
+    "chinese_publish_time": "2025-05-05T15:04:36",
+    "author": "Baris Balci, Beril Akman",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-05/deceleration-in-turkey-s-inflation-slows-after-market-sell-off?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Subscribeto Economics Daily for the latest news and analysis.\nA deceleration in Turkey’s inflation slowed in April, after a sharp selloff in lira assets triggered by the jailing of key opposition figureEkrem Imamoglu."
+}

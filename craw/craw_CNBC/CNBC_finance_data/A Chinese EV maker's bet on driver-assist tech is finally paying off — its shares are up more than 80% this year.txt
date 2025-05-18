@@ -1,0 +1,7 @@
+{
+    "headline": "A Chinese EV maker's bet on driver-assist tech is finally paying off — its shares are up more than 80% this year",
+    "published_time": "2025-03-23T13:14:21+0000",
+    "author": "Evelyn Cheng",
+    "href": "https://www.cnbc.com/2025/03/23/chinese-ev-maker-xpengs-bet-on-driver-assist-tech-is-finally-paying-off.html",
+    "content": ""
+}

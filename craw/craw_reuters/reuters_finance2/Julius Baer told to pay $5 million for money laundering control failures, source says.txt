@@ -1,0 +1,9 @@
+{
+    "headline": "Julius Baer told to pay $5 million for money laundering control failures, source says",
+    "published_time": "2025-05-14T11:43:38Z",
+    "chinese_publish_time": "2025-05-14T19:43:38",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/sustainability/julius-baer-told-pay-5-million-money-laundering-control-failures-source-says-2025-05-14/",
+    "source": "Reuters",
+    "content": "ZURICH, May 14 (Reuters) - Swiss private bank Julius Baer (BAER.S), opens new tab has been ordered by the country's financial regulator to pay more than 4 million Swiss francs ($4.80 million) over alleged money laundering and compliance failures, according to a person familiar with the matter.\nThe enforcement decision, which was made late last year, relates to business between 2009 and 2019, the source said.\nIt is the latest setback to surface for Switzerland's second-largest listed lender, which put new management in place this year as it seeks to move on from major losses from the collapse of property group Signa.\nThe Financial Times reported on the order earlier on Wednesday. FINMA, Switzerland's financial regulator, declined to comment.\nThe regulator lacks the power to impose fines directly on financial institutions, but can order them to repay profits through confiscation orders.\nBritain's financial watchdog in 2022 fined Julius Baer 18 million pounds ($24 million) for failing to conduct its business with integrity. The bank did not contest the fine at the time and paid the sum.\n($1 = 0.8335 Swiss francs)\n($1 = 0.7500 pounds)"
+}

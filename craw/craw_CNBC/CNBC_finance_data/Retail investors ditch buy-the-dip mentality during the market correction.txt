@@ -1,0 +1,7 @@
+{
+    "headline": "Retail investors ditch buy-the-dip mentality during the market correction",
+    "published_time": "2025-03-18T18:00:00+0000",
+    "author": "Yun Li",
+    "href": "https://www.cnbc.com/2025/03/18/investors-ditch-buy-the-dip-mindset-as-market-corrects-but-dont-capitulate.html",
+    "content": "Individual investors, whose assets are more tied to the stock market than ever, have abandoned their tried-and-true dip-buying mentality as the S&P 500 recently fell into a painful, 10% correction.\nRetail outflows from U.S. equities rose to about $4 billion over the past two weeks as tariff chaos and mounting economic concerns caused a three-week pullback in the S&P 500, according to data from Barclays. During March's sell-off, 401(k) holders have been aggressively trading their investments, to the tune of four times the average level, according to Alight Solutions' data going back to the late 1990s.\n\"If people were trying to buy the dip and get their stocks on sale, maybe you would see people actually buying large-cap equities. But instead we see people selling from large cap-equities,\" said Rob Austin, director of research at Alight Solutions. \"So this does appear to be a bit of a reactionary trading activity.\""
+}

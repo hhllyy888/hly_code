@@ -1,0 +1,7 @@
+{
+    "headline": "Joel Greenblatt defends value investing: It's not difficult to beat the market",
+    "published_time": "2025-03-28T17:36:10+0000",
+    "author": "Yun Li",
+    "href": "https://www.cnbc.com/2025/03/28/joel-greenblatt-defends-value-investing-its-not-difficult-to-beat-the-market.html",
+    "content": ""
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "The $275 billion question: Who handles Berkshire's stock portfolio after Warren Buffett",
+    "published_time": "2025-05-06T17:22:41Z",
+    "chinese_publish_time": "2025-05-07T01:22:41",
+    "author": "Yun Li",
+    "url": "https://www.cnbc.com/2025/05/06/the-275-billion-question-who-handles-berkshires-stock-portfolio-after-buffett.html",
+    "source": "CNBC",
+    "content": ""
+}

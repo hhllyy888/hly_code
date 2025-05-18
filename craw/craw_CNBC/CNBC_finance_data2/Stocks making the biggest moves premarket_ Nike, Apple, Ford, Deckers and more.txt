@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Nike, Apple, Ford, Deckers and more",
+    "published_time": "2025-04-03T12:25:37Z",
+    "chinese_publish_time": "2025-04-03T20:25:37",
+    "author": "Hakyung Kim",
+    "url": "https://www.cnbc.com/2025/04/03/stocks-making-the-biggest-moves-premarket-nke-aapl-f-deck-and-more.html",
+    "source": "CNBC",
+    "content": ""
+}

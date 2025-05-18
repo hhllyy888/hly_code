@@ -1,0 +1,9 @@
+{
+    "headline": "Trump downplays tariff talks: 'We don't have to sign deals'",
+    "published_time": "2025-05-06T18:11:24Z",
+    "chinese_publish_time": "2025-05-07T02:11:24",
+    "author": "Erin Doherty",
+    "url": "https://www.cnbc.com/2025/05/06/trump-tariffs-trade-canada-china.html",
+    "source": "CNBC",
+    "content": "key point \n\"Everyone says, 'When, when, when are you going to sign deals?'\" Trump said during a White House meeting with Canadian Prime Minister Mark Carney.\nAfter weeks of saying that countries were asking for bilateral trade talks with the U.S., the president and his team have yet to announce any formal agreements or frameworks.\nTrump's effort to deprioritize trade deals marked a turn away from what Treasury Secretary Scott Bessent told CNBC the day before.\n\"The Art of the Deal\" author President Donald Trump said in a surprising comment Tuesday that the United States does not need to \"sign deals\" with trade partners, despite top White House officials claiming for weeks that such deals are the administration's top priority.\n\"Everyone says, 'When, when, when are you going to sign deals?'\" Trump grumbled during a White House meeting with Canadian Prime Minister Mark Carney.\n\"We don't have to sign deals, they have to sign deals with us. They want a piece of our market. We don't want a piece of their market,\" Trump said.\nAfter weeks of saying that countries were asking for bilateral trade talks with the United States, the president and his team have yet to announce any formal agreements or frameworks.\n\"I wish they'd ... stop asking, how many deals are you signing this week?\" said Trump, clearly frustrated at the mounting pressure on the White House to show progress on trade talks. \"Because one day we'll come and we'll give you 100 deals,\" he said."
+}

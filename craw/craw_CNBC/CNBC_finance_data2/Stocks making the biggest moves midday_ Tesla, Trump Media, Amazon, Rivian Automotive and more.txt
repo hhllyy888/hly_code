@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves midday: Tesla, Trump Media, Amazon, Rivian Automotive and more",
+    "published_time": "2025-04-02T16:53:05Z",
+    "chinese_publish_time": "2025-04-03T00:53:05",
+    "author": "Sean Conlon",
+    "url": "https://www.cnbc.com/2025/04/02/stocks-making-the-biggest-moves-midday-tsla-djt-rivn.html",
+    "source": "CNBC",
+    "content": ""
+}

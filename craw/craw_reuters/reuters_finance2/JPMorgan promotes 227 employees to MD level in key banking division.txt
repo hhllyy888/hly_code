@@ -1,0 +1,9 @@
+{
+    "headline": "JPMorgan promotes 227 employees to MD level in key banking division",
+    "published_time": "2025-04-24T17:53:06Z",
+    "chinese_publish_time": "2025-04-25T01:53:06",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/jpmorgan-promotes-227-employees-md-level-key-banking-division-2025-04-24/",
+    "source": "Reuters",
+    "content": "April 24 (Reuters) - JPMorgan Chase (JPM.N), opens new tab has promoted 227 employees in its commercial and investment bank (CIB) division to the coveted role of managing director, according to a memo seen by Reuters on Thursday.\nAmong the newly appointed MDs, 184 are part of CIB's core businesses, including global banking, markets, payments and securities services.\nThe managing director title is one of the most sought-after on Wall Street and often marks a key milestone in a banker's career.\nRevenue from JPMorgan's CIB unit jumped 12% in the first quarter, the bank reported earlier this month, thanks to higher fees from underwriting bond sales and advising on acquisitions."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Stock market posts third biggest gain in post-WWII history on Trump's tariff about-face",
+    "published_time": "2025-04-09T20:18:58Z",
+    "chinese_publish_time": "2025-04-10T04:18:58",
+    "author": "Yun Li",
+    "url": "https://www.cnbc.com/2025/04/09/stock-market-posts-third-biggest-gain-in-post-wwii-history-on-trumps-tariff-about-face.html",
+    "source": "CNBC",
+    "content": "Wednesday's jaw-dropping stock-market rally on President Donald Trump's surprising tariff reversal is one for the history books.\nThe S&P 500 skyrocketed 9.52% in a kneejerk reaction to Trump's announcement to put a 90-day pause on some of the lofty 'reciprocal' tariffs. The one-day gain ranks as the third biggest since World War II for the main stock market benchmark, according to FactSet."
+}

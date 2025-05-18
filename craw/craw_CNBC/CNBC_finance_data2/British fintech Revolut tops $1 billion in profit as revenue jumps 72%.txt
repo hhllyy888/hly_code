@@ -1,0 +1,9 @@
+{
+    "headline": "British fintech Revolut tops $1 billion in profit as revenue jumps 72%",
+    "published_time": "2025-04-24T06:18:06Z",
+    "chinese_publish_time": "2025-04-24T14:18:06",
+    "author": "Ryan Browne",
+    "url": "https://www.cnbc.com/2025/04/24/british-fintech-revolut-tops-1-billion-in-profit-as-revenue-jumps.html",
+    "source": "CNBC",
+    "content": "key point \nDigital banking unicorn Revolut said Thursday that net profit for the year ending Dec. 31, 2024, totaled £1.1 billion ($1.5 billion), up 149% year over year.\nThe financial milestone arrives as Revolut is preparing a transition to becoming a fully operational bank in the U.K. after securing a banking license last summer.\nRevolut's U.K. CEO previously said she sees views the journey to full banking authorization as a crucial step in global expansion and an eventual IPO.\nLONDON — British fintech firm Revolut on Thursday announced it topped $1 billion in annual profit for the first time, a major milestone for the company as it readies the launch of its U.K. bank later this year.\nRevolut, which offers a range of banking and financial services via an app, said that net profit for the year ending Dec. 31, 2024, totaled £1.1 billion ($1.5 billion), up 149% year over year. Revenues at the company increased 72% year on year to £3.1 billion, driven by growth across different revenue streams.\nRevolut's wealth unit — which includes its stock and crypto-trading businesses — saw outsized growth, with revenue surging 298% to £506 million, while subscriptions turnover jumped 74% to £423 million.\nRevolut also saw significant growth in its loan book, which grew 86% to £979 million. Coupled with a jump in customer deposits, this contributed to a 58% increase in interest income, which totaled £790 million."
+}

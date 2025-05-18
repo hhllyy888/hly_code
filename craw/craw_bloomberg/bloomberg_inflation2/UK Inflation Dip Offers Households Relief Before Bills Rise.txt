@@ -1,0 +1,9 @@
+{
+    "headline": "UK Inflation Dip Offers Households Relief Before Bills Rise",
+    "published_time": "2025-04-16T06:04:08Z",
+    "chinese_publish_time": "2025-04-16T14:04:08",
+    "author": "Tom Rees, Irina Anghel, Philip Aldrick",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-16/uk-inflation-dips-in-relief-before-april-household-bills-shock?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Subscribeto Economics Daily for the latest news and analysis.\nUKinflationslipped back for a second straight month, providing some relief for households before they were hit by a huge increase in bills in April."
+}

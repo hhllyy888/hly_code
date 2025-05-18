@@ -1,0 +1,9 @@
+{
+    "headline": "New US SEC chair says crypto sector deserves clear regulations",
+    "published_time": "2025-04-25T19:31:14Z",
+    "chinese_publish_time": "2025-04-26T03:31:14",
+    "author": "Douglas Gillison",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/new-us-sec-chair-says-crypto-sector-deserves-clear-regulations-2025-04-25/",
+    "source": "Reuters",
+    "content": "WASHINGTON, April 25 (Reuters) - The new head of the U.S. Securities and Exchange Commission on Friday said that the agency has stifled innovation for the cryptocurrency sector by fostering \"regulatory uncertainty\" in prior years.\n\"Market participants engaging in this technology deserve clear regulatory rules of the road,\" Paul Atkins said in his first remarks since being sworn in as chairman of the agency as chairman earlier this week.\nHe spoked at the SEC's crypto roundtable, which the Republican leadership launched weigh how securities laws may apply to digital assets, an area of tension between the sector and the agency under previous leadership.\nAtkins, who has worked with crypto firms in recent years, has widely been expected to take a softer tack with the industry. The agency's previous chair, Gary Gensler, had targeted what he described as widespread noncompliance of the industry with U.S. securities laws.\nEven before Atkins' arrival, the SEC has dramatically shifted its position on crypto in recent months, seeking to create new regulations for the sector and pausing or altogether walking away from enforcement cases.\nWhen asked about the potential for the SEC to suspend trading of Chinese companies as trade tensions rise between the world's two largest economies, Atkins said that the agency will take action if companies do not abide by U.S. laws."
+}

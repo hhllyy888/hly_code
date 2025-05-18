@@ -1,0 +1,9 @@
+{
+    "headline": "ECB's Panetta: U.S. trade policy calls for ECB caution in cutting rates",
+    "published_time": "2025-03-31T08:40:00Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/markets/europe/ecbs-panetta-us-trade-policy-calls-ecb-caution-cutting-rates-2025-03-31/",
+    "content": "ROME, March 31 (Reuters) - High uncertainty, mainly due to U.S. trade policy announcements, means the European Central Bank needs to be cautious in reducing its interest rates, governing council member Fabio Panetta said on Monday.\nThe ECB has cut interest rates six times since last June but provided few signals about its next move after the most recent reduction of its key deposit rate to 2.5% at its March meeting.\n\"The fight against inflation cannot yet be said to be over,\" Panetta, who is governor of the Bank of Italy, said in a speech in Rome.\n\"Increased uncertainty, mainly due to the sometimes contradictory announcements on the United States' trade policies, calls for caution in the path to lower official rates,\" he added.\nPanetta, who is often considered a monetary policy dove, last week called on the ECB to be pragmatic and data driven in its rate policy, and he again struck a cautious tone in Monday's speech.\n\"It will be essential to carefully monitor all the factors that could hinder the return to the 2% (inflation) target,\" he told the Bank of Italy's shareholders in a presentation of its annual balance sheet.\nHe said the ECB needed to balance two contrasting factors.\nOn the one hand the weakness of the euro zone economy and geopolitical tensions are holding back consumption and investment, contributing to containing inflation, Panetta said.\nOn the other hand, the increased uncertainty is a reason to guard against easing monetary policy too quickly."
+}

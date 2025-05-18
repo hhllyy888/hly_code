@@ -1,0 +1,9 @@
+{
+    "headline": "'Large number of foreign investors' skittish about investing in America, longtime investor Rebecca Patterson warns",
+    "published_time": "2025-05-02T11:28:18Z",
+    "chinese_publish_time": "2025-05-02T19:28:18",
+    "author": "Anna Gleason",
+    "url": "https://www.cnbc.com/2025/05/02/foreign-investors-worry-about-us-reliability-ex-bridgewater-strat.html",
+    "source": "CNBC",
+    "content": "Join us for the ultimate, exclusive, in-person, interactive event with Melissa Lee and the traders for \"Fast Money\" Live at the Nasdaq MarketSite in Times Square on Thursday, June 5.\nGlobal investors are undergoing a structural rethink of their exposure to U.S. markets, according to economic expert Rebecca Patterson.\nPatterson, who served as Bridgewater's chief investment strategist, contends they're gradually reducing exposure to U.S. assets and the impact could be significant. Her prediction comes after having conversations with participants in last week's World Bank and International Monetary Fund meetings in Washington.\n\"There are a large number of foreign investors who are worried not only about tariffs, but just about America's reliability as a partner,\" Patterson said Monday on CNBC's \"Fast Money.\"\nOutside of the Trump administration's tariff policy, she finds foreign investors and policymakers are losing faith in the U.S. on broader fears about the potential weaponizing of capital markets to achieve its economic goals."
+}

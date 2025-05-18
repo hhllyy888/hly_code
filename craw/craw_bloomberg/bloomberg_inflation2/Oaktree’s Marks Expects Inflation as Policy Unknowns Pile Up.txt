@@ -1,0 +1,9 @@
+{
+    "headline": "Oaktree’s Marks Expects Inflation as Policy Unknowns Pile Up",
+    "published_time": "2025-04-04T17:11:36Z",
+    "chinese_publish_time": "2025-04-05T01:11:36",
+    "author": "Eliza Ronalds-Hannon, Lisa Abramowicz",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-04/oaktree-s-marks-expects-inflation-as-us-faces-a-sea-of-unknowns?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Oaktree co-ChairmanHoward Markscited deep uncertainty about just about everything other than inflation as a barrier to financial forecasting in the era of Trump 2.0.\n“We know much less today than usual,” about what to price in to investment decisions, after the world economy was “shook up like a snow globe by the events of the last days,” Marks said in an interview Friday on Bloomberg TV."
+}

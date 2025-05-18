@@ -1,0 +1,9 @@
+{
+    "headline": "Euro-Zone Inflation Seen Slowing as Policymakers Ponder Tariffs",
+    "published_time": "2025-04-25T15:21:10Z",
+    "chinese_publish_time": "2025-04-25T23:21:10",
+    "author": "Alessandra Migliaccio, Joel Rinneby, Harumi Ichikura",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-25/euro-zone-inflation-seen-slowing-as-policymakers-ponder-tariffs?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Subscribeto Economics Daily for the latest news and analysis.\nTheEuropean Central Bank’s task of restoring 2% inflation is almost complete, with April’s reading set to come in only a fraction north of that target."
+}

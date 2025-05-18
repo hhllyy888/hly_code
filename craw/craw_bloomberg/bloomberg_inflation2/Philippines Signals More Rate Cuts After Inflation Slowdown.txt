@@ -1,0 +1,9 @@
+{
+    "headline": "Philippines Signals More Rate Cuts After Inflation Slowdown",
+    "published_time": "2025-05-06T01:13:03Z",
+    "chinese_publish_time": "2025-05-06T09:13:03",
+    "author": "Ditas B Lopez, Neil Jerome Morales",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-06/philippine-inflation-at-lowest-since-2019-backs-more-rate-cuts?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Subscribeto Economics Daily for the latest news and analysis.\nThe Philippine central bank on Tuesday signaled further monetary easing ahead after inflation slowed to the lowest level since 2019, and warned of a “more challenging external environment.”"
+}

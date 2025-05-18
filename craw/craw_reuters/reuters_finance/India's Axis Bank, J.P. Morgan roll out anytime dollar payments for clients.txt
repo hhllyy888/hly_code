@@ -1,0 +1,9 @@
+{
+    "headline": "India's Axis Bank, J.P. Morgan roll out anytime dollar payments for clients",
+    "published_time": "2025-03-27T09:22:23Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/indias-axis-bank-jp-morgan-roll-out-anytime-dollar-payments-clients-2025-03-27/",
+    "content": "MUMBAI, March 27 (Reuters) - India's Axis Bank has partnered with J.P. Morgan to offer real-time U.S. dollar payment capabilities to commercial clients in the country, facilitated by Kinexys, the U.S-based lender's blockchain and digital assets unit.\nThis is the first instance where an Indian company will have the flexibility to make or receive dollar payments at any time, J.P. Morgan said in a statement on Thursday.\nAxis Bank will deliver the 24/7 dollar clearing capability for clients out of Gujarat International Finance Tec-City, or GIFT city, an international financial services center.\nThe collaboration with Kinexys will offer \"significant value\" to clients by streamlining payments, unlocking liquidity and adding further optionality on cross-border payments, Neeraj Gambhir, group executive & head - treasury, markets & wholesale banking products, at Axis Bank said.\nCurrently, companies can make cross-border payments that are settled on the same day.\nNaveen Mallela, global co-head at Kinexys, illustrated the anytime payment capability by saying that Indian companies can now make dollar payments to Middle Eastern clients on Sundays, which are standard working days in that region.\n\"The ability to move money 24X7 without cutoffs essentially reduces the cost of liquidity for processing of payments. Furthermore, the payment rails are designed to be completely no-deduct which will ensure full preservation of payment amount until it reaches the final beneficiary,\" Mallela said."
+}

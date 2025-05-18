@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Palantir Technologies, Ford Motor, Vertex Pharmaceuticals, DoorDash and more",
+    "published_time": "2025-05-06T12:24:37Z",
+    "chinese_publish_time": "2025-05-06T20:24:37",
+    "author": "Sean Conlon",
+    "url": "https://www.cnbc.com/2025/05/06/stocks-making-the-biggest-moves-premarket-pltr-f-vrtx-dash.html",
+    "source": "CNBC",
+    "content": ""
+}

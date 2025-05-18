@@ -1,0 +1,9 @@
+{
+    "headline": "Dutch Rabobank to face court case over failure to stop money laundering",
+    "published_time": "2025-04-09T06:44:32Z",
+    "chinese_publish_time": "2025-04-09T14:44:32",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/dutch-rabobank-face-court-case-over-failure-stop-money-laundering-2025-04-09/",
+    "source": "Reuters",
+    "content": "AMSTERDAM, April 9 (Reuters) - Dutch lender Rabobank (RABOVR.UL) said on Wednesday it had failed to reach a settlement with prosecutors in their investigation into the bank's alleged failure to prevent money laundering.\nProsecutors in a separate statement said they would now take the case to court. They said the bank had failed for years to properly vet its customers and to report suspicious transactions.\nRabobank, a cooperative with roots in agricultural lending, said in December 2022 it was under investigation by public prosecutors for suspected violations of national money laundering laws.\nThe bank is one of the three largest in the Netherlands. Competitors ING (INGA.AS), opens new tab and ABN Amro (ABNd.AS), opens new tab have incurred massive fines in similar situations, with ING docked $900 million in 2018 and ABN $574 million in 2021."
+}

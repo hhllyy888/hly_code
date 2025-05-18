@@ -1,0 +1,9 @@
+{
+    "headline": "FinecoBank posts 12% rise in first-quarter net profit",
+    "published_time": "2025-05-07T05:17:21Z",
+    "chinese_publish_time": "2025-05-07T13:17:21",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/finecobank-posts-12-rise-first-quarter-net-profit-2025-05-07/",
+    "source": "Reuters",
+    "content": "May 7(Reuters) - Italian bank FinecoBank (FBK.MI), opens new tab said on Wednesday its first-quarter net profit rose 11.7% from a year earlier to 164.2 million euros ($186.28 million).\n($1 = 0.8814 euros)"
+}

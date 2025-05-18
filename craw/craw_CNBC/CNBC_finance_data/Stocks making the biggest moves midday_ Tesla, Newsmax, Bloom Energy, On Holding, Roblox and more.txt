@@ -1,0 +1,7 @@
+{
+    "headline": "Stocks making the biggest moves midday: Tesla, Newsmax, Bloom Energy, On Holding, Roblox and more",
+    "published_time": "2025-04-01T16:30:40+0000",
+    "author": "Lisa Kailai Han",
+    "href": "https://www.cnbc.com/2025/04/01/stocks-making-the-biggest-moves-midday-tsla-nmax-be-onon-rblx.html",
+    "content": ""
+}

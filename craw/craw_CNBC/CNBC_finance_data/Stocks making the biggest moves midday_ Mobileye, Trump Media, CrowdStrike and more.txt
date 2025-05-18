@@ -1,0 +1,7 @@
+{
+    "headline": "Stocks making the biggest moves midday: Mobileye, Trump Media, CrowdStrike and more",
+    "published_time": "2025-03-25T16:19:27+0000",
+    "author": "Hakyung Kim",
+    "href": "https://www.cnbc.com/2025/03/25/stocks-making-the-biggest-moves-midday-mbly-djt-crwd-and-more.html",
+    "content": ""
+}

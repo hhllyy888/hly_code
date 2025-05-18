@@ -1,0 +1,9 @@
+{
+    "headline": "US Treasuries Gain as Traders Eye Inflation for Clues on Fed",
+    "published_time": "2025-05-13T00:55:06Z",
+    "chinese_publish_time": "2025-05-13T08:55:06",
+    "author": "Liz Capo McCormick",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-13/bond-traders-eye-inflation-for-rate-clues-as-recession-odds-fade?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Treasuries gained ahead of the release of US inflation data, paring sharp losses sparked by the temporary US-China trade truce that’s dimmed the odds of a global recession.\nWith market-implied expectations for Federal Reserve interest-rate cuts receding and a multi-trillion-dollar tax package seen likely to worsen the US government budget deficit, focus is now on Tuesday’s inflation data for any signs of a pickup in price pressures. The report will be the first to show tariff-related costs."
+}

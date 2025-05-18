@@ -1,0 +1,9 @@
+{
+    "headline": "Santander and BBVA seek favourable capital treatment from ECB, Cinco Dias reports",
+    "published_time": "2025-03-27T08:18:31Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/santander-bbva-seek-favourable-capital-treatment-ecb-cinco-dias-reports-2025-03-27/",
+    "content": "MADRID, March 27 (Reuters) - Spanish lenders Santander (SAN.MC), opens new tab and BBVA (BBVA.MC), opens new tab are negotiating with the European Central Bank (ECB) to get a more favourable capital treatment for their holdings in insurance businesses, Spanish newspaper Cinco Dias reported on Thursday.\nUntil now, most Spanish banks have counted the insurance business as direct deductions from their capital.\nThe exception to this are those that the European banking supervisor considers to be a financial group under enhanced supervision, or the so-called 'Danish compromise'.\nSantander, BBVA and the ECB were not immediately available to comment.\nBanks are increasingly turning to insurance as a growth driver amid a backdrop of declining interest rates, striving to offset dwindling interest margins with increased commissions from increased exposure to private banking and asset management.\nThe Danish Compromise has been made permanent since the start of the year and the ECB has said it will take a case by case approach in deciding when to grant it.\nThe compromise lets banks risk-weigh their insurance investments instead of deducting them in full from their capital.\nOn Wednesday, the ECB issued a negative opinion on Banco BPM's (BAMI.MI), opens new tab request for favourable capital treatment for its proposed bid for fund manager Anima (ANIM.MI), opens new tab, the Italian bank said, in a potential blow to other deals relying on the same advantage."
+}

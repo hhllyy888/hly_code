@@ -1,0 +1,7 @@
+{
+    "headline": "Stocks making the biggest moves midday: Lululemon, Nike, Tesla, Nvidia and more",
+    "published_time": "2025-04-03T17:20:52+0000",
+    "author": "Sean Conlon",
+    "href": "https://www.cnbc.com/2025/04/03/stocks-making-the-biggest-moves-midday-lulu-nke-tsla-nvda.html",
+    "content": ""
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "The number of 'tariff' mentions soar past 'AI' on earnings calls as Trump's trade fight alters outlook",
+    "published_time": "2025-05-09T20:03:18Z",
+    "chinese_publish_time": "2025-05-10T04:03:18",
+    "author": "Alex Harring",
+    "url": "https://www.cnbc.com/2025/05/09/number-of-tariff-mentions-has-soared-past-ai-on-earnings-calls-.html",
+    "source": "CNBC",
+    "content": ""
+}

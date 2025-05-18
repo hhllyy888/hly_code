@@ -1,0 +1,9 @@
+{
+    "headline": "Brazil Inflation Simmers as Central Bank Nears End of Rate Hiking Cycle",
+    "published_time": "2025-05-09T12:06:55Z",
+    "chinese_publish_time": "2025-05-09T20:06:55",
+    "author": "Andrew Rosati",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-09/brazil-inflation-ticks-up-as-central-bank-keeps-rate-plans-open?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Brazil’s annual inflation picked up roughly in line with forecasts last month, offering little relief to central bankers who are debating whether to hit pause on their tightening cycle or deliver another interest rate hike.\nOfficial data released Friday show consumer pricesrose5.53% in April from a year ago, very near the 5.52% median estimate from analysts surveyed by Bloomberg. On the month, inflation hit 0.43%."
+}

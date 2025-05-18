@@ -1,0 +1,7 @@
+{
+    "headline": "Stocks making the biggest moves midday: Boeing, Nvidia, Autodesk, Gilead Sciences and more",
+    "published_time": "2025-03-19T16:22:32+0000",
+    "author": "Pia Singh",
+    "href": "https://www.cnbc.com/2025/03/19/stocks-making-the-biggest-moves-midday-ba-nvda-adsk-gild.html",
+    "content": ""
+}

@@ -1,0 +1,7 @@
+{
+    "headline": "UK Inflation Could Be Stoked by Appetite for Home Dining",
+    "publish_time": "2025-03-24T00:00:01.000Z",
+    "author": "Irina Anghel",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-24/british-appetite-for-home-dining-poses-unlikely-inflation-threat?srnd=phx-economics-inflation-and-prices",
+    "content": "Cost-cautious Britons are spending more on home-cooked meals after a surge in pub and restaurants prices. The catch is they risk bringinginflationback to supermarket shelves.\nWhen UK consumers are asked what they expect to be spending more money on in the next three months, groceries and energy top the list, according to research by Retail Economics and NatWest. On the contrary, they expect to spend less on eating and drinking out."
+}

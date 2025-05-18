@@ -1,0 +1,8 @@
+{
+    "headline": "Test GOP Fractures Over How Much Debt to Run Up for Tax Cuts",
+    "publish_time": "2025-04-08T20:28:34Z",
+    "chinese_publish_time": "2025-04-09T04:28:34",
+    "author": "Erik Wasson, Billy House",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-08/republicans-fracture-over-how-much-debt-to-run-up-for-tax-cuts?srnd=homepage-americas",
+    "content": "Ultra-conservatives in the US House are threatening to block a budget blueprint to kickstart tax cut negotiations, potentially delaying passage of PresidentDonald Trump’s economic plan.\nThe lawmakers oppose a Senate-passed tax outline and are threatening to hold up a key vote this week over concerns it does not adequately address the deficit. Both the House and Senate must agree to the parameters of tax and spending cuts before they can advance the president’s signature economic plan."
+}

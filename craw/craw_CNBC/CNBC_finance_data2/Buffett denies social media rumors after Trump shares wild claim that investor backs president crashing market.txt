@@ -1,0 +1,9 @@
+{
+    "headline": "Buffett denies social media rumors after Trump shares wild claim that investor backs president crashing market",
+    "published_time": "2025-04-04T17:32:08Z",
+    "chinese_publish_time": "2025-04-05T01:32:08",
+    "author": "Yun Li, Kevin Breuninger",
+    "url": "https://www.cnbc.com/2025/04/04/buffett-denies-social-media-rumors-after-trump-shares-wild-claim-that-investor-backs-president-crashing-market.html",
+    "source": "CNBC",
+    "content": "Warren Buffett went on the record Friday to deny social media posts after President Donald Trump shared on Truth Social a fan video that claimed the president is tanking the stock market on purpose with the endorsement of the legendary investor.\nTrump on Friday shared an outlandish social media video that defends his recent policy decisions by arguing he is deliberately taking down the market as a strategic play to force lower interest and mortgage rates.\n\"Trump is crashing the stock market by 20% this month, but he's doing it on purpose,\" alleged the video, which Trump posted on his Truth Social account.\nThe video's narrator then falsely states, \"And this is why Warren Buffett just said, 'Trump is making the best economic moves he's seen in over 50 years.'\""
+}

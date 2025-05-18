@@ -1,0 +1,9 @@
+{
+    "headline": "Nigeria Inflation Quickens and Trade Chaos May Add More Pain",
+    "published_time": "2025-04-15T13:14:10Z",
+    "chinese_publish_time": "2025-04-15T21:14:10",
+    "author": "None",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-15/nigeria-inflation-rises-with-more-pain-likely-from-trade-turmoil?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Nigeria’s annualinflation raterose for the first time since the data wasrebasedin January, advancing even before the fallout from a global trade war is felt.\nAnnual consumer prices rose 24.2% in March, compared with 23.2% a month earlier, according to data published by the National Bureau of Statistics on Tuesday. Prices rose 1.1% in the month."
+}

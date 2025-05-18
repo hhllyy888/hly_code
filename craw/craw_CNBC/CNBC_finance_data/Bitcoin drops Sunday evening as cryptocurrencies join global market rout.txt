@@ -1,0 +1,7 @@
+{
+    "headline": "Bitcoin drops Sunday evening as cryptocurrencies join global market rout",
+    "published_time": "2025-04-06T21:13:17+0000",
+    "author": "Tanaya Macheel",
+    "href": "https://www.cnbc.com/2025/04/06/bitcoin-drops-sunday-evening-as-cryptocurrencies-join-global-market-rout.html",
+    "content": "Bitcoin fell below the $78,000 level as investors braced for more financial market volatility after U.S. equites suffered their worst decline since 2020 on the rollout of President Donald Trump's restrictive global tariffs.\nThe price of bitcoin was last lower by nearly 4% at $76,684.44, according to Coin Metrics, after trading above the $80,000 for most of this year — barring a couple brief blips below it amid recent volatility. It's off its January all-time high by almost 30%.\nThe flagship cryptocurrency usually trades like a big tech stock and is often viewed by traders as a leading indicator of market sentiment, but last week it bucked the broader market meltdown – holding between $82,000 and $83,000 and rising to end the week as stocks tumbled and even gold fell.\nOther cryptocurrencies suffered bigger losses overnight. Ether and the token tied to Solana tumbled about 12% each.\nBitcoin's down move triggered a wave of long liquidations, as traders betting on an increase in its price were forced to sell their assets to cover their losses. In the past 24 hours, bitcoin has seen more than $247 million in long liquidations, according to CoinGlass. Ether saw $217 million in long liquidations in the same period."
+}

@@ -1,0 +1,7 @@
+{
+    "headline": "Powell’s Got a Plan to Assess Tariff Inflation. It’s Not Easy",
+    "publish_time": "2025-04-03T16:07:42.806Z",
+    "author": "Amara Omeokwe",
+    "href": "https://www.bloomberg.com/news/articles/2025-04-03/fed-s-task-of-evaluating-us-tariff-inflation-just-got-more-complicated?srnd=phx-economics-inflation-and-prices",
+    "content": "When it comes to the crucial task of gauging the impact of tariffs on inflation, Federal Reserve ChairJerome Powellhas agame plan: Separate the signal from the noise.\nThe sheer scale and scope of PresidentDonald Trump’s sweeping global levies has made the already difficult task more challenging — and more consequential."
+}

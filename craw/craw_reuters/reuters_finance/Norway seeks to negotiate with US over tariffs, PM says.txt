@@ -1,0 +1,9 @@
+{
+    "headline": "Norway seeks to negotiate with US over tariffs, PM says",
+    "published_time": "2025-04-03T06:52:59Z",
+    "author": [
+        "Terje Solsvik"
+    ],
+    "href": "https://www.reuters.com/markets/europe/norway-seeks-negotiate-with-us-over-tariffs-prime-minister-says-2025-04-03/",
+    "content": "OSLO, April 3 (Reuters) - Norway will seek to negotiate with the United States regarding the tariffs imposed by U.S. President Donald Trump, Norwegian Prime Minister Jonas Gahr Stoere told public broadcaster NRK on Thursday.\nTrump on Wednesday announced a 15% tariff on goods imported to the U.S. from Norway, part of a wider effort by the U.S. president targeting trading partners around the world.\n\"This is bad news, it is very serious,\" Stoere told NRK.\n\"There is an opening for negotiations here, the Americans say, and we will use that in every possible way that we can.\"\nNorway, which is not a member of the European Union, has said it is lobbying EU policymakers to prevent what it called a worst-case scenario in which Norwegian exports to Europe could become negatively affected by a union response to U.S. tariffs.\nStoere will lead a delegation to Brussels on Monday to meet with European Commission President Ursula von der Leyen and others, he said."
+}

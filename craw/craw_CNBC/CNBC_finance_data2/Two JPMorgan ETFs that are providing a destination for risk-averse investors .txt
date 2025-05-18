@@ -1,0 +1,9 @@
+{
+    "headline": "Two JPMorgan ETFs that are providing a destination for risk-averse investors ",
+    "published_time": "2025-05-02T11:45:02Z",
+    "chinese_publish_time": "2025-05-02T19:45:02",
+    "author": "Krysta Escobar",
+    "url": "https://www.cnbc.com/2025/05/02/two-jpmorgan-etfs-providing-a-destination-for-risk-averse-investors-.html",
+    "source": "CNBC",
+    "content": "The money manager behind two of the world's biggest actively managed exchange-traded funds sees a way for investors to stay defensive without leaving the market.\nJon Maier's firm is behind the JPMorgan Equity Premium Income ETF (JEPI) and JPMorgan Ultra-Short Income ETF (JPST). They're listed as No. 1 and No. 3 in size globally in their category, according to VettaFi.\nThe goal: give investors downside protection while generating income.\n\"When the VIX [volatility] increases, that offers the opportunity for an increased amount of income to the investor of JEPI,\" the J.P. Morgan Asset Management chief ETF strategist told CNBC's \"ETF Edge\" this week. \"Conversely ... when the volatility declines, given that the options are written out of the money, it provides some upside in the underlying portfolio.\"\nJEPI fell around 3% in April while volatility gripped the market. As of Thursday's market close, the ETF is off about 4% for the year while the S&P 500 is down almost 5%.\nJEPI's top holdings include Mastercard, Visa and Progressive according to JPMorgan's website as of April 30.\nMeanwhile, the JPMorgan Ultra-Short Income Fund focuses on fixed income instead of U.S. equity. The fund is virtually flat so far this year.\n\"It provides a ballast in your portfolio [and] stability for those investors that are looking to protect principle,\" Maier said."
+}

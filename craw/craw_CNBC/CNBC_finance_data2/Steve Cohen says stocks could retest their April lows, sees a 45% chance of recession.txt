@@ -1,0 +1,9 @@
+{
+    "headline": "Steve Cohen says stocks could retest their April lows, sees a 45% chance of recession",
+    "published_time": "2025-05-14T21:55:45Z",
+    "chinese_publish_time": "2025-05-15T05:55:45",
+    "author": "Yun Li",
+    "url": "https://www.cnbc.com/2025/05/14/steve-cohen-says-stocks-could-retest-their-april-lows-sees-a-45percent-chance-of-recession.html",
+    "source": "CNBC",
+    "content": ""
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Pinterest, Lyft, Coinbase, BP, Affirm and more",
+    "published_time": "2025-05-09T12:31:37Z",
+    "chinese_publish_time": "2025-05-09T20:31:37",
+    "author": "Hakyung Kim",
+    "url": "https://www.cnbc.com/2025/05/09/stocks-making-the-biggest-moves-premarket-pins-lyft-coin-bp-afrm.html",
+    "source": "CNBC",
+    "content": ""
+}

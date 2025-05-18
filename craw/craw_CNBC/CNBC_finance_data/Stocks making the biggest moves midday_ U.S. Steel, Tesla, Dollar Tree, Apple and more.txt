@@ -1,0 +1,7 @@
+{
+    "headline": "Stocks making the biggest moves midday: U.S. Steel, Tesla, Dollar Tree, Apple and more",
+    "published_time": "2025-04-07T16:54:23+0000",
+    "author": "Brian Evans",
+    "href": "https://www.cnbc.com/2025/04/07/stocks-making-the-biggest-moves-midday-x-tsla-dltr-aapl-and-more.html",
+    "content": ""
+}

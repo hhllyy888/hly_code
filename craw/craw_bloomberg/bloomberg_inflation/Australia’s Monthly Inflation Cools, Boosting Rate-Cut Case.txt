@@ -1,0 +1,7 @@
+{
+    "headline": "Australia’s Monthly Inflation Cools, Boosting Rate-Cut Case",
+    "publish_time": "2025-03-26T00:38:41.226Z",
+    "author": "Frances Du",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-26/australia-s-monthly-inflation-cools-boosting-case-for-rate-cut?srnd=phx-economics-inflation-and-prices",
+    "content": "A measure of Australian inflation unexpectedly cooled in February, bolstering the case for the Reserve Bank to reduce interest rates further in the months ahead.\nThe Consumer Price Index indicator edged down to 2.4%, below economists’ estimate of 2.5% that was also January’s reading, data released by the Australian Bureau of Statistics showed on Wednesday. The headline figure has now been inside the RBA’s 2-3% band for seven straight months."
+}

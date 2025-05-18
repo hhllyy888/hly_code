@@ -1,0 +1,9 @@
+{
+    "headline": "Goldman Sachs is about to report first-quarter earnings",
+    "published_time": "2025-04-14T04:01:01Z",
+    "chinese_publish_time": "2025-04-14T12:01:01",
+    "author": "Hugh Son",
+    "url": "https://www.cnbc.com/2025/04/14/goldman-sachs-gs-earnings-q1-2025.html",
+    "source": "CNBC",
+    "content": "key point \nGoldman Sachs is set to report first-quarter earnings before the bell on Monday. \nWall Street expects earnings per share of $12.35 and revenue of $14.81 billion, according to LSEG. \nAnalysts will hold a call with analysts at 9:30 a.m. ET. \nGoldman Sachs is scheduled to report first-quarter earnings before the opening bell Monday.\nHere's what Wall Street expects:\nGoldman Sachs may prove to be a beneficiary of the recent market environment.\nOn Friday, rivals JPMorgan Chase and Morgan Stanley each topped expectations for first-quarter results on booming equities trading.\nEquities trading revenue surged 48% and 45% at the banks, respectively, thanks to volatility in the opening months of President Donald Trump's tenure amid his efforts to reshape global trade agreements.\nBuoyant markets during most of the quarter, which ended March 31, should also support the bank's wealth and asset management division, which CEO David Solomon has called the growth engine of the bank.\nBut markets have churned since Trump escalated trade tensions last week, sowing uncertainty across the world's largest economy. Goldman shares have dropped 14% this year through Friday.\nAnalysts will be keen to hear what Solomon has to say about his conversations with corporate clients and institutional investors during the tumult.\nThis story is developing. Please check back for updates."
+}

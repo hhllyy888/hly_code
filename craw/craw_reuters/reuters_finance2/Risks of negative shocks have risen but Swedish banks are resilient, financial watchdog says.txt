@@ -1,0 +1,9 @@
+{
+    "headline": "Risks of negative shocks have risen but Swedish banks are resilient, financial watchdog says",
+    "published_time": "2025-05-15T06:30:17Z",
+    "chinese_publish_time": "2025-05-15T14:30:17",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/markets/europe/risks-negative-shocks-have-risen-swedish-banks-are-resilient-financial-watchdog-2025-05-15/",
+    "source": "Reuters",
+    "content": "STOCKHOLM, May 15 (Reuters) - The risk of negative shocks has risen but Swedish banks are resilient thanks to big capital buffers and good profitability, Sweden's Financial Supervisory Authority said on Thursday.\n\"We are in a very unpredictable situation and there is a risk that geopolitical and economic conflicts will escalate further,\" the FSA said in a statement accompanying a bi-annual financial stability report.\n\"The financial sector needs to take into account that this uncertainty may persist for a longer period, and that there may be more periods of financial stress in the future.\"\nAt the same time, the Swedish financial system has significant resilience to various forms of disruption, it said."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "UK Food Prices Rise Most in 15 Months as Tax Hike Starts",
+    "published_time": "2025-04-28T23:01:00Z",
+    "chinese_publish_time": "2025-04-29T07:01:00",
+    "author": "Tom Rees, Jennifer Creery",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-28/uk-food-prices-rise-most-in-15-months-as-tax-hike-hits-brc-says?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "UK food prices posted their biggest rise in more than a year after supermarkets were hit by a double whammy of tax increases and a jump in the national minimum wage, a closely watched survey found.\nTheBritish Retail Consortiumsaid the cost of food climbed 0.7% this month, the biggest gain since January 2024, with everyday items such as bread, meat and fish all increasing. It took the annual rate to 2.6%, the most in 11 months."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Euro zone investor index recovers in May after Trump tariffs hit",
+    "published_time": "2025-05-05T08:33:57Z",
+    "chinese_publish_time": "2025-05-05T16:33:57",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/euro-zone-investor-index-recovers-may-after-trump-tariffs-hit-2025-05-05/",
+    "source": "Reuters",
+    "content": "BERLIN, May 5 (Reuters) - Investor morale in the euro zone recovered more strongly than expected in May after U.S. President Donald Trump's tariffs caused sentiment in the bloc to nose-dive last month, though it still remains at a low level, a survey showed on Monday.\nThe Sentix index for the euro zone rose to -8.1 in May from -19.5 in April, beating the forecast for a reading of -12.5.\nThe current situation index surprisingly improved to -19.3, its highest level since August 2024, though still in negative territory.\nExpectations, meanwhile, leaped by 19.6 points to 3.8.\n\"This is remarkable, as it shows that investors have largely abandoned the recession fears they expressed last month,\" said Sentix in a statement.\nThe 1,068 investors surveyed from May 1-3 seem to appreciate the EU Commission's level-headed response to U.S. tariffs so far, added Sentix.\nIn Germany, Europe's largest economy, the calm reaction also helped expectations rise by more than 20 points, to hit 5.5.\n\"The main victims of Trump's tariff policy are the U.S. economy and, to some extent, the economies of China and Switzerland,\" said Sentix.\n\"However, the period of uncertainty is probably not over yet.\""
+}

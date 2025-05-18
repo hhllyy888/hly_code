@@ -1,0 +1,9 @@
+{
+    "headline": "Bitcoin back above $100,000: Financial planning icon Ric Edelman reacts to the crypto ETF boom",
+    "published_time": "2025-05-10T15:00:01Z",
+    "chinese_publish_time": "2025-05-10T23:00:01",
+    "author": "Krysta Escobar",
+    "url": "https://www.cnbc.com/2025/05/10/bitcoin-at-100000-investor-ric-edelman-reacts-to-crypto-etf-boom.html",
+    "source": "CNBC",
+    "content": "Bitcoin's milestone week comes as new crypto exchange-traded funds are hitting the market.\nInvestor and best-selling personal finance author Ric Edelman thinks the rollout gives investors more access to upside.\nHe finds buffer ETFs and yield ETFs particularly exciting.\n\"You can now invest in bitcoin ETFs that protect you against the downside volatility while preserving your ability to enjoy the upside profits,\" Edelman told CNBC's \"ETF Edge\" this week.\" You can generate massive amounts of yield, much more than you can in the stock market.\"\nEdelman is the founder of the Digital Assets Council of Financial Professionals, which educates financial advisors on cryptocurrencies. He is also in Barron's Financial Advisor Hall of Fame.\n\"Crypto is meant to be a long-term hold, just like the stock market,\" said Edelman. \"It's meant to diversify the portfolio.\"\nHis thoughts came as a bitcoin rally got underway. The cryptocurrency crossed $100,000 on Thursday for the first time since February. As of Friday's close on Wall Street, bitcoin gained 6% this week. It is now up almost 10% so far this month.\nHowever, Edelman sees problems when it comes to leverage and inverse bitcoin ETFs. He warned that not all crypto ETFs are appropriate for retail investors, suggesting most don't understand how they work."
+}

@@ -1,0 +1,7 @@
+{
+    "headline": "Stocks making the biggest moves midday: CoreWeave, Canada Goose, Tesla, United Airlines and more",
+    "published_time": "2025-03-31T16:42:43+0000",
+    "author": "Hakyung Kim",
+    "href": "https://www.cnbc.com/2025/03/31/stocks-making-the-biggest-moves-midday-crwv-goos-tsla-ual-and-more.html",
+    "content": ""
+}

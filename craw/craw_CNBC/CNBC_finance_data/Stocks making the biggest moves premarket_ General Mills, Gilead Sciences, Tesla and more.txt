@@ -1,0 +1,7 @@
+{
+    "headline": "Stocks making the biggest moves premarket: General Mills, Gilead Sciences, Tesla and more",
+    "published_time": "2025-03-19T12:24:32+0000",
+    "author": "Hakyung Kim",
+    "href": "https://www.cnbc.com/2025/03/19/stocks-making-the-biggest-moves-premarket-gis-gild-tsla-and-more.html",
+    "content": ""
+}

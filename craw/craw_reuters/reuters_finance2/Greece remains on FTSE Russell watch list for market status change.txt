@@ -1,0 +1,8 @@
+{
+    "headline": "Greece remains on FTSE Russell watch list for market status change",
+    "published_time": "2025-04-08T20:37:07Z",
+    "chinese_publish_time": "2025-04-09T04:37:07",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/markets/europe/greece-remains-ftse-russell-watch-list-market-status-change-2025-04-08/",
+    "content": "April 8 (Reuters) - FTSE Russell on Tuesday said Greece will remain on the equity watch list for possible reclassification from \"advanced emerging\" to \"developed market\", and will be evaluated against certain requirements based on data as of month-end June.\nIn October, the index provider had put Greek stocks on a watch list for the potential promotion, saying that an \"investment grade\" rating of its debt was a key requirement, which the country accomplished in March with a Moody's upgrade.\nMajor index providers, including Russell and MSCI, had first demoted Greek stocks to \"emerging\" in 2013, in the aftermath of the global financial crisis.\nHowever, a steady economic improvement since the COVID-19 pandemic and a healthier financials sector (.FTATFS), opens new tab have helped the Athens stock index (.ATG), opens new tab outperform the broader pan-European STOXX 600 (.STOXX), opens new tab and the MSCI emerging stocks index (.MSCIEF), opens new tab.\nFTSE Russell's next update on the watch list status of Greece will be provided as part of the FTSE Equity Country Classification September 2025 annual review of equity markets.\nMarket reviews from other index providers, including S&P Dow Jones Indices and MSCI, are due later in the year."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Goldman Sachs cuts China GDP growth forecasts citing tariff impact",
+    "published_time": "2025-04-10T06:27:52Z",
+    "chinese_publish_time": "2025-04-10T14:27:52",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/world/china/goldman-sachs-revises-down-china-gdp-growth-forecasts-cites-tariff-effects-2025-04-10/",
+    "source": "Reuters",
+    "content": "HONG KONG, April 10 (Reuters) - U.S. investment bank Goldman Sachs lowered its forecasts for China's GDP growth to 4% in 2025 and 3.5% in 2026 in a report published on Thursday, from 4.5% and 4.0% previously, citing the effects of tariffs.\nGoldman Sachs made the revision for the world's No. 2 economy and second biggest provider of U.S. imports after U.S. President Donald Trump hiked the tariff on Chinese imports to 125% from the 104% level that kicked in on Wednesday.\nAlthough additional tariff increases are likely to have a \"diminishing marginal impact\", the substantial rise in US tariffs on China is expected to significantly weigh on the Chinese economy and labor market, Goldman said.\n\"We anticipate the Chinese government will further intensify policy easing, projecting 60bp of policy rate cuts (vs. 40bp previously).\"\nHowever, the report added that \"even these significant easing measures are unlikely to fully offset the negative effects of the tariffs.\"\nFitch, on April 3, cut China's long-term foreign currency rating by one notch to \"A\" from \"A+\", one year after it downgraded its outlook on China's credit rating."
+}

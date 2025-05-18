@@ -1,0 +1,9 @@
+{
+    "headline": "Euro-Zone Inflation Holds Above Target as ECB Weighs Cuts",
+    "published_time": "2025-05-02T09:00:00Z",
+    "chinese_publish_time": "2025-05-02T17:00:00",
+    "author": "Alexander Weber",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-02/euro-zone-inflation-holds-above-target-as-ecb-weighs-more-cuts?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Subscribeto Economics Daily for the latest news and analysis.\nEuro-area inflation unexpectedly held steady and an underlying measure jumped in an awkward report for officials weighing how to respond to the economic hit from US tariffs."
+}

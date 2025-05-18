@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Caterpillar, Starbucks, Super Micro, Humana and more",
+    "published_time": "2025-04-30T12:23:21Z",
+    "chinese_publish_time": "2025-04-30T20:23:21",
+    "author": "Hakyung Kim",
+    "url": "https://www.cnbc.com/2025/04/30/stocks-making-the-biggest-moves-premarket-cat-sbux-smci-hum-and-more.html",
+    "source": "CNBC",
+    "content": ""
+}

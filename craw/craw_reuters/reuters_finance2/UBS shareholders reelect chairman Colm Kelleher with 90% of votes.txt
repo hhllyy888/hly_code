@@ -1,0 +1,9 @@
+{
+    "headline": "UBS shareholders reelect chairman Colm Kelleher with 90% of votes",
+    "published_time": "2025-04-10T11:30:59Z",
+    "chinese_publish_time": "2025-04-10T19:30:59",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/ubs-shareholders-reelect-chairman-colm-kelleher-with-90-votes-2025-04-10/",
+    "source": "Reuters",
+    "content": "LUCERNE, Switzerland, April 10 (Reuters) - UBS(UBSG.S), opens new tab shareholders on Thursday reelected Chairman Colm Kelleher with 90% of votes, compared to 96% of votes in 2024.\nThe voting approval rate for Vice Chairman Lukas Gaehwiler also dropped, to 89.5% in 2025 from 98.6% in 2024.\nUBS shareholders elected two new board members at the bank's AGM on Thursday, Renata Jungo Bruengger with 78% of votes and Lila Tretikov with 99.4% of votes."
+}

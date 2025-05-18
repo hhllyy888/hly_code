@@ -1,0 +1,9 @@
+{
+    "headline": "US close to trade deals with trading partners, White House's Hassett says",
+    "published_time": "2025-04-10T12:27:05Z",
+    "chinese_publish_time": "2025-04-10T20:27:05",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-close-trade-deals-with-trading-partners-white-houses-hassett-says-2025-04-10/",
+    "source": "Reuters",
+    "content": "WASHINGTON, April 10 (Reuters) - The United States is considering offers from 15 countries on tariff agreements and is close to deals with some of them, White House economic adviser Kevin Hassett said on Thursday after President Donald Trumplowered some of the duties in a stunning reversal.\n\"USTR has informed us that there are maybe 15 countries now that have made explicit offers that we're studying and considering and deciding whether they're good enough to present the president,\" Hassett told reporters at the White House.\nHassett said principals in the administration's trade policy would meet at the White House later on Thursday to \"make sure that the countries that are most important for getting this to the finish line are the countries that we bring in first.\"\nHe said he expected a lot of movement on trade deals in the next three or four weeks. \"This is a really, really fast process now that's not beginning today or yesterday. It began long before,\" he said.\n\"There's a big inventory of deals that are right close to the finish line,\" Hassett told CNBC earlier.\nTrump's turnabout on Wednesday, which came less than 24 hours after steep new tariffs kicked in on most trading partners, followed the most intense episode of financial market volatility since the early days of the COVID-19 pandemic.\nThe upheaval erased trillions of dollars from stock markets and led to an unsettling surge in U.S. government bond yields that appeared to catch Trump's attention."
+}

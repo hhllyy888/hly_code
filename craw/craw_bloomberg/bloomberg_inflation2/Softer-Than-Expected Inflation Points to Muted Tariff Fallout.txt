@@ -1,0 +1,9 @@
+{
+    "headline": "Softer-Than-Expected Inflation Points to Muted Tariff Fallout",
+    "published_time": "2025-05-13T12:32:01Z",
+    "chinese_publish_time": "2025-05-13T20:32:01",
+    "author": "Augusta Saraiva",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-13/us-inflation-comes-in-softer-than-forecast-for-another-month?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Subscribeto Economics Daily for the latest news and analysis.\nUS inflation rose by less than forecast in April amid tame prices for clothing and new cars, suggesting little urgency so far by companies to pass along the cost of higher tariffs to consumers."
+}

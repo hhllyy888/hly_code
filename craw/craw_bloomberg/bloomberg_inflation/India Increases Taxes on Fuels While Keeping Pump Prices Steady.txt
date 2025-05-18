@@ -1,0 +1,7 @@
+{
+    "headline": "India Increases Taxes on Fuels While Keeping Pump Prices Steady",
+    "publish_time": "2025-04-07T10:37:23.980Z",
+    "author": "Rakesh Sharma",
+    "href": "https://www.bloomberg.com/news/articles/2025-04-07/india-increases-taxes-on-fuels-while-keeping-pump-prices-steady?srnd=phx-economics-inflation-and-prices",
+    "content": "Supply Lines is a daily newsletter that tracks global trade.Sign up here.\nIndia increased taxes on diesel and gasoline by 2 rupees a liter beginning Tuesday, a step that will help boost its revenue amid falling global crude oil prices."
+}

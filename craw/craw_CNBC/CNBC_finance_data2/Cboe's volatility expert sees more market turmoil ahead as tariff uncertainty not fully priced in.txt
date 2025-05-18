@@ -1,0 +1,9 @@
+{
+    "headline": "Cboe's volatility expert sees more market turmoil ahead as tariff uncertainty not fully priced in",
+    "published_time": "2025-04-15T11:02:23Z",
+    "chinese_publish_time": "2025-04-15T19:02:23",
+    "author": "Anna Gleason",
+    "url": "https://www.cnbc.com/2025/04/15/tariff-uncertainty-not-fully-priced-into-stocks-cboes-mandy-xu.html",
+    "source": "CNBC",
+    "content": ""
+}

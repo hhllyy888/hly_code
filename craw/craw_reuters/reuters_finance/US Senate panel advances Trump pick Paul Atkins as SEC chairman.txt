@@ -1,0 +1,9 @@
+{
+    "headline": "US Senate panel advances Trump pick Paul Atkins as SEC chairman",
+    "published_time": "2025-04-03T14:57:31Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/world/us/us-senate-panel-advances-trump-pick-paul-atkins-sec-chairman-2025-04-03/",
+    "content": "April 3 (Reuters) - The U.S. Senate Banking Committee voted on Thursday to advance President Donald Trump'snominee to run Wall Street's top regulator as well as his picks for banking oversight and transportation roles.\nIn a party-line vote, the committee voted 13-11 to approve Paul Atkins as chair of the U.S. Securities and Exchange Commission and Jonathan Gould as U.S. comptroller of the currency.\nRepublican Senator Tim Scott, the committee's chairman, praised the nominees' experience and said they would de-politicize financial regulation.\nSenator Elizabeth Warren, the committee's top Democrat, said she opposed the nominations due to what she said was their preference for deregulation in favor of Wall Street payers.\nShe also cited mass layoffs of government workers and the administration's efforts led by billionaire Elon Musk to shutter entire agencies.\n\"I will not vote to confirm these administration officials when co-Presidents Trump and Musk are actively destroying these agencies while we just sit here,\" she said.\nWith some support from Democrats, the panel also approved the nominations of Luke Pettit, a former Senate staffer who is set to become an assistant secretary of the U.S. Treasury, and Marcus Molinaro, slated to be federal transit administrator."
+}

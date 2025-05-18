@@ -1,0 +1,9 @@
+{
+    "headline": "Conservative cable channel Newsmax shares plunge 77% after a dizzying 2-day surge",
+    "published_time": "2025-04-02T18:57:29Z",
+    "chinese_publish_time": "2025-04-03T02:57:29",
+    "author": "Yun Li",
+    "url": "https://www.cnbc.com/2025/04/02/conservative-cable-channel-newsmax-shares-plunge-more-than-70percent-after-a-dizzying-2-day-surge.html",
+    "source": "CNBC",
+    "content": "Shares of conservative news channel Newsmax plunged more than 70% on Wednesday as its meteoric rise as a new public company proved to be short-lived.\nThe stock tumbled a whopping 77.5%, following a 2,230% surge in Newsmax's first two days of trading after debuting on the New York Stock Exchange. At one point, the rally gave the company a market capitalization of nearly $30 billion, surpassing the market cap of legacy media companies such as Warner Bros. Discovery and Fox Corp."
+}

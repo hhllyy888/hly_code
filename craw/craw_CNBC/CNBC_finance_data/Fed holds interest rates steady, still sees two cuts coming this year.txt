@@ -1,0 +1,7 @@
+{
+    "headline": "Fed holds interest rates steady, still sees two cuts coming this year",
+    "published_time": "2025-03-19T18:00:07+0000",
+    "author": "Jeff Cox",
+    "href": "https://www.cnbc.com/2025/03/19/fed-rate-decision-march-2025.html",
+    "content": "key point \nThe rate-setting Federal Open Market Committee kept its key borrowing rate targeted in a range between 4.25%-4.5%, where it has been since December.\nThe FOMC downgraded its collective outlook for economic growth and gave a bump higher to its inflation projection. \nOfficials now see the economy accelerating at just a 1.7% pace this year, down 0.4 percentage point from the last projection in December.\nIn addition to the rate decision, the Fed announced a further scaling back of its \"quantitative tightening\" program in which it is slowly reducing the bonds it holds on its balance sheet.\nWASHINGTON – The Federal Reserve in a closely watched decision Wednesday held the line on benchmark interest rates though still indicated that reductions are likely later in the year.\nFaced with pressing concerns over the impact tariffs will have on a slowing economy, the rate-setting Federal Open Market Committee kept its key borrowing rate targeted in a range between 4.25%-4.5%, where it has been since December. Markets had been pricing in virtually zero chance of a move at this week's two-day policy meeting.\nAlong with the decision, officials updated their rate and economic projections for this year and through 2027 and altered the pace at which they are reducing bond holdings."
+}

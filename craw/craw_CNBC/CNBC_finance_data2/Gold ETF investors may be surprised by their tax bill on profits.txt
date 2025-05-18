@@ -1,0 +1,9 @@
+{
+    "headline": "Gold ETF investors may be surprised by their tax bill on profits",
+    "published_time": "2025-05-01T14:24:03Z",
+    "chinese_publish_time": "2025-05-01T22:24:03",
+    "author": "Greg Iacurci",
+    "url": "https://www.cnbc.com/2025/05/01/gold-etf-investors-may-be-surprised-by-their-tax-bill-on-profits.html",
+    "source": "CNBC",
+    "content": "key point \nThe IRS treats gold and other precious metals as collectibles for tax purposes. The same is true of exchange-traded funds backed by physical gold. \nCollectibles have a 28% top federal tax rate for long-term capital gains. Stocks have a maximum rate of 20%. \nMany investors in popular gold funds — like SPDR Gold Shares (GLD), iShares Gold Trust (IAU), and abrdn Physical Gold Shares ETF (SGOL) — may be surprised to learn they face a higher tax rate. \nGold returns are shining — but investors holding gold exchange-traded funds may get hit with an unexpectedly high tax bill on their profits.\nThe Internal Revenue Service considers gold and other precious metals to be \"collectibles,\" similar to other physical property like art, antiques, stamps, coins, wine, cars and rare comic books.\nThat's also true of ETFs that are physically backed by precious metals, according to tax experts.\nHere's why that matters: Collectibles generally carry a 28% top federal tax rate on long-term capital gains. (That rate applies to profits on assets held for longer than one year.)\nBy comparison, stocks and other assets like real estate are generally subject to a lower — 20% — maximum rate on long-term capital gains."
+}

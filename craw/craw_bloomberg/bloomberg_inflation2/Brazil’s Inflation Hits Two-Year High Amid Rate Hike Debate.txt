@@ -1,0 +1,9 @@
+{
+    "headline": "Brazil’s Inflation Hits Two-Year High Amid Rate Hike Debate",
+    "published_time": "2025-04-11T12:07:38Z",
+    "chinese_publish_time": "2025-04-11T20:07:38",
+    "author": "Andrew Rosati",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-11/brazil-inflation-hits-two-year-high-with-rate-hike-size-in-doubt?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Brazil’s annual inflation hit the highest level in two years and economic activity rose more than expected according to data published Friday, pressuring central bankers as they mull the size of their next rate hike.\nOfficial data showed consumer prices rose 5.48% in March from the year prior, just above the 5.45%median estimateof analysts surveyed by Bloomberg. On a monthly basis, pricesincreased0.56%, down from February’s rate of 1.31%."
+}

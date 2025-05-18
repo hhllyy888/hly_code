@@ -1,0 +1,9 @@
+{
+    "headline": "Euro zone consumers may be put off by inflation 'misperception,' ECB's Schnabel says",
+    "published_time": "2025-03-27T19:55:01Z",
+    "author": [
+        "Yoruk Bahceli"
+    ],
+    "href": "https://www.reuters.com/markets/europe/euro-zone-consumers-may-be-put-off-by-inflation-misperception-ecbs-schnabel-says-2025-03-27/",
+    "content": "LONDON, March 27 (Reuters) - The euro zone's economic recovery may have been held back by households' \"misperception\" of inflation and income, which has made them reluctant to spend, European Central Bank board member Isabel Schnabel said on Thursday.\nPolicymakers and economists have long been puzzled by how little of their income euro zone consumers are prepared to spend, even as inflation in the 20-country bloc slows and salaries catch up with past price hikes.\nSchnabel said this may be due to many households failing to recognise a recent increase in their real income.\n\"Over the past three years, real private consumption has increased more slowly than real disposable income,\" Schnabel said during a lecture on financial literacy in London. \"This can be partly explained by household misperceptions of their real income developments.\"\nShe added that real income grew in over half of all households in the euro area last year but that an ECB survey of consumers showed that only 11% perceived that increase.\nThe net percentage of pessimistic households is higher for poorer and less financially educated households, the survey showed.\n\"This implies that lower inflation due to restrictive monetary policy generally had a weaker impact on consumption due to such misperceptions, dampening the recovery,\" Schnabel added."
+}

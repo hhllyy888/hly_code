@@ -1,0 +1,9 @@
+{
+    "headline": "Where the 'Fast Money' traders see the most promise — and problems — over President Trump's next 100 days",
+    "published_time": "2025-04-29T23:25:21Z",
+    "chinese_publish_time": "2025-04-30T07:25:21",
+    "author": "Stephanie Landsman",
+    "url": "https://www.cnbc.com/2025/04/29/trump-tariffs-100-days-market-promise-and-problems-fast-money-list.html",
+    "source": "CNBC",
+    "content": "To get more personalized investment strategies, join us for our next \"Fast Money\" Live event on Thursday, June 5, at the Nasdaq in Times Square.\nOver President Donald Trump's first 100 days, the S&P 500 lost more than 7% while the tech-heavy Nasdaq Composite dropped 11%.\nOn a sector basis, consumer staples is the biggest gainer in that time period, up 5%. Consumer discretionary lost the most value, off 13%.\nWe asked the \"Fast Money\" traders to share which market areas should see the most promise — and problems — over the next 100 days.\nNo. 1: Karen Finerman\nMost promise: Big cap pharma. She's bullish because the group is \"way oversold,\" and it's largely out of the tariff crossfire.\nMost problems: Container space. It's likely seeing benefits right now from a big pull forward in demand. If the tariff fight takes a while to get resolved, expect to see fewer containers and a reduction in full containers overall, making for a \"very sad income statement.\""
+}

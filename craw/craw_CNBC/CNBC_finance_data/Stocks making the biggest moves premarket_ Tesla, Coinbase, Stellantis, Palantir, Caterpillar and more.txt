@@ -1,0 +1,7 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Tesla, Coinbase, Stellantis, Palantir, Caterpillar and more",
+    "published_time": "2025-04-07T12:23:17+0000",
+    "author": "Alex Harring",
+    "href": "https://www.cnbc.com/2025/04/07/stocks-making-the-biggest-moves-premarket-tsla-coin-stla-pltr-cat-and-more.html",
+    "content": ""
+}

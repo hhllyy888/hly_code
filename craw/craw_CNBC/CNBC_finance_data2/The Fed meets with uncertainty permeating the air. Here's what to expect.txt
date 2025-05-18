@@ -1,0 +1,9 @@
+{
+    "headline": "The Fed meets with uncertainty permeating the air. Here's what to expect",
+    "published_time": "2025-05-06T19:03:16Z",
+    "chinese_publish_time": "2025-05-07T03:03:16",
+    "author": "Jeff Cox",
+    "url": "https://www.cnbc.com/2025/05/06/the-fed-meets-with-uncertainty-permeating-the-air-heres-what-to-expect.html",
+    "source": "CNBC",
+    "content": "key point \nThe Federal Reserve heads into its closely watched policy decision Wednesday with a strong incentive to do absolutely nothing.\nMarket pricing in the futures markets are implying almost no chance of an interest rate cut at this week's meeting, and only about a 1-in-3 probability of a cut at the June 17-18 session.\nFed Chair Jerome Powell \"is going to have to say everything's on the table. He always says it, but this time, he's going to have to mean it,\" said economist and Fed veteran Vincent Reinhart.\nThe Federal Reserve heads into its closely watched policy decision Wednesday with a strong incentive to do absolutely nothing.\nFaced with unresolved questions over President Donald Trump's tariffs and an economy that is signaling both significant strengths and weaknesses, central bank policymakers can do little for now except sit and wait as events unfold.\n\"It's going to be awkward at this meeting. The Fed doesn't have a forecast to convey anything about the next couple meetings,\" said Vincent Reinhart, a former long-time Fed official and now chief economist at BNY Investments. \"The Fed's got to wait for two things: It's to see that the policy actually goes into place ... But then, when it's demonstrated, it's got to see how inflation expectations react. So that's why the Fed's got to delay, then go slow.\"\nIndeed, futures market pricing is implying almost no chance of an interest rate cut at this week's meeting, and only about a 1-in-3 probability of a move at the June 17-18 session, according to the CME Group's FedWatch gauge."
+}

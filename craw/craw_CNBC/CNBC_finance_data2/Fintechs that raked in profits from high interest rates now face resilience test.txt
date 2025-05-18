@@ -1,0 +1,9 @@
+{
+    "headline": "Fintechs that raked in profits from high interest rates now face resilience test",
+    "published_time": "2025-05-13T05:01:23Z",
+    "chinese_publish_time": "2025-05-13T13:01:23",
+    "author": "Ryan Browne",
+    "url": "https://www.cnbc.com/2025/05/13/fintechs-that-made-profits-from-high-interest-rates-now-face-key-test.html",
+    "source": "CNBC",
+    "content": "key point \nIn 2024, several fintechs — including Robinhood, Revolut and Monzo — saw a boost to their bottom lines from higher interest rates.\nNow, they face a key test as a broad decline in interest rates raises doubts about the sustainability of relying on this heightened income over the long term.\nLindsey Naylor, partner at Bain & Company, said dropping benchmark rates could be \"a test of the resilience of fintech firms' business models.\"\nFinancial technology firms were initially the biggest losers of interest rate hikes by global central banks in 2022, which led to tumbling valuations.\nWith time though, this change in the interest rate environment steadily boosted profits for fintechs. This is because higher rates boost what's called net interest income — or the difference between the rates charged for loans and the interest paid out to savers.\nIn 2024, several fintechs — including Robinhood, Revolut and Monzo — saw a boost to their bottom lines as a result. Robinhood reported $1.4 billion in annual profit, boosted by a 19% jump in net interest income year-over-year, to $1.1 billion.\nRevolut also saw a 58% jump in net interest income last year, which helped lift profits to £1.1 billion ($1.45 billion). Monzo, meanwhile, reported its first annual profit in the year ending March 31, 2024, buoyed by a 167% increase in net interest income."
+}

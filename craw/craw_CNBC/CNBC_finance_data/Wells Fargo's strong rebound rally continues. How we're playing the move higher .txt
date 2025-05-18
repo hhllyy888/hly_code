@@ -1,0 +1,7 @@
+{
+    "headline": "Wells Fargo's strong rebound rally continues. How we're playing the move higher ",
+    "published_time": "2025-03-24T20:13:25+0000",
+    "author": "Morgan Chittum",
+    "href": "https://www.cnbc.com/2025/03/24/wells-fargo-strong-rebound-rally-continues-how-were-playing-the-move-higher-.html",
+    "content": "Wells Fargo shares rose again Monday amid fresh Wall Street research and a broader market gain."
+}

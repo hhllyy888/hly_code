@@ -1,0 +1,9 @@
+{
+    "headline": "ECB's Villeroy says Trump policies have eroded confidence in US dollar",
+    "published_time": "2025-04-10T06:18:09Z",
+    "chinese_publish_time": "2025-04-10T14:18:09",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/markets/ecbs-villeroy-says-trump-policies-have-eroded-confidence-us-dollar-2025-04-10/",
+    "source": "Reuters",
+    "content": "PARIS, April 10 (Reuters) - US President Donald Trump's policies in recent weeks have eroded confidence in the US dollar, European Central Bank (ECB) policymaker Francois Villeroy de Galhau said on Thursday.\nSpeaking on France Inter radio, Villeroy - who is also head of the Bank of France - said the protectionism and unpredictability of the Trump administration were \"bad elements\" for the US economy.\nOn Wednesday, U.S. President Donald Trump said he would temporarily lower the hefty duties he had just imposed on dozens of countries while further ramping up pressure on China, sending global stocks rocketing higher.\n\"The big element of constancy in US policy of the past decades is the attachment to the central role of the dollar. I believe that the Trump administration also has that view, but it is very incoherent in the way it practices that. What has happened in recent days and weeks plays against the confidence in the US currency,\" Villeroy said.\nHe added that this can be a positive factor in the development of the international role of the euro.\n\"Thank God that Europe, 25 years ago, created the euro. We have created our own monetary autonomy, we can manage our interest rates in a way that is different from the Americans, that was not the case before,\" he said.\nVilleroy also reaffirmed he did not expect a recession in France.\nOn Wednesday, French finance minister Eric Lombard trimmed France's 2025 economic growth forecast to 0.7% from 0.9% earlier."
+}

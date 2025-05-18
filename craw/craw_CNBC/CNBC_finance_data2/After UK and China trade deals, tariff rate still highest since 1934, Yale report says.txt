@@ -1,0 +1,9 @@
+{
+    "headline": "After UK and China trade deals, tariff rate still highest since 1934, Yale report says",
+    "published_time": "2025-05-12T19:43:05Z",
+    "chinese_publish_time": "2025-05-13T03:43:05",
+    "author": "Greg Iacurci",
+    "url": "https://www.cnbc.com/2025/05/12/after-uk-china-trade-deals-tariff-rate-still-highest-since-1934-yale.html",
+    "source": "CNBC",
+    "content": "key point \nThe average effective tariff rate on imports is 17.8%, the highest since 1934, even after trade deals reached with China and the U.K. in recent days, according to the Yale Budget Lab.\nLevies that President Donald Trump placed on other products and countries still remain, including a 10% tariff on almost all trading partners.\nThe tariff rate the U.S. puts on imports remains higher than any point since the 1930s, despite trade deals struck with China and the United Kingdom in recent days, according to a Yale Budget Lab report issued Monday.\nThe total U.S. average effective tariff rate is 17.8% — the highest since 1934 — even after accounting for these policy changes, according to the Yale Budget Lab.\nThat is equivalent to an increase of 15.4 percentage points from the average effective tariff rate before Trump's second term, the report said.\nCurrent tariff policies in effect are expected to cost the average household $2,800 over the \"short run,\" according to the report. It does not specify a time frame."
+}

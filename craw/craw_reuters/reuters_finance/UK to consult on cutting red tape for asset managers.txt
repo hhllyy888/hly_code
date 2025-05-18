@@ -1,0 +1,9 @@
+{
+    "headline": "UK to consult on cutting red tape for asset managers",
+    "published_time": "2025-04-07T09:11:40Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/world/uk/uk-consult-cutting-red-tape-asset-managers-2025-04-07/",
+    "content": "LONDON, April 7 (Reuters) - Britain on Monday began a consultation on changing the rules governing Alternative Investment Fund Managers as it looks to remove barriers to investment and boost economic growth.\nCity Minister Emma Reynolds said changes to the system would remove \"costly regulation that prevents asset management firms from growing and provide capital for businesses across the country to grow.\""
+}

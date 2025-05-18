@@ -1,0 +1,7 @@
+{
+    "headline": "Hungary Curbs Banking Fees to Help Tame Inflation Further",
+    "publish_time": "2025-04-08T06:32:41.058Z",
+    "author": "Marton Kasnyik",
+    "href": "https://www.bloomberg.com/news/articles/2025-04-08/hungary-s-inflation-slows-more-than-expected-on-fuel-costs?srnd=phx-economics-inflation-and-prices",
+    "content": "Hungary’s price growth slowed more than forecast in March, with the government and central bank taking more steps to bring the inflation rate further down via regulatory actions.\nThe central banksaidBloomberg Terminalit reached an agreement with commercial lenders on cutting their fees, in line with calls from the Economy Ministry to make services more affordable. Banks will waive fees on basic accounts until inflation sustainably returns to the target range, it said."
+}

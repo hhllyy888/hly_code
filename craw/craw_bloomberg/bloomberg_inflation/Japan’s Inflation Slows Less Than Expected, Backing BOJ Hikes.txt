@@ -1,0 +1,7 @@
+{
+    "headline": "Japan’s Inflation Slows Less Than Expected, Backing BOJ Hikes",
+    "publish_time": "2025-03-20T23:35:27.570Z",
+    "author": "Erica Yokoyama",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-20/japan-s-inflation-slows-after-resumption-of-energy-subsidies?srnd=phx-economics-inflation-and-prices",
+    "content": "The pace of Japan’s consumer inflation was a little stronger than expected even as the resumption of government energy subsidies slowed price gains, backing the case for the Bank of Japan to stay on a gradual rate hike path.\nConsumerpricesexcluding fresh food rose 3.0% from a year ago in February, decelerating from a 3.2% pace in January, the ministry of internal affairs said Friday. Economists had expected a 2.9% gain. Overallinflationslowed a little less than expected, slipping to 3.7% from 4% in the prior month."
+}

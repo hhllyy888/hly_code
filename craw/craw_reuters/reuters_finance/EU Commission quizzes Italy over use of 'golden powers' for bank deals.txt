@@ -1,0 +1,9 @@
+{
+    "headline": "EU Commission quizzes Italy over use of 'golden powers' for bank deals",
+    "published_time": "2025-04-04T07:55:17Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/eu-commission-quizzes-italy-over-use-golden-powers-bank-deals-2025-04-04/",
+    "content": "MILAN, April 4 (Reuters) - The European Commission has asked Italy information about the way it applies 'golden power' legislation to vet possible bank acquisitions in the country, a spokesperson for the financial services department at the EU executive said.\n\"This procedure is called EU Pilot,\" spokesperson Olof Gill said in answer to a Reuters request.\n\"The Commission applies the EU Pilot dialogue whenever it is considered useful to have an informal discussion in a more structured way with the member states on potential questions regarding compliance with EU law,\" Gill added.\nItalian newspaper Libero reported this week the EU had written to Rome asking details about its use of 'golden powers', legislation designed to screen foreign investments which may pose a threat to the national interest."
+}

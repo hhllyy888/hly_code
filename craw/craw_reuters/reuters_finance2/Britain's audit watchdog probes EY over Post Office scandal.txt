@@ -1,0 +1,9 @@
+{
+    "headline": "Britain's audit watchdog probes EY over Post Office scandal",
+    "published_time": "2025-04-16T06:55:40Z",
+    "chinese_publish_time": "2025-04-16T14:55:40",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/world/uk/britains-audit-watchdog-probes-ey-over-post-office-scandal-2025-04-16/",
+    "source": "Reuters",
+    "content": "LONDON, April 16 (Reuters) - Britain's Financial Reporting Council has opened an investigation into EY over its audit of Post Office Limited, it said on Wednesday, amid the lingering fallout from one of the country's worst miscarriages of justice.\nThe FRC said in a statement it will focus on the audit firm's role in approving the Post Office's financial statements from 2015 to 2018, particularly the Horizon IT system which was at the heart of the scandal.\n“We have been notified of the FRC’s intention to open an investigation into the EY audits of Post Office Limited for the financial years ending March 2015 – March 2018,\" a spokesperson for EY said. \"We take our public interest responsibilities extremely seriously and will be fully cooperating with the FRC during their investigation,” the spokesperson said.\nHundreds of self-employed workers at the state-owned Post Office were wrongly prosecuted or convicted between 1999 and 2015 for false accounting, theft and fraud, because of glitches in a software system that incorrectly showed money missing from accounts.\nSome were jailed, lost their marriages or otherwise saw their lives destroyed while others died before their names could be cleared.\nSpurred into action last year by public outcry following a television series that dramatised the scandal, then-Prime Minister Rishi Sunak sought to quash the wrongful convictions while a police investigation and public inquiry have also been carried out."
+}

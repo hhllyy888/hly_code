@@ -1,0 +1,9 @@
+{
+    "headline": "Here Are the Key Takeaways From the US CPI Report for March",
+    "published_time": "2025-04-10T13:26:37Z",
+    "chinese_publish_time": "2025-04-10T21:26:37",
+    "author": "Chris Anstey",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-10/us-cpi-report-march-2025-key-takeaways-on-inflation-consumer-price-index?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Here are five key takeaways from the US CPI inflation report for March, released Thursday:\nTo access the full live blog, clickhereto read on the Terminal andhereonline."
+}

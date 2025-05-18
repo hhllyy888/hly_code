@@ -1,0 +1,9 @@
+{
+    "headline": "These are 3 big things we're watching in the stock market this week",
+    "published_time": "2025-04-27T14:39:52Z",
+    "chinese_publish_time": "2025-04-27T22:39:52",
+    "author": "Kevin Stankiewicz, Matthew J. Belvedere",
+    "url": "https://www.cnbc.com/2025/04/27/these-are-3-big-things-were-watching-in-the-stock-market-this-week.html",
+    "source": "CNBC",
+    "content": "The stock market bounce last week showed once again just how dependent Wall Street has become on the whims of the White House."
+}

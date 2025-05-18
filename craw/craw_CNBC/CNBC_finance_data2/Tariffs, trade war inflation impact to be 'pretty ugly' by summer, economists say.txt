@@ -1,0 +1,9 @@
+{
+    "headline": "Tariffs, trade war inflation impact to be 'pretty ugly' by summer, economists say",
+    "published_time": "2025-04-10T17:32:13Z",
+    "chinese_publish_time": "2025-04-11T01:32:13",
+    "author": "Greg Iacurci",
+    "url": "https://www.cnbc.com/2025/04/10/tariffs-trade-war-inflation-impact-to-be-pretty-ugly-by-summer.html",
+    "source": "CNBC",
+    "content": "key point \nEconomists expect that tariffs will lead to higher prices for consumers. \nThe price impact will be noticeable by summer, economists said. \nFood prices will be among the early indicators, then physical goods, they said. \nPresident Donald Trump may change course regarding policy, however. \nThe impact of President Donald Trump's tariff agenda and resulting trade war will translate to higher consumer prices by summer, economists said.\n\"I suspect by May — certainly by June, July — the inflation statistics will look pretty ugly,\" said Mark Zandi, chief economist at Moody's.\nTariffs are a tax on imports, paid by U.S. businesses. Importers pass on at least some of those higher costs to consumers, economists said."
+}

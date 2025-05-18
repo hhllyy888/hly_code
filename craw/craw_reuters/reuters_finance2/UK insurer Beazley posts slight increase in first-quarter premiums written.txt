@@ -1,0 +1,9 @@
+{
+    "headline": "UK insurer Beazley posts slight increase in first-quarter premiums written",
+    "published_time": "2025-04-29T06:45:30Z",
+    "chinese_publish_time": "2025-04-29T14:45:30",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/uk-insurer-beazley-posts-slight-increase-first-quarter-premiums-written-2025-04-29/",
+    "source": "Reuters",
+    "content": "April 29 (Reuters) - British insurer Beazley (BEZG.L), opens new tab on Tuesday reported a marginal increase in first-quarter insurance written premiums, driven by growth in its property risks division.\nThe specialist insurance business reported gross written premiums of $1.51 billion for the three month period ended March 31, up from $1.48 billion last year.\n(This story has been corrected to fix the currency to USD from GBP in paragraph 2)"
+}

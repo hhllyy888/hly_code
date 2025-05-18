@@ -1,0 +1,9 @@
+{
+    "headline": "UBS posts profit beat but 'material risk' from Trump tariffs darkens outlook",
+    "published_time": "2025-04-30T04:53:48Z",
+    "chinese_publish_time": "2025-04-30T12:53:48",
+    "author": "Ruxandra Iordache",
+    "url": "https://www.cnbc.com/2025/04/30/ubs-q1-earnings-2025.html",
+    "source": "CNBC",
+    "content": "key point \nSwiss giant UBS on Wednesday beat bottom line expectations amid sharp returns in investment banking.\nThe lender said it delivered a 32% year-on-year hike in revenues of the global markets unit of its investment banking arm, largely driven by \"higher client activity in equities and FX with gains across all regions.\"\nInvestors are keenly watching these metrics as European banks transition to an environment of monetary easing\nSwiss giant UBS on Wednesday beat bottom line expectations amid sharp returns in investment banking while warning of the global trade impact of sweeping U.S. tariffs as it seeks to rein in steep share declines.\nNet profit attributable to shareholders hit $1.692 billion in the first quarter, compared with a mean forecast of $1.359 billion in a LSEG poll of analysts. Group revenue over the stretch stood at $12.557 billion, versus analyst expectations of $12.99 billion.\nOther first-quarter highlights included:\nThe lender said it delivered a 32% year-on-year hike in revenues of the global markets unit of its investment banking arm, largely driven by \"higher client activity in equities and FX with gains across all regions.\" It also achieved a 15% hike in transaction-based hike in income in its key global wealth management unit.\nSpeaking to CNBC's Carolin Roth on Wednesday, UBS CEO Sergio Ermotti recognized a \"challenging environment\" in the first quarter, with a spate of \"definitely extremely volatile\" first few weeks in April that underpinned spikes in the volume of transactions that at times exceeded Covid-19 levels by 30%."
+}

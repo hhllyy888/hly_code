@@ -1,0 +1,9 @@
+{
+    "headline": "Here's why 'dead' investors outperform the living",
+    "published_time": "2025-04-05T13:55:16Z",
+    "chinese_publish_time": "2025-04-05T21:55:16",
+    "author": "Greg Iacurci",
+    "url": "https://www.cnbc.com/2025/04/05/heres-why-dead-investors-outperform-the-living.html",
+    "source": "CNBC",
+    "content": "key point \nThe average investor would have better investment results by doing nothing. \nInvestors often have bad habits that cause them to buy high and sell low. \nBuying and holding investments like all-in-one funds that automate tasks like rebalancing is a good bet for investors, experts said. \n\"Dead\" investors often beat the living — at least, when it comes to investment returns.\nA \"dead\" investor refers to an inactive trader who adopts a \"buy and hold\" investment strategy. This often leads to better returns than active trading, which generally incurs higher costs and taxes and stems from impulsive, emotional decision-making, experts said.\nDoing nothing, it turns out, generally yields better results for the average investor than taking a more active role in one's portfolio, according to investment experts.\nThe \"biggest threat\" to investor returns is human behavior, not government policy or company actions, said Brad Klontz, a certified financial planner and financial psychologist.\n\"It's them selling [investments] when they're in a panic state, and conversely, buying when they're all excited,\" said Klontz, the managing principal of YMW Advisors in Boulder, Colorado, and a member of CNBC's Advisor Council.\n\"We are our own worst enemy, and it's why dead investors outperform the living,\" he said."
+}

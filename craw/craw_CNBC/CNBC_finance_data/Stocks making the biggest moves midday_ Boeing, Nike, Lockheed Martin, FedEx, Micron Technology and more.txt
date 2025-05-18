@@ -1,0 +1,7 @@
+{
+    "headline": "Stocks making the biggest moves midday: Boeing, Nike, Lockheed Martin, FedEx, Micron Technology and more",
+    "published_time": "2025-03-21T16:39:34+0000",
+    "author": "Hakyung Kim",
+    "href": "https://www.cnbc.com/2025/03/21/stocks-making-the-biggest-moves-midday-ba-nke-lmt-fdx-mu-and-more.html",
+    "content": ""
+}

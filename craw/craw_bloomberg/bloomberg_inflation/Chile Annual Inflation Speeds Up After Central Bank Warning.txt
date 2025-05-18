@@ -1,0 +1,7 @@
+{
+    "headline": "Chile Annual Inflation Speeds Up After Central Bank Warning",
+    "publish_time": "2025-04-08T12:15:05.393Z",
+    "author": "Matthew Malinowski",
+    "href": "https://www.bloomberg.com/news/articles/2025-04-08/chile-s-annual-inflation-accelerates-after-central-bank-warning?srnd=phx-economics-inflation-and-prices",
+    "content": "Chile’s annual inflation accelerated further above target last month according to a report published one day after central bank GovernorRosanna Costawarned of unprecedented economic uncertainty.\nTheannual inflationrate rose to 4.9% in March from 4.7% the month before, well above the 3% target, the national statistics institute reported on Tuesday. Pricesincreased0.5% from February, matching the median estimate of analysts in a Bloomberg survey."
+}

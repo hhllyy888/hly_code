@@ -1,0 +1,9 @@
+{
+    "headline": "Allianz posts 2.1% fall in Q1 net profit but confirms 2025 target",
+    "published_time": "2025-05-15T05:11:46Z",
+    "chinese_publish_time": "2025-05-15T13:11:46",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/allianz-posts-21-fall-q1-net-profit-confirms-2025-target-2025-05-15/",
+    "source": "Reuters",
+    "content": "FRANKFURT, May 15 (Reuters) - Germany's Allianz (ALVG.DE), opens new tab on Thursday posted a worse-than-expected 2.1% fall in first-quarter net profit but confirmed its target for the full year.\nNet profit attributable to shareholders of 2.423 billion euros ($2.71 billion) in the three months through March compares with profit of 2.475 billion euros a year earlier. The figure fell short of a 2.702 billion euro consensus forecast.\nA one-time tax provision for the sale of a venture in India pressured results, the company said.\nFor 2025, the company expects operating profit of between 15 billion euros and 17 billion euros, compared with 16.0 billion euros in 2024.\n($1 = 0.8937 euros)"
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Japan’s Business Service Prices Stay Elevated Before Tariffs Hit",
+    "published_time": "2025-04-24T01:05:45Z",
+    "chinese_publish_time": "2025-04-24T09:05:45",
+    "author": "Toru Fujioka",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-24/japan-s-business-service-prices-stay-elevated-before-tariffs-hit?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Service prices among businesses in Japan stayed elevated last month, indicating sustained inflationary pressures before the impact from US tariffs kicks in, as the Bank of Japan prepares to set policy next week.\nThe cost of services among companies climbed 3.1% in March, remaining above 3% for a sixth month, the longest such streak since 1991 if the effects of sales tax hikes are excluded, according to a BOJ report Thursday. The result came in slightly stronger than economists’ estimate of 3%."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Russia plans to soften capital controls on new investments",
+    "published_time": "2025-04-10T12:52:39Z",
+    "chinese_publish_time": "2025-04-10T20:52:39",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/markets/europe/russia-plans-soften-capital-controls-new-investments-2025-04-10/",
+    "source": "Reuters",
+    "content": "MOSCOW, April 10 (Reuters) - Russia is planning to soften capital controls on new foreign investments, a senior finance ministry official said on Thursday, opening the door for companies - including Western ones - looking to return to the Russian market.\nRussia banned foreign companies from withdrawing their assets from the country, requiring them to keep assets in special accounts.\nThis move was aimed at preventing capital flight following Russia's military operation in Ukraine and the introduction of Western sanctions.\nThe country is now seeking to attract investors back and bring in new ones. However, with the ban on capital withdrawal still in place, there have been few practical steps in this direction.\n\"The framework for regulating new money inflow and ensuring the possibility that this money and the income generated from it can be withdrawn has already been resolved,\" said Alexei Yakovlev, head of the ministry's financial policy department.\nHe mentioned that a new presidential decree on softening capital controls on new investments might be issued around mid-year. The current rules for existing foreign investors will remain in place.\nCapital controls were imposed only on investors from \"unfriendly countries\" that condemned Russia's military actions and supported Ukraine. Investors from countries deemed friendly, such as China and India, were exempt from these measures.\nYakovlev stated that the new rules should apply to all investors, regardless of their nationality."
+}

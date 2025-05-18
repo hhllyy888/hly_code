@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves after hours: Tesla, Enphase Energy, Oklo, Bristol Myers Squibb and more",
+    "published_time": "2025-04-22T21:07:05Z",
+    "chinese_publish_time": "2025-04-23T05:07:05",
+    "author": "Brian Evans",
+    "url": "https://www.cnbc.com/2025/04/22/stocks-making-the-biggest-moves-after-hours-tsla-enph-oklo-bmy.html",
+    "source": "CNBC",
+    "content": ""
+}

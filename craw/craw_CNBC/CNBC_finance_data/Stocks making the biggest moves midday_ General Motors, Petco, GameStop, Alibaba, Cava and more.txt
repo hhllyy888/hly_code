@@ -1,0 +1,7 @@
+{
+    "headline": "Stocks making the biggest moves midday: General Motors, Petco, GameStop, Alibaba, Cava and more",
+    "published_time": "2025-03-27T16:30:01+0000",
+    "author": "Lisa Kailai Han",
+    "href": "https://www.cnbc.com/2025/03/27/stocks-making-the-biggest-moves-midday-gm-woof-gme-baba-cava.html",
+    "content": ""
+}

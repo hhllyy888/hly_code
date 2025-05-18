@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Walmart, Target, Apple, Pfizer, Eli Lilly, Ford and more",
+    "published_time": "2025-04-09T12:04:16Z",
+    "chinese_publish_time": "2025-04-09T20:04:16",
+    "author": "Pia Singh",
+    "url": "https://www.cnbc.com/2025/04/09/stocks-making-the-biggest-moves-premarket-wmt-tgt-aapl-pfe-lly-f-and-more.html",
+    "source": "CNBC",
+    "content": ""
+}

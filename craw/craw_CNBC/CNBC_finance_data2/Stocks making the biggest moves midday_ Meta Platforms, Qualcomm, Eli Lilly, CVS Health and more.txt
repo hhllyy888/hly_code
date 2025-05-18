@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves midday: Meta Platforms, Qualcomm, Eli Lilly, CVS Health and more",
+    "published_time": "2025-05-01T17:11:12Z",
+    "chinese_publish_time": "2025-05-02T01:11:12",
+    "author": "Brian Evans",
+    "url": "https://www.cnbc.com/2025/05/01/stocks-making-the-biggest-moves-midday-meta-qcom-lly-cvs-and-more.html",
+    "source": "CNBC",
+    "content": ""
+}

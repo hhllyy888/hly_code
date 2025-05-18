@@ -1,0 +1,7 @@
+{
+    "headline": "South Africa Central Bank Chief Says Too-High CPI Goal Has Costs",
+    "publish_time": "2025-03-27T16:56:13.048Z",
+    "author": "Ntando Thukwana",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-27/south-africa-central-bank-chief-says-too-high-cpi-goal-has-costs?srnd=phx-economics-inflation-and-prices",
+    "content": "Keeping South Africa’s inflation target at the current range will be costly for the government, according to central bank chiefLesetja Kganyago, who has long been an advocate of lowering the objective.\n“Keeping inflation where it, is or allowing it to get higher, means that government is going to pay more in debt-service costs, and so the cost of the higher inflation target is not insignificant,” Kganyago said at a South African Reserve Bank conference in Cape Town on Thursday."
+}

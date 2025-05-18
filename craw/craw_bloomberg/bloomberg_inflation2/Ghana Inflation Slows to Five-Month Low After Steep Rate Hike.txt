@@ -1,0 +1,9 @@
+{
+    "headline": "Ghana Inflation Slows to Five-Month Low After Steep Rate Hike",
+    "published_time": "2025-04-02T10:23:08Z",
+    "chinese_publish_time": "2025-04-02T18:23:08",
+    "author": "Ekow Dontoh, Moses Mozart Dzawu",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-02/ghana-inflation-slows-to-five-month-low-after-steep-rate-hike?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Ghana’s annual inflation rate fell to a five-month low, days after the central bank unexpectedly raised borrowing costs to cool price growth.\nConsumer prices rose 22.4% in March from 23.1% the month before, Government StatisticianSamuel Kobina Annimtold reporters in the capital, Accra, on Wednesday. The median estimate of three economists surveyed by Bloomberg was 23.4%."
+}

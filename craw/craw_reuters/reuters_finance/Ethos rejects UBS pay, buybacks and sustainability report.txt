@@ -1,0 +1,9 @@
+{
+    "headline": "Ethos rejects UBS pay, buybacks and sustainability report",
+    "published_time": "2025-03-27T11:28:16Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/ethos-rejects-ubs-pay-buybacks-sustainability-report-2025-03-27/",
+    "content": "ZURICH, March 27 (Reuters) - Proxy advisory firm Ethos on Thursday urged UBS (UBSG.S), opens new tab shareholders to reject the bank's remuneration, share buyback program and sustainability report at its upcoming annual general meeting.\nEthos said UBS's executive pay was too high compared to European peers.\n\"Such high payments and the very high leverage for variable remuneration can encourage excessive risk-taking,\" said Ethos CEO Vincent Kaufmann, adding this was not in the interests of long-term shareholders.\nUBS shareholders on April 10 are set to decide on variable executive pay for the 2024 financial year, fixed executive pay for the 2026 financial year and compensation for the board for the period between the 2025 and 2026 annual general meetings.\nShareholders can put in an advisory vote on UBS's 2024 compensation report.\nEthos recommended shareholders reject all these items, along with UBS's new 2025 share buyback program and the bank's 2024 sustainability report.\nThe proxy advisory firm said the bank should strengthen its capital base and criticised it for watering down targets on climate change and diversity."
+}

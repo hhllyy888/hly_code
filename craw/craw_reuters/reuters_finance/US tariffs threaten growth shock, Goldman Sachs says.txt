@@ -1,0 +1,10 @@
+{
+    "headline": "US tariffs threaten growth shock, Goldman Sachs says",
+    "published_time": "2025-04-03T18:20:24Z",
+    "author": [
+        "Davide Barbuscia",
+        "Suzanne McGee"
+    ],
+    "href": "https://www.reuters.com/markets/us-tariffs-threaten-growth-shock-goldman-sachs-says-2025-04-03/",
+    "content": "NEW YORK, April 3 (Reuters) - Goldman Sachs (GS.N), opens new tab warned sweeping U.S. tariffs will weigh on global growth and prompt the Federal Reserve to cut interest rates more aggressively than previously expected.\n\"We view this as kind of a growth shock... this is going to be a hit to U.S. consumers,\" Ashish Shah, chief investment officer of public investing at Goldman Sachs Asset Management, told journalists at the bank's New York headquarters on Thursday.\nAs market participants digest the implications of tariffs, Goldman executives said the economic outlook was clouded by U.S. trade policies that would likely trigger retaliation from other nations.\nWhile big investors are looking to diversify their global portfolios, they are mostly sticking with U.S. assets for now, said Marc Nachmann, global head of asset and wealth management at Goldman Sachs.\n\"Large allocators are reluctant so far... but they are concerned,\" he said.\nGSAM, which manages $2.8 trillion in public assets, is a key part of Goldman's push to broaden earnings beyond its traditional mainstays of investment banking and trading, which accounted for about 65% of revenue in 2024.\nWhile equities plunged after the tariff announcements, Treasuries rallied on Thursday as investors sought safe-haven assets, said Lindsay Rosner, head of multi-asset fixed income at GSAM.\n\"Duration has done really well today,\" she said, referring to bonds that benefit when markets expect interest rate cuts down the line. She warned about the twin risks of rising inflation and lower growth, a dreaded economic scenario that loomed over the U.S. in the 1970s. \"The big word of stagflation is real.\""
+}

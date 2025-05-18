@@ -1,0 +1,9 @@
+{
+    "headline": "What a Bacon, Egg and Cheese Sandwich Teaches Us About the US Economy",
+    "published_time": "2025-04-11T21:22:21Z",
+    "chinese_publish_time": "2025-04-12T05:22:21",
+    "author": "Julia Press, Sarah Holder",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-11/what-bacon-egg-and-cheese-sandwich-prices-say-about-tariffs-us-economy?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Never miss an episode. FollowThe Big Take daily podcasttoday.\nWhen it comes to measuring economic pain, the cost of a humble breakfast sandwich might not be top of mind. But Bloomberg has an index that tracks the rising cost of a bacon, egg and cheese sandwich, plus a cup of coffee. And this year, it’s reached record highs."
+}

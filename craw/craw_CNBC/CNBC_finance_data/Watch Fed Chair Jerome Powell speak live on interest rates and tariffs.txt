@@ -1,0 +1,7 @@
+{
+    "headline": "Watch Fed Chair Jerome Powell speak live on interest rates and tariffs",
+    "published_time": "2025-04-04T15:08:50+0000",
+    "author": "Jeff Cox",
+    "href": "https://www.cnbc.com/2025/04/04/watch-fed-chair-jerome-powell-speak-live-on-interest-rates-and-tariffs.html",
+    "content": "[The stream is slated to start at 11:25 p.m. ET. Please refresh the page if you do not see a player above at that time.]\nFederal Reserve Chair Jerome Powell speaks Friday to the Society for Advancing Business Editing and Writing conference in Arlington, Virginia.\nThe central bank leader's appearance, including prepared remarks and a Q-and-A session after, comes at a time of heightened market uncertainty regarding President Donald Trump's aggressive tariffs against U.S. trading partners.\nIn March, the Fed voted to hold its benchmark interest rate steady while noting the issues over trade policy. Other Fed officials in recent days have expressed support for staying in a holding pattern until policy issues become clearer, though markets are pricing in four or five cuts this year.\nRead more:Federal Reserve is unlikely to rescue markets and economy from tariff turmoil anytime soonTrump's tariff gambit will raise the stakes for an economy already looking fragileJPMorgan raises recession odds for this year to 60%\nSubscribe to CNBC on YouTube."
+}

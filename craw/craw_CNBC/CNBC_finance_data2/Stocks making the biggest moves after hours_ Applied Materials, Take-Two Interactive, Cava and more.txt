@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves after hours: Applied Materials, Take-Two Interactive, Cava and more",
+    "published_time": "2025-05-15T21:07:13Z",
+    "chinese_publish_time": "2025-05-16T05:07:13",
+    "author": "Tanaya Macheel",
+    "url": "https://www.cnbc.com/2025/05/15/stocks-making-the-biggest-moves-after-hours-amat-ttwo-cava.html",
+    "source": "CNBC",
+    "content": "Check out the companies making headlines in after-hours trading:\nApplied Materials — Shares fell nearly 5% in extended trading. The maker of semiconductor manufacturing equipment reported $7.10 billion in revenue in its fiscal second quarter, which was slightly lower than analysts' expectations of $7.13 billion, according to LSEG. Semiconductor revenue of $5.26 billion for the quarter fell short of estimates of $5.31 billion.\nTake-Two Interactive Software — The video game company saw a 2% decline in shares after issuing weaker-than-expected guidance for full-year bookings. The company said it expects between $5.9 billion and $6 billion, while StreetAccount consensus estimates sought $7.82 billion. For the fiscal first quarter, Take-Two projected bookings between $1.25 billion and $1.30 billion, versus estimates of $1.28 billion.\nCava Group — Shares of the Mediterranean restaurant chain fell 4%. Cava's full-year guidance for adjusted  earnings before interest, taxes, depreciation and amortization, or EBITDA, came in at $152 million to $159 million, short of the FactSet consensus call for $159.7 million. Revenue in the first quarter surpassed estimates, coming in at $332 million, versus the $327 million consensus estimate, per LSEG.\nDoximity — The networking platform for health-care professionals saw its stock tank 25% on weak guidance. Doximity expects adjusted EBITDA to range between $71 million and $72 million, while StreetAccount consensus estimates sought $74 million. The company's full-year outlook also missed expectations."
+}

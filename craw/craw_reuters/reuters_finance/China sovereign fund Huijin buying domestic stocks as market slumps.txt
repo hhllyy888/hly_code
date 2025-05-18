@@ -1,0 +1,9 @@
+{
+    "headline": "China sovereign fund Huijin buying domestic stocks as market slumps",
+    "published_time": "2025-04-07T07:58:45Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/world/china/china-sovereign-fund-huijin-buying-domestic-stocks-market-slumps-2025-04-07/",
+    "content": "SHANGHAI, April 7 (Reuters) - China's sovereign fund Central Huijin Investment said on Monday it is increasing holdings in China stocks and will defend market stability - comments that follow a slide in local shares amid fears a widening trade war will unleash a deep recession.\nHuijin said it is \"firmly optimistic about the development prospects of China's capital market and fully recognizes the current investment value of A-shares.\"\nThe state fund has added China-listed shares via exchange-traded funds (ETFs), and will continue to increase holdings in the future to \"safeguard the smooth operation of the capital market,\" Huijin said in a statement.\nThe Shanghai Composite Index (.SSEC), opens new tab slumped 7% on Monday in its worst day in five years as investors dumped shares across the board after the U.S. imposed more tariffs on China which then fired back with its own levies.\nAsian markets were heavily sold off on Monday, adding to losses last week as U.S. President Donald Trump showed no sign of backing away from his sweeping tariff plans that threaten to fuel inflation, disrupt global supply chains and trigger a global economic slowdown."
+}

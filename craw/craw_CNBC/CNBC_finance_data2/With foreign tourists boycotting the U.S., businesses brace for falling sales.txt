@@ -1,0 +1,9 @@
+{
+    "headline": "With foreign tourists boycotting the U.S., businesses brace for falling sales",
+    "published_time": "2025-05-10T13:00:01Z",
+    "chinese_publish_time": "2025-05-10T21:00:01",
+    "author": "Greg Iacurci",
+    "url": "https://www.cnbc.com/2025/05/10/foreign-tourist-boycott-us-business-impact.html",
+    "source": "CNBC",
+    "content": "key point \nInternational tourists are skipping trips to the U.S. amid tensions tied to trade, immigration and territory. \nMany businesses that rely on foot traffic from overseas visitors are already seeing a financial hit, even before heading into peak travel season.\nNew York, Miami, Los Angeles, Orlando, San Francisco and Las Vegas are examples of cities with a large share of foreign visitors.\nAnacortes, a small coastal town in Washington state, typically bustles with tourists during the summer months.\nBut local business owners like Kaia Matheny are bracing for less foot traffic — and a financial hit — this year as tensions around trade and concerns about immigration policy push foreigners to reconsider the U.S. as a travel destination.\nMatheny is the co-owner of Adrift Restaurant, a nautical themed farm-to-table eatery in downtown Anacortes. The town, a gateway to the San Juan islands, is a two-hour drive south of Vancouver.\nShe's seen sales fall amid fewer customers from Canada, which is generally the U.S.' top source of international visitors. Air and land arrivals from Canadians fell 14% and 32%, respectively, in March compared to the same time in 2024, according to Tourism Economics.\nA sharp decline in foot traffic among foreign tourists looks set to persist through summer, data shows. Matheny is \"wary\" about what that will mean during peak season, which typically kicks off in June.\nTourism \"won't be what it is usually,\" Matheny said. \"We'll batten down the hatches and make the best of it.\""
+}

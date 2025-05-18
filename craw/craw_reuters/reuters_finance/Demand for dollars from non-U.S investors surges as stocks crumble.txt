@@ -1,0 +1,9 @@
+{
+    "headline": "Demand for dollars from non-U.S investors surges as stocks crumble",
+    "published_time": "2025-04-07T08:32:39Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/markets/currencies/demand-dollars-non-us-investors-surges-stocks-crumble-2025-04-07/",
+    "content": "LONDON, April 7 (Reuters) - Money markets on Monday began showing signs of strain following an aggressive selloff engulfing global equities, sending various measures of demand for dollars to their strongest in months.\nThree-month cross-currency basis swaps, a derivative that reflects non-U.S. demand for dollars, shot to their strongest level for the euro and the pound since late 2023, while those for the Japanese yen reached their strongest in five months.\nThe rate of the three-month euro cross-currency basis swap hit -5.375%, its lowest since November 2023. A more negative number indicates demand for dollars from euro-based investors. A week ago, the swap rate was at 12.5%\nU.S. President Donald Trump at the weekend showed no signs of backing down from the widespread tariffs he announced last week that have sent shockwaves across world markets.\nChina has already retaliated with extra tariffs investors now fear a global recession.\n\"Keep a close watch of the EUR/USD (euro/dollar) three-month cross-currency basis swap,\" ING strategists said in a note.\n\"Any sharp widening in favour of the dollar (i.e., the interbank market prepared to lend out euros in the swap market at below market rates to secure dollar funding) would be a sign of trouble and could briefly send the dollar higher before the (Federal Reserve) is forced to step in.\""
+}

@@ -1,0 +1,7 @@
+{
+    "headline": "How investors can ready their portfolios for a recession: 'You're looking for balance,' expert says",
+    "published_time": "2025-03-24T19:22:21+0000",
+    "author": "Greg Iacurci",
+    "href": "https://www.cnbc.com/2025/03/24/how-investors-can-ready-their-portfolios-for-a-recession.html",
+    "content": "key point \nEconomic forecasters have raised the odds of a U.S. recession amid an escalating trade war.\nInvestors shouldn't act emotionally if trying to prepare their portfolios for a downturn. \nFundamentals like asset allocation and diversification are generally the most important considerations, advisors said. \nThe odds of a U.S. recession have risen amid an escalating trade war. But most investors should ignore the impulse to flee for safety by exiting the market, financial experts say.\nInstead, the best way to brace for an economic shock is by double-checking fundamentals like asset allocation and diversification, they said.\n\"You're looking for balance rather than casting your lot with any one economic outcome,\" said Christine Benz, director of personal finance and retirement planning for Morningstar."
+}

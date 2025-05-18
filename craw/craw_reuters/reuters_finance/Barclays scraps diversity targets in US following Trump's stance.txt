@@ -1,0 +1,10 @@
+{
+    "headline": "Barclays scraps diversity targets in US following Trump's stance",
+    "published_time": "2025-04-08T17:40:19Z",
+    "author": [
+        "Yamini Kalia",
+        "Chandini Monnappa"
+    ],
+    "href": "https://www.reuters.com/sustainability/society-equity/barclays-scraps-diversity-targets-us-following-trumps-stance-2025-04-08/",
+    "content": "April 8 (Reuters) - Barclays (BARC.L), opens new tab is scrapping its diversity and inclusivity targets across the United States, the bank said on Tuesday, becoming the latest British company to abandon its inclusivity goals following the U.S. President's opposition to them.\n\"Our representation ambitions for the rest of the group will continue,\" a Barclays spokesperson said in an e-mail to Reuters.\nCompanies across the globe are scaling back their diversity, equity and inclusion (DEI) goals after President Donald Trump issued executive orders cutting federal programs aimed at supporting women, ethnic minorities, LGBTQ+ people and other traditionally under-represented groups.\nBloomberg News reported the change in Barclays' policy earlier in the day."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Brazil judge blocks lender BRB from signing purchase of Banco Master",
+    "published_time": "2025-05-07T00:25:23Z",
+    "chinese_publish_time": "2025-05-07T08:25:23",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/markets/deals/brazil-judge-blocks-lender-brb-signing-purchase-banco-master-2025-05-07/",
+    "source": "Reuters",
+    "content": "BRASILIA, May 6 (Reuters) - A Brazilian judge on Tuesday blocked state-run bank BRB (BSLI3.SA), opens new tab from signing the definitive contract to buy assets from fellow lender Banco Master, according to a court order seen by Reuters.\nIn his order, judge Carlos Fernando Fecchio dos Santos accepted the request made by prosecutors, who asked for the block as they argued BRB would need previous shareholders and lawmakers approval to sign the definitive document.\nUnder the agreement announced in March, which is still subject to regulatory approval, BRB will purchase 49% of Banco Master's common shares and 100% of its preferred shares, totaling 58% of the bank's capital.\nBRB, which had disagreed from the prosecutors arguing in the court proceedings, said in a statement that it became aware of the decision, noting the judge's order still authorizes it to execute the acts previous to the definitive signing of the deal.\nBanco Master declined to comment.\nThe initial estimate for the deal was around 2 billion reais ($350.01 million), with the possibility of a lower price depending on the outcome of due diligence held by BRB.\n($1 = 5.7141 reais)"
+}

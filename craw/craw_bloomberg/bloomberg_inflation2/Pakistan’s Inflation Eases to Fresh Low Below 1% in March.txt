@@ -1,0 +1,9 @@
+{
+    "headline": "Pakistan’s Inflation Eases to Fresh Low Below 1% in March",
+    "published_time": "2025-04-03T09:22:42Z",
+    "chinese_publish_time": "2025-04-03T17:22:42",
+    "author": "Kamran Haider",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-03/pakistan-s-inflation-eases-to-a-fresh-low-below-1-in-march?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Pakistan’s inflation slowed last month to the lowest in more than seven years, though policymakers will remain cautious with risks to price gains from global trade disruptions.\nConsumer price indexrose 0.69% in March from a year ago, according to Pakistan Bureau of Statistics, in line with the median estimate for a 0.7% gain in a Bloombergsurvey. Inflation stood at 1.52% in February. The current reading is the lowest since the current index was created in 2017."
+}

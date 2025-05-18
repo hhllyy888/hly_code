@@ -1,0 +1,9 @@
+{
+    "headline": "ECB's Rehn sees stronger case for ECB rate cut in April amid trade war",
+    "published_time": "2025-04-09T09:28:28Z",
+    "chinese_publish_time": "2025-04-09T17:28:28",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/markets/europe/ecbs-rehn-sees-stronger-case-ecb-rate-cut-april-amid-trade-war-2025-04-09/",
+    "source": "Reuters",
+    "content": "HELSINKI, April 9 (Reuters) - Downside risks have materialised since March that support the case for cutting interest rates at the European Central Bank's April meeting, ECB policymaker Olli Rehn said on Wednesday.\n\"Since the March meeting, many of the risks identified at that time have now either materialised or are materialising,\" Rehn said in a speech published by the Bank of Finland, where he is the governor.\n\"Based on the overall assessment of inflation and growth, I believe the case for further rate cuts at the April meeting has clearly strengthened,\" he said.\nRehn last week said the ECB should cut interest rates in April if inflation keeps moving in line with its projection and that more easing would keep price growth on track.\n\"I had already held this view before, but the last week has reinforced that view, as inflation appears to be stabilising around target and the growth outlook has further weakened as a result of the trade war,\" he said."
+}

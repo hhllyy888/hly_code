@@ -1,0 +1,9 @@
+{
+    "headline": "UBS shareholders back 2024 compensation report with 86.7% of votes",
+    "published_time": "2025-04-10T10:55:39Z",
+    "chinese_publish_time": "2025-04-10T18:55:39",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/ubs-shareholders-back-2024-compensation-report-with-867-votes-2025-04-10/",
+    "source": "Reuters",
+    "content": "LUCERNE, Switzerland, April 10 (Reuters) - In an advisory vote, UBS shareholders on Thursday backed the bank's 2024 compensation report with 86.7% of votes, compared to 83.5% for the same report a year earlier.\nCEO Sergio Ermotti's total pay was 14.9 million Swiss francs ($17.74 million) in 2024, with the bank keeping his remuneration in check as it navigates a tense political debate about how it is regulated.\n($1 = 0.8400 Swiss francs)"
+}

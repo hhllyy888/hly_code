@@ -1,0 +1,9 @@
+{
+    "headline": "HSBC appoints Richard Blackburn as chief risk and compliance officer",
+    "published_time": "2025-04-10T09:23:20Z",
+    "chinese_publish_time": "2025-04-10T17:23:20",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/hsbc-appoints-richard-blackburn-chief-risk-compliance-officer-2025-04-10/",
+    "source": "Reuters",
+    "content": "LONDON, April 10 (Reuters) - HSBC (HSBA.L), opens new tab has appointed Richard Blackburn as group chief risk and compliance officer, the bank said on Thursday, confirming him in a role he has held on an interim basis since January.\nBlackburn, who has been with HSBC for over 20 years, will also serve on the Group Operating Committee which is the bank's most senior decision-making group under CEO Georges Elhedery."
+}

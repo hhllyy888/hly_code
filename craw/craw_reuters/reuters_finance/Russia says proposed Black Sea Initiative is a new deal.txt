@@ -1,0 +1,9 @@
+{
+    "headline": "Russia says proposed Black Sea Initiative is a new deal",
+    "published_time": "2025-03-27T09:57:45Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/world/europe/russia-says-proposed-black-sea-initiative-is-new-deal-2025-03-27/",
+    "content": "MOSCOW, March 27 (Reuters) - Russian Foreign Ministry spokeswoman Maria Zakharova said on Thursday that the proposed Black Sea Initiative was a new deal - not an extension of an earlier agreement.\n\"This is a new agreement, the contours of which are currently being discussed,\" Zakharova said when asked by Reuters if the proposed deal was an extension to an earlier memorandum of understanding, opens new tab under which U.N. officials agreed to help Russia get its food and fertiliser exports to foreign markets.\nRussia said on Tuesday the United States had agreed to help it lift a series of Western sanctions and restrictions on food, fertiliser and shipping companies as preconditions for a maritime security deal in the Black Sea."
+}

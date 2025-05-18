@@ -1,0 +1,7 @@
+{
+    "headline": "Stocks making the biggest moves premarket: General Motors, GameStop, Nvidia, Jefferies and more",
+    "published_time": "2025-03-27T12:00:02+0000",
+    "author": "Alex Harring",
+    "href": "https://www.cnbc.com/2025/03/27/stocks-making-the-biggest-moves-premarket-gm-gme-nvda-jef.html",
+    "content": ""
+}

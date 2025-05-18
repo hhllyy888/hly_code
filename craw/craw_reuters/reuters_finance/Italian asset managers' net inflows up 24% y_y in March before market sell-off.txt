@@ -1,0 +1,10 @@
+{
+    "headline": "Italian asset managers' net inflows up 24% y/y in March before market sell-off",
+    "published_time": "2025-04-08T17:15:36Z",
+    "author": [
+        "Alberto Chiumento",
+        "Alessandro Parodi"
+    ],
+    "href": "https://www.reuters.com/business/finance/italian-asset-managers-net-inflows-up-24-yy-in-march-before-market-sell-off-2025-04-08/",
+    "content": "April 8 (Reuters) - Italy's five listed asset managers reported combined net inflows of 3.69 billion euros ($4.04 billion) in March, up from 2.98 billion euros in the same month of 2024.\nTo assess the impact of the current trade-war-driven rout in global stocks it will be necessary to wait until the next set of data.\nNet inflows into more lucrative managed assets more than doubled last month to a combined 2.28 billion euros, the data showed.\nThe fund management industry is under pressure to consolidate to sustain margins in the face of rising technology investments, growing competition from passive products and other cheaper forms of investment.\nAlso, with interest rates declining, banks are increasingly turning to asset management to drive revenues.\nItaly's third-largest lender Banco BPM (BAMI.MI), opens new tab this month concluded a buyout offer for Anima Holding (ANIM.MI), opens new tab, securing an overall 90% stake in the fund manager whose products it distributes.\nBY THE NUMBERS\n\"Whilst its too early to determine how investors' behaviour will change in the coming months on the back of the shifting macroeconomic backdrop, we note that Fineco has a very diversified revenue mix\", JPMorgan said in a note.\n\"(Banca Mediolanum) March asset under management net inflows are solid and above expectations,\" broker Equita said.\n($1 = 0.9143 euros)"
+}

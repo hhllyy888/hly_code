@@ -1,0 +1,7 @@
+{
+    "headline": "'Big Short' investor Steve Eisman on tariff turmoil: Don't be a hero",
+    "published_time": "2025-04-07T23:15:55+0000",
+    "author": "Stephanie Landsman",
+    "href": "https://www.cnbc.com/2025/04/07/big-short-investor-steve-eisman-on-tariff-turmoil-dont-be-a-hero.html",
+    "content": ""
+}

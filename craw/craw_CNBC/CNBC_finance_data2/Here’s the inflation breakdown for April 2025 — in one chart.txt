@@ -1,0 +1,9 @@
+{
+    "headline": "Here’s the inflation breakdown for April 2025 — in one chart",
+    "published_time": "2025-05-13T14:36:10Z",
+    "chinese_publish_time": "2025-05-13T22:36:10",
+    "author": "Greg Iacurci",
+    "url": "https://www.cnbc.com/2025/05/13/cpi-inflation-breakdown-april-2025-in-one-chart.html",
+    "source": "CNBC",
+    "content": "key point \nThe consumer price index declined to 2.3% in April from 12 months earlier, the lowest reading since February 2021.\nHowever, tariffs levied by President Donald Trump are expected to reignite inflation as soon as next month, according to economists.\nPrices declined for categories like gasoline, groceries, apparel, used cars and airline fares during the month from March to April, according to CPI data.\nInflation retreated again in April on the back of lower prices for consumer staples like groceries and gasoline, and other items such as used cars and clothing.\nThe consumer price index, a key inflation gauge, rose 2.3% in April from 12 months earlier, down from 2.4% in March, the Bureau of Labor Statistics reported Tuesday.\nIt was the smallest annual increase since February 2021, just before pandemic-era inflation started to pop."
+}

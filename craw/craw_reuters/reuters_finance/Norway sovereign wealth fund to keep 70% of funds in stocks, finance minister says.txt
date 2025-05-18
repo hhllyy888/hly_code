@@ -1,0 +1,9 @@
+{
+    "headline": "Norway sovereign wealth fund to keep 70% of funds in stocks, finance minister says",
+    "published_time": "2025-04-07T11:29:10Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/norway-sovereign-wealth-fund-keep-70-funds-stocks-finance-minister-says-2025-04-07/",
+    "content": "OSLO, April 7 (Reuters) - Norway's $1.6 trillion sovereign wealth fund will maintain its goal of investing 70% of its assets in the stock market, Finance Minister Jens Stoltenberg said on Monday following a plunge in global equities.\n\"We must maintain the political guidelines and stay at around 70%, and if it drops below 70% we will raise it back up,\" Stoltenberg told reporters.\nThe Norwegian fund, one of the world's largest investors, manages the state's revenues from oil and gas production, owning on average 1.5% of all listed stocks worldwide.\nThe fund has seen record gains in recent years thanks to strong stock markets, but has fallen in recent weeks.\nAt the end of 2024, 71.4% of the fund's assets were allocated to equities, up from 70.9% in 2023, bonds declined to 26.6% from 27.1%, unlisted real estate fell to 1.8% from 1.9% and renewable infrastructure represented 0.1% of investments."
+}

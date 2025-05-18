@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves midday: Berkshire Hathaway, Skechers, Tyson Foods and more",
+    "published_time": "2025-05-05T16:22:52Z",
+    "chinese_publish_time": "2025-05-06T00:22:52",
+    "author": "Alex Harring",
+    "url": "https://www.cnbc.com/2025/05/05/stocks-making-the-biggest-moves-midday-brk-skx-tsn-nflx-and-more.html",
+    "source": "CNBC",
+    "content": ""
+}

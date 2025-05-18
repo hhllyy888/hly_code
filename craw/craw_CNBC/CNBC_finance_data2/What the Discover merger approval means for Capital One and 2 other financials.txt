@@ -1,0 +1,9 @@
+{
+    "headline": "What the Discover merger approval means for Capital One and 2 other financials",
+    "published_time": "2025-04-21T18:58:05Z",
+    "chinese_publish_time": "2025-04-22T02:58:05",
+    "author": "Morgan Chittum",
+    "url": "https://www.cnbc.com/2025/04/21/what-the-discover-merger-approval-means-for-capital-one-and-2-other-financials.html",
+    "source": "CNBC",
+    "content": "Capital One secured approvals from banking regulators Friday for its $35 billion acquisition of Discover Financial — a deal that analysts believe could have far-reaching benefits beyond just the Club holding."
+}

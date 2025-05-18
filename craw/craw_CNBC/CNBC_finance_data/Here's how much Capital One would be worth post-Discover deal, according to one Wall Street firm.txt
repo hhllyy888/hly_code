@@ -1,0 +1,7 @@
+{
+    "headline": "Here's how much Capital One would be worth post-Discover deal, according to one Wall Street firm",
+    "published_time": "2025-03-25T17:34:37+0000",
+    "author": "Morgan Chittum",
+    "href": "https://www.cnbc.com/2025/03/25/how-much-capital-ones-stock-would-be-worth-post-discover-deal-per-an-analyst.html",
+    "content": "How much would Capital One's stock be worth if it completes its blockbuster merger of Discover Financial Services? The answer, according to one Wall Street firm, is a whole lot more."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves midday: Amazon, Alibaba, Merck, Five Below, Nike and more",
+    "published_time": "2025-05-12T16:30:29Z",
+    "chinese_publish_time": "2025-05-13T00:30:29",
+    "author": "Pia Singh",
+    "url": "https://www.cnbc.com/2025/05/12/stocks-making-the-biggest-moves-midday-amzn-baba-pfe-five-nke.html",
+    "source": "CNBC",
+    "content": ""
+}

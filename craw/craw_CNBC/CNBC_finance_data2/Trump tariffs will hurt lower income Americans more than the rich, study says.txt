@@ -1,0 +1,9 @@
+{
+    "headline": "Trump tariffs will hurt lower income Americans more than the rich, study says",
+    "published_time": "2025-04-25T16:47:22Z",
+    "chinese_publish_time": "2025-04-26T00:47:22",
+    "author": "Greg Iacurci",
+    "url": "https://www.cnbc.com/2025/04/25/trump-tariffs-taxes-poor-rich.html",
+    "source": "CNBC",
+    "content": "key point \nTariffs imposed by President Donald Trump are expected to raise costs on products for U.S. consumers.\nHowever, tariffs would hurt lower income households with a minimal impact on the top one percent of earners in 2026, according to an analysis by the Institute on Taxation and Economic Policy.\nTariffs levied by President Donald Trump during his second term would hurt the poorest U.S. households more than the richest over the short term, according to a new analysis.\nTariffs are a tax that importers pay on foreign goods. Economists expect consumers to shoulder at least some of that tax burden in the form of higher prices, depending on how businesses pass along the costs.\nIn 2026, taxes for the poorest 20% of households would rise about four times more than those in the top 1%, if the current tariff policies were to stay in place. Those were findings according to an analysis published Wednesday by the Institute on Taxation and Economic Policy."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Commerzbank agrees job cut terms with works council",
+    "published_time": "2025-05-14T21:19:25Z",
+    "chinese_publish_time": "2025-05-15T05:19:25",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/commerzbank-agrees-job-cut-terms-with-works-council-2025-05-14/",
+    "source": "Reuters",
+    "content": "BERLIN, May 14 (Reuters) - Commerzbank (CBKG.DE), opens new tab on Wednesday said it had reached an agreement with the works council on the terms to cut around 3,900 jobs by 2028, part of a strategy to help it deliver more ambitious profit targets.\nThe bank said it will focus primarily on partial and early retirement, adding that severance payments are also possible for employees leaving the group in Germany. Details of the cuts in the individual divisions will be finalised by October.\n\"With these regulations, we are creating the conditions for implementing the goals of 'Momentum' in a socially acceptable manner in Germany,\" Human Resources Board Member responsible Sabine Mlnarsky said, referring to the bank's savings and investment program.\nThe job cuts will be accompanied by hiring outside Germany, meaning full-time positions will remain steady at 36,700, the bank said in February."
+}

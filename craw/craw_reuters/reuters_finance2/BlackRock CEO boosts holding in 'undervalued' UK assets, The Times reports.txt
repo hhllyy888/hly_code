@@ -1,0 +1,9 @@
+{
+    "headline": "BlackRock CEO boosts holding in 'undervalued' UK assets, The Times reports",
+    "published_time": "2025-04-24T20:14:55Z",
+    "chinese_publish_time": "2025-04-25T04:14:55",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/blackrock-ceo-buying-undervalued-uk-assets-times-reports-2025-04-24/",
+    "source": "Reuters",
+    "content": "April 24 (Reuters) - BlackRock (BLK.N), opens new tab has been acquiring billions of pounds of UK assets it considers \"undervalued,\" The Times newspaper reported on Thursday, quoting the U.S. asset manager's CEO Larry Fink.\nIn an interview with the British newspaper, Fink said that BlackRock has been broadly increasing its investments in UK assets \"across the board.\"\nFink said that the company \"allocated more capital back to the UK tactically now with the belief that in the short run, the new administration is trying to tackle some of the hard issues.\"\n\"I have more confidence in the UK economy today than I did a year ago,\" the chief executive and chairman of the world's largest asset management firm said.\nAssets managed by New York-based BlackRock increased to a record high value in the first quarter, however Fink added that anxiety was dominating markets.\nHe noted that many UK stocks, particularly in the banking sector, were undervalued due to excessive discounts. \"We added to our positions across the board with the idea that we believe the market was discounting too much negativity,\" Fink told The Times.\n\"And we believe the negativity was probably not warranted.\"\nBritish companies buckled in April under the strain of an escalating global trade war that threatens to tip the economy into a new downturn, as per results projected by a survey earlier this week."
+}

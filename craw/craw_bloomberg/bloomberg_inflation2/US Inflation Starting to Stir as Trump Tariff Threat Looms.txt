@@ -1,0 +1,9 @@
+{
+    "headline": "US Inflation Starting to Stir as Trump Tariff Threat Looms",
+    "published_time": "2025-05-10T20:00:00Z",
+    "chinese_publish_time": "2025-05-11T04:00:00",
+    "author": "Vince Golle, Craig Stirling",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-10/us-inflation-starting-to-stir-as-trump-tariff-threat-looms?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Subscribeto Economics Daily for the latest news and analysis.\nUS consumer prices probably picked up in April after the smallest advance in nine months, foreshadowing a broader acceleration as many companies seek to pass onhigher tariffs."
+}

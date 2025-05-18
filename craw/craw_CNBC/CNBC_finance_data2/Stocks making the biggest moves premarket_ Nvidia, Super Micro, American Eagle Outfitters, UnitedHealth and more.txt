@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Nvidia, Super Micro, American Eagle Outfitters, UnitedHealth and more",
+    "published_time": "2025-05-14T12:23:31Z",
+    "chinese_publish_time": "2025-05-14T20:23:31",
+    "author": "Pia Singh",
+    "url": "https://www.cnbc.com/2025/05/14/stocks-making-the-biggest-moves-premarket-nvda-smci-rivn-aeo-unh.html",
+    "source": "CNBC",
+    "content": ""
+}

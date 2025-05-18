@@ -1,0 +1,9 @@
+{
+    "headline": "Tokyo Inflation Quickest in Two Years as Rice Prices Soar 93%",
+    "published_time": "2025-04-24T23:43:59Z",
+    "chinese_publish_time": "2025-04-25T07:43:59",
+    "author": "Yoshiaki Nohara, Toru Fujioka",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-24/tokyo-inflation-quickens-to-fastest-pace-in-two-years?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Subscribeto Economics Daily for the latest news and analysis.\nThe pace of inflation in Tokyo accelerated from the previous month to the fastest pace in two years, supporting the Bank of Japan’s rate-hike stance that is now complicated by uncertainty stemming from US tariff measures."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Thai Inflation Turning Negative Set to Aid More Rate Cuts",
+    "published_time": "2025-05-06T03:36:40Z",
+    "chinese_publish_time": "2025-05-06T11:36:40",
+    "author": "Pathom Sangwongwanich, Anuchit Nguyen",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-06/thailand-inflation-turning-negative-set-to-aid-more-rate-cuts?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Subscribeto Economics Daily for the latest news and analysis.\nThailand’sinflationturned negative for the first time in more than a year on cheaper fuel prices and increased fresh food supplies, creating more room for the central bank to cut rates further to deal with the impact of the trade war."
+}

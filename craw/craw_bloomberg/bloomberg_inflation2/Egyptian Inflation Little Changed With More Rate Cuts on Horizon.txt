@@ -1,0 +1,9 @@
+{
+    "headline": "Egyptian Inflation Little Changed With More Rate Cuts on Horizon",
+    "published_time": "2025-05-10T06:01:21Z",
+    "chinese_publish_time": "2025-05-10T14:01:21",
+    "author": "Mirette Magdy, Tarek El-Tablawy",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-10/egyptian-inflation-little-changed-with-more-rate-cuts-on-horizon?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Subscribeto Economics Daily for the latest news and analysis.\nEgyptian inflation slightly accelerated for a second month, an anticipated quickening driven by a cut in fuel subsidies that’s unlikely to put the brakes on a long-awaited monetary-easing cycle."
+}

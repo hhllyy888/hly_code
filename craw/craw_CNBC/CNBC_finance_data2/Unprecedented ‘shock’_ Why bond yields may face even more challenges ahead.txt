@@ -1,0 +1,9 @@
+{
+    "headline": "Unprecedented ‘shock’: Why bond yields may face even more challenges ahead",
+    "published_time": "2025-04-11T11:26:48Z",
+    "chinese_publish_time": "2025-04-11T19:26:48",
+    "author": "Krysta Escobar",
+    "url": "https://www.cnbc.com/2025/04/11/tariff-turmoil-and-bond-market-shock-more-challenges-ahead.html",
+    "source": "CNBC",
+    "content": "A global trade slowdown tied to U.S. tariffs will likely create a more challenging environment for bond fund managers, according to financial futurist Dave Nadig.\n\"All of these capital holding requirements that led to buying U.S. Treasurys are kind of unwinding at the same time,\" the former ETF.com CEO told CNBC's \"ETF Edge\" on Wednesday. \"So, the traditional math of things are bad for stocks, [and] everybody is going to buy bond just isn't working out this time because the kind of shock we're seeing is one we've never seen before.\"\nThe benchmark 10-year Treasury Note yield increased to 4.4% on Thursday. The yield is up more than 10 percent just this week. Last Friday, it touched 3.86%.\nNadig thinks slowing trade will continue to impact market activity.\n\"When you have less trade, you need to finance less trade,\" he said. \"Historically, people have needed to finance dollars. That's why every country in the world buys U.S. Treasurys. It helps them manage their international trade with the United States. So, if we're slowing down the amount of international trade, we should expect in aggregate the holdings of bonds to probably come down.\""
+}

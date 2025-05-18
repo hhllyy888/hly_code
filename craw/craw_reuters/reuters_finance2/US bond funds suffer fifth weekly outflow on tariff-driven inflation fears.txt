@@ -1,0 +1,9 @@
+{
+    "headline": "US bond funds suffer fifth weekly outflow on tariff-driven inflation fears",
+    "published_time": "2025-04-21T13:09:34Z",
+    "chinese_publish_time": "2025-04-21T21:09:34",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/us-bond-funds-suffer-fifth-weekly-outflow-tariff-driven-inflation-fears-2025-04-21/",
+    "source": "Reuters",
+    "content": "April 21 (Reuters) - U.S. bond funds came under heavy selling pressure in the week to April 16, highlighting concerns that U.S. President Donald Trump's tariff measures could fuel inflation and push the economy into a recession.\nInvestors divested U.S. bond funds for a fifth successive week to the tune of $10.07 billion on a net basis, while in the previous week there were about $15.64 billion worth of net sales, data from LSEG Lipper showed.\nU.S. short-to-intermediate investment-grade funds had a net $6.3 billion worth of disposals after a net $6.66 billion worth of sales in the previous week.\nInvestors also shed U.S. general domestic taxable fixed income funds of about $2.22 billion, in contrast, U.S. short-to-intermediate government and treasury funds saw a net $6.82 billion worth of inflows.\nMeanwhile, U.S. investors ditched equity funds worth a net $10.62 billion, contrasting with $6.5 billion worth of net purchases in the prior week.\nThe tech, healthcare and consumer staples sectors were hit by a net $819 million, $514 million and $348 million worth of sales respectively during the week.\nInvestors also offloaded $131.74 billion worth of money market funds, extending outflows into a second consecutive week."
+}

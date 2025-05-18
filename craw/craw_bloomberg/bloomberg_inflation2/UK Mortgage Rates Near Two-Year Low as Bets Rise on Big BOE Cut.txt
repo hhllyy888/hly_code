@@ -1,0 +1,9 @@
+{
+    "headline": "UK Mortgage Rates Near Two-Year Low as Bets Rise on Big BOE Cut",
+    "published_time": "2025-04-09T12:09:23Z",
+    "chinese_publish_time": "2025-04-09T20:09:23",
+    "author": "Tom Rees",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-09/uk-mortgage-rates-near-two-year-low-as-bets-rise-on-big-boe-cut?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Mortgage rates in the UK have fallen close to a two-year low amid the prospect of a major move by the Bank of England to combat the fallout fromDonald Trump’s escalating globaltariff war.\nMoneyfacts data showed the average two-year fixed mortgage rate slipped to 5.3% on Wednesday, the lowest since May 2023. The five-year rate fell to levels last seen in November."
+}

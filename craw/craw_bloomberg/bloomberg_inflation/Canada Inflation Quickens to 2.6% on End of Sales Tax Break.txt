@@ -1,0 +1,7 @@
+{
+    "headline": "Canada Inflation Quickens to 2.6% on End of Sales Tax Break",
+    "publish_time": "2025-03-18T12:30:02.067Z",
+    "author": "Randy Thanthong-Knight",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-18/canada-inflation-quickens-to-2-6-on-end-of-sales-tax-break?srnd=phx-economics-inflation-and-prices",
+    "content": "Inflation in Canada grew at the fastest pace in eight months, further limiting the central bank’s ability to cut interest rates amid a trade war that will both slow economic growth and boost prices.\nThe consumer price index rose at a 2.6% yearly pace last month, the highest rate since June and up from 1.9% in January, Statistics Canada said Tuesday. The index jumped 1.1% on a monthly basis in February, the fastest pace in nearly three years. Both figures exceeded economist expectations in a Bloomberg survey."
+}

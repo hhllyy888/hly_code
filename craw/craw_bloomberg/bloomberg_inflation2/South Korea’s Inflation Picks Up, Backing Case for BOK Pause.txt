@@ -1,0 +1,9 @@
+{
+    "headline": "South Korea’s Inflation Picks Up, Backing Case for BOK Pause",
+    "publish_time": "2025-04-01T23:00:31Z",
+    "chinese_publish_time": "2025-04-02T07:00:31",
+    "author": "Soo-Hyang Choi",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-01/south-korea-s-inflation-picks-up-backing-case-for-bok-pause?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "South Korea’s consumer inflation unexpectedly accelerated as weakness in the won helped boost import costs, giving the central bank an incentive to pause its monetary easing campaign when authorities gather to set policy later this month.\nConsumer prices advanced 2.1% in March from a year earlier, accelerating from the 2% pace of gains in February, the statistics office reported Wednesday. Economists surveyed by Bloomberg had forecast the pace of price growth would slow to 1.9%. Core prices excluding food and energy rose 1.9% from the previous year."
+}

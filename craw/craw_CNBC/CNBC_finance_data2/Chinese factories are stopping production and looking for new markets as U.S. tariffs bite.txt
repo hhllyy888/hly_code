@@ -1,0 +1,9 @@
+{
+    "headline": "Chinese factories are stopping production and looking for new markets as U.S. tariffs bite",
+    "published_time": "2025-04-28T01:13:03Z",
+    "chinese_publish_time": "2025-04-28T09:13:03",
+    "author": "Evelyn Cheng",
+    "url": "https://www.cnbc.com/2025/04/28/chinese-factories-stop-production-eye-new-markets-as-us-tariffs-hit.html",
+    "source": "CNBC",
+    "content": "key point \nChinese manufacturers are pausing production and turning to new markets as the impact of U.S. tariffs sets in, according to companies and analysts.\nThe lost orders are also hitting jobs and forcing Chinese exporters to try livestreaming at home.\nSome companies have already built businesses on other trade routes from China.\nBEIJING — Chinese manufacturers are pausing production and turning to new markets as the impact of U.S. tariffs sets in, according to companies and analysts.\nThe lost orders are also hitting jobs.\n\"I know several factories that have told half of their employees to go home for a few weeks and stopped most of their production,\" said Cameron Johnson, Shanghai-based senior partner at consulting firm Tidalwave Solutions. He said factories making toys, sporting goods and low-cost dollar store-type goods are the most affected right now.\n\"While not large-scale yet, it is happening in the key [export] hubs of Yiwu and Dongguan and there is concern that it will grow,\" Johnson said. \"There is a hope that tariffs will be lowered so orders can resume, but in the meantime companies are furloughing employees and idling some production.\"\nAround 10 million to 20 million workers in China are involved with U.S.-bound export businesses, according to Goldman Sachs estimates. The official number of workers in China's cities last year was 473.45 million."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Hertz shares surge more than 50% after Bill Ackman takes big stake in rental car firm",
+    "published_time": "2025-04-16T20:09:00Z",
+    "chinese_publish_time": "2025-04-17T04:09:00",
+    "author": "Yun Li, Michael Wayland",
+    "url": "https://www.cnbc.com/2025/04/16/-hertz-surges-after-bill-ackman-takes-big-stake-in-the-rental-car-firm.html",
+    "source": "CNBC",
+    "content": "Bill Ackman's Pershing Square took a sizable stake in Hertz, the rental car company that exited from bankruptcy four years ago, sparking a big rally.\nShares of Hertz surged 56% on Wednesday after a regulatory filing revealed Pershing Square had built a 4.1% position as of the end of 2024. Pershing has significantly increased the position — to 19.8% — through shares and swaps, becoming Hertz's second-largest shareholder, a person familiar with the matter told CNBC's Scott Wapner."
+}

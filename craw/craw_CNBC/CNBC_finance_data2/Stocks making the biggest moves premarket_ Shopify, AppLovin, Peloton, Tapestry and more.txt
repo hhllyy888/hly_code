@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Shopify, AppLovin, Peloton, Tapestry and more",
+    "published_time": "2025-05-08T12:37:09Z",
+    "chinese_publish_time": "2025-05-08T20:37:09",
+    "author": "Alex Harring",
+    "url": "https://www.cnbc.com/2025/05/08/stocks-making-biggest-moves-premarket-shop-pton-tpr-app-and-more.html",
+    "source": "CNBC",
+    "content": ""
+}

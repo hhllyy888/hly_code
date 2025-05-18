@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves midday: Capri, Janover, Harley-Davidson, CarMax, U.S. Steel and more",
+    "published_time": "2025-04-10T16:28:27Z",
+    "chinese_publish_time": "2025-04-11T00:28:27",
+    "author": "Lisa Kailai Han",
+    "url": "https://www.cnbc.com/2025/04/10/stocks-making-the-biggest-moves-midday-cpri-jnvr-hog-kmx-x.html",
+    "source": "CNBC",
+    "content": ""
+}

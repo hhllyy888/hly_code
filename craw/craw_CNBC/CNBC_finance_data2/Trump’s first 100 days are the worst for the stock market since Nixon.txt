@@ -1,0 +1,9 @@
+{
+    "headline": "Trump’s first 100 days are the worst for the stock market since Nixon",
+    "published_time": "2025-04-28T14:24:07Z",
+    "chinese_publish_time": "2025-04-28T22:24:07",
+    "author": "Sarah Min",
+    "url": "https://www.cnbc.com/2025/04/28/trumps-first-100-days-are-the-worst-for-the-stock-market-since-nixon.html",
+    "source": "CNBC",
+    "content": "President Donald Trump's first 100 days in office are the worst for the stock market for the start of a president's four-year term since the 1970s.\nThe S&P 500's 7.9% drop from when Trump was sworn into office on Jan. 20 through the April 25 close, is the second worst first 100-day performance going back to the beginning of President Richard Nixon's second term, according to CFRA Research. Nixon saw the S&P 500 tumble 9.9% in 1973, after a series of economic measures he took to combat inflation resulted in the 1973 to 1975 recession. Nixon would later resign in 1974 because of the Watergate scandal.\nOn average, the S&P 500 rises 2.1% in the first 100 days for any president, in data of postelection years going from 1944 through 2020, CFRA showed."
+}

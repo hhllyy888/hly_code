@@ -1,0 +1,9 @@
+{
+    "headline": "Fed's Goolsbee hopes US not moving to where monetary independence is questioned - CBS 'Face the Nation'",
+    "published_time": "2025-04-20T23:04:13Z",
+    "chinese_publish_time": "2025-04-21T07:04:13",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/feds-goolsbee-hopes-us-not-moving-where-monetary-independence-is-questioned-cbs-2025-04-20/",
+    "source": "Reuters",
+    "content": "April 20 (Reuters) - Chicago Federal Reserve President Austan Goolsbee said on Sunday that he hopes the United States is not moving to an environment where the ability of the central bank to set monetary policy independent of political pressure is questioned.\nGoolsbee, responding to a question on CBS' \"Face the Nation\" about President Donald Trump's outbursts last week against Fed Chair Jerome Powell, said economists agree that central banks that have the ability to conduct monetary policy with no political tampering have better outcomes for their economies.\nFor those that do not have that freedom, though, \"The inflation rate is higher, growth is slower and the job market is worse.\n\"I strongly hope that we do not move ourselves into an environment where monetary independence is in question, because that would undermine the credibility of the Fed,\" he said.\n(This story has been refiled to fix the misspelling in the name of CBS program, in paragraph 2)"
+}

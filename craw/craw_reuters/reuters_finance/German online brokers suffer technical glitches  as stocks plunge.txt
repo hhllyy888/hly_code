@@ -1,0 +1,9 @@
+{
+    "headline": "German online brokers suffer technical glitches  as stocks plunge",
+    "published_time": "2025-04-07T10:32:49Z",
+    "author": [
+        "Tom Sims"
+    ],
+    "href": "https://www.reuters.com/technology/german-online-broker-trade-republic-suffers-outage-stocks-tank-media-report-2025-04-07/",
+    "content": "FRANKFURT, April 7 (Reuters) - The German online brokers Trade Republic and ING said on Monday that they had suffered technical problems due to heavy trading but that the glitches had been resolved.\nThe issue arose as stocks in Germany and elsewhere suffered big drops as investors grappled with the possibility of a recession after U.S. President Donald Trump showed no signs of letting up in his aggressive trade war.\nTrade Republic, one of Germany's largest trading platforms, said that some customers had \"experienced loading delays when viewing their portfolios\" after \"enormous market fluctuations\", but that the issue had been resolved and trading had always been possible.\nING in Germany, which also operates a popular trading platform, said it had \"slight delays\" for a few minutes \"due to very high trading activity\".\n\"However, our customers were able to execute orders at all times,\" ING said.\nGermany's benchmark DAX index of blue-chip stocks opened more than 10% lower early on Monday but recouped some losses and by midday was down 4.7%.\nTrade Republic, founded in 2015, has 8 million customers in 17 countries with assets of 100 billion euros ($110 billion), according to its website.\nTrade Republic's trading platform was disrupted in 2021 when there was a surge in trading due to dealings in GameStop, BlackBerry and other stocks at the centre of a tussle between retail investors and big hedge funds.\n($1 = 0.9111 euros)"
+}

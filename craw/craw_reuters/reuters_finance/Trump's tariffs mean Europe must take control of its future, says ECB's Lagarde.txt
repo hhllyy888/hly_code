@@ -1,0 +1,9 @@
+{
+    "headline": "Trump's tariffs mean Europe must take control of its future, says ECB's Lagarde",
+    "published_time": "2025-03-31T07:30:12Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/markets/europe/trumps-tariffs-should-herald-march-towards-independence-europe-says-ecbs-lagarde-2025-03-31/",
+    "content": "PARIS, March 31 (Reuters) - The likely implementation of tariffs imposed by the United States on April 2 means Europe will have to take better control of its future, European Central Bank (ECB) head Christine Lagarde said on Monday.\n\"I've tried to describe this as a moment for our Europe... and I see it as the start of a march towards independence,\" Lagarde said in an interview on France Inter radio\n\"He calls it Liberation Day in the United States. I see it as a moment when we must together decide to take better control of our destiny, and I think it's a step towards independence.\"\nTrump is set to announce a comprehensive tariff proposal on what he's called \"Liberation Day\" this Wednesday, after implementing levies on aluminium, steel, and automobiles, along with increased tariffs on all goods from China.\n\"He's someone who always takes a transactional approach. He applies this kind of principle, which is more in the realm of business, to the management of international relations,\" Lagarde said.\nThe ECB President reaffirmed her estimate of a decrease of about 0.3 percentage points for Europe in the first year of tariffs on U.S. imports from Europe.\nShe added that if Europe responds with reciprocal measures, growth will be even lower, down 0.5 percentage points."
+}

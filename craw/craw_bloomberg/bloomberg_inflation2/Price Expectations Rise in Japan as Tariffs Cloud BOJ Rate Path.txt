@@ -1,0 +1,9 @@
+{
+    "headline": "Price Expectations Rise in Japan as Tariffs Cloud BOJ Rate Path",
+    "published_time": "2025-04-11T09:06:58Z",
+    "chinese_publish_time": "2025-04-11T17:06:58",
+    "author": "Toru Fujioka",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-11/price-expectations-rise-in-japan-as-tariffs-cloud-boj-rate-path?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Japanese households’ inflation expectations rose to the highest level on record on elevated costs of living, highlighting potential challenges for the Bank of Japan’s monetary policy efforts as it also confronts the impact of US tariff measures.\nHouseholds expect average annual inflation of 9.6% over the next five years, the highest in data since June 2006, according to a quarterly survey from the central bank released on Friday. At the same time, their impressions of current economic conditions worsened to -59.8, the lowest since December 2022, from -55.9 previously."
+}

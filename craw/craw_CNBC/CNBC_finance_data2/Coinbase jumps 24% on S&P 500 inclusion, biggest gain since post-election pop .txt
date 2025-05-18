@@ -1,0 +1,9 @@
+{
+    "headline": "Coinbase jumps 24% on S&P 500 inclusion, biggest gain since post-election pop ",
+    "published_time": "2025-05-13T16:51:17Z",
+    "chinese_publish_time": "2025-05-14T00:51:17",
+    "author": "Ari Levy",
+    "url": "https://www.cnbc.com/2025/05/13/coinbase-jumps-sp-500-inclusion.html",
+    "source": "CNBC",
+    "content": "key point \nCoinbase had its best day on the market since the day after President Donald Trump's election victory in November.\nThe crypto exchange is getting added to the S&P 500, a move that leads index investors to buy the stock to match the benchmark.\nCoinbase shares soared 24% on Tuesday, their sharpest rally since the day after President Donald Trump's election victory, following the crypto exchange's inclusion in the S&P 500.\nS&P Global said in a release late Monday that Coinbase is replacing Discover Financial Services, which is in the process of being acquired by Capital One Financial. The change will take effect before trading on Monday.\nStocks added to the S&P 500 often rise in value because funds that track the benchmark will add it to their portfolios. For Coinbase, it's the latest sharp move in what's been a volatile few months since Trump was elected to return to the White House.\nCoinbase shares rocketed 31% on Nov. 6, the day after the election, on optimism that the incoming administration would adopt more crypto-friendly policies following a challenging and litigious four years during President Joe Biden's term in office.\nThe company and CEO Brian Armstrong were key financial supporters in the 2024 campaign, backing pro-crypto candidates up and down the ticket. Coinbase was one of the top corporate donors, giving more than $75 million to a PAC called Fairshake and its affiliates. Armstrong personally contributed more than $1.3 million to a mix of candidates."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "US House panel proposes to move FTC antitrust work to DOJ in budget package",
+    "published_time": "2025-04-28T21:25:49Z",
+    "chinese_publish_time": "2025-04-29T05:25:49",
+    "author": "Jody Godoy",
+    "url": "https://www.reuters.com/world/us/us-house-panel-proposes-move-ftc-antitrust-work-doj-budget-package-2025-04-28/",
+    "source": "Reuters",
+    "content": "April 28 (Reuters) - The U.S. House of Representatives Judiciary Committee on Monday proposed transferring the Federal Trade Commission's antitrust work to the Department of Justice as part of a budget reconciliation package.\nThe proposal would allocate funds for moving staff and cases from the FTC to the DOJ and mirrors a Republican bill aimed at moving all federal antitrust work to one agency.\nThe two agencies have shared federal antitrust jurisdiction, intended to guard against anticompetitive business behavior, for more than 100 years.\nA spokesperson for the FTC declined to comment.\nThe proposal would allow the head of the DOJ's antitrust division to restructure the merged agency. The language echoes a House bill introduced by Representative Ben Cline, a Republican from Virginia.\nU.S. Senator Mike Lee, a Republican from Utah, introduced a similar bill in previous sessions and has championed the idea of merging the two agencies.\nIt is not clear whether the proposal will make it through the budget reconciliation process, which only requires support from a majority in the Republican-controlled Senate, bypassing the upper chamber's 60-vote filibuster.\nCritics of the proposal say it would weaken antitrust enforcement."
+}

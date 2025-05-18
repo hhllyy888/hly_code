@@ -1,0 +1,9 @@
+{
+    "headline": "Italy pledges 68 million euros in aid for Syria",
+    "published_time": "2025-03-27T08:56:54Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/world/italy-pledges-68-million-euros-aid-syria-2025-03-27/",
+    "content": "ROME, March 27 (Reuters) - Italy has earmarked some 68 million euros ($73.20 million) to finance humanitarian projects and rebuild infrastructure in Syria, Rome's foreign minister told lawmakers on Thursday, saying it was crucial to support the transition in Damascus.\nThe Hayat Tahrir al-Sham (HTS) rebel group seized power in Syria in December, toppling former president Bashar al-Assad and ending decades of authoritarian rule.\n\"An initial package has been earmarked for humanitarian initiatives in the hospital and health sector, in infrastructure, and in strengthening food supply chains,\" Foreign Minister Antonio Tajani told a parliamentary hearing.\n\"New cooperation projects will start in the coming weeks. And we also intend to organise a business forum aimed at reconstruction,\" he added.\nEarlier this month, donors at a European Union-led conference pledged 5.8 billion euros, opens new tab to help Syria's new authorities with the challenges of the transition.\nEU countries have also suspended a range of sanctions against Syria, including restrictions related to energy, banking, transport and reconstruction.\nThe new authorities this month issued a constitutional declaration that retains a central role for Islamic law in the country.\nTajani said the constitutional declaration represented a \"positive step\" and a \"progressive and cautious\" easing of sanctions should continue to foster institutional consolidation and economic recovery.\n($1 = 0.9289 euros)"
+}

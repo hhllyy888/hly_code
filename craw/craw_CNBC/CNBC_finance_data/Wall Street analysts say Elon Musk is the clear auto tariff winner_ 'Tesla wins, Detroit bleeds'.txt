@@ -1,0 +1,7 @@
+{
+    "headline": "Wall Street analysts say Elon Musk is the clear auto tariff winner: 'Tesla wins, Detroit bleeds'",
+    "published_time": "2025-03-27T14:46:01+0000",
+    "author": "Alex Harring",
+    "href": "https://www.cnbc.com/2025/03/27/wall-street-analysts-say-elon-musk-is-the-clear-auto-tariff-winner-tesla-wins-detroit-bleeds.html",
+    "content": "Several analysts on Wall Street see a clear winner emerging from President Donald Trump's new auto tariff policy: Tesla."
+}

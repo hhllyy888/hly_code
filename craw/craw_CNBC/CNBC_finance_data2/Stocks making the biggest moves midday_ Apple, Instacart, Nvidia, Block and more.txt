@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves midday: Apple, Instacart, Nvidia, Block and more",
+    "published_time": "2025-05-02T17:15:39Z",
+    "chinese_publish_time": "2025-05-03T01:15:39",
+    "author": "Hakyung Kim",
+    "url": "https://www.cnbc.com/2025/05/02/stocks-making-the-biggest-moves-midday-aapl-cart-nvda-xyz-and-more.html",
+    "source": "CNBC",
+    "content": ""
+}

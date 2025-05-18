@@ -1,0 +1,9 @@
+{
+    "headline": "Ex-Wyelands Bank non-exec fined $93,000 by Bank of England's PRA",
+    "published_time": "2025-04-02T09:46:29Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/world/uk/ex-wyelands-bank-non-exec-fined-93000-by-bank-englands-pra-2025-04-02/",
+    "content": "LONDON, April 2 (Reuters) - Britain's Prudential Regulation Authority has fined George Jay Hambro, a former non-executive director of Wyelands Bank, 72,000 pounds ($93,096) for rule breaches between July 2017 and February 2020, the Bank of England's regulatory arm said on Wednesday.\n($1 = 0.7734 pounds)"
+}

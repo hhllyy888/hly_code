@@ -1,0 +1,9 @@
+{
+    "headline": "Novo Nordisk latest drugmaker to drop gender goals in US",
+    "published_time": "2025-05-07T12:43:01Z",
+    "chinese_publish_time": "2025-05-07T20:43:01",
+    "author": "Jacob Gronholt-Pedersen, Maggie Fick",
+    "url": "https://www.reuters.com/sustainability/society-equity/drugmaker-novo-nordisk-drops-gender-representation-requirements-us-2025-05-07/",
+    "source": "Reuters",
+    "content": "COPENHAGEN/LONDON, May 7 (Reuters) - Obesity drugmaker Novo Nordisk (NOVOb.CO), opens new tab said on Wednesday it would drop gender representation requirements for senior leadership positions in its U.S. business following executive orders by President Donald Trump to stop diversity, equity and inclusion initiatives.\n\"While Novo Nordisk maintains our global aspiration of a minimum 45% representation for each gender by the end of 2025, Novo Nordisk's operations in the U.S. will no longer participate in this global initiative due to evolving legal requirements,\" the company said in its first-quarter earnings statement.\nFollowing Trump taking office in January and up to Wednesday, the Danish company had, when asked, affirmed it would not change its stance on the importance of a diverse workforce.\nWith the changed stance for its U.S. business, Novo joins peer European drugmakers who have acted to avoid potential penalties from recent U.S. executive orders.\nIn March, Swiss drugmaker Roche abandoned global diverse workforce targets and compatriot Novartis ended its use of diverse panels for U.S. hiring. In February, GSK announced it will no longer set diversity targets."
+}

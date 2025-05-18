@@ -1,0 +1,7 @@
+{
+    "headline": "Sweden Finance Chief Warns Inflation May Miss Target in 2025",
+    "publish_time": "2025-03-19T13:01:42.854Z",
+    "author": "Rafaela Lindeberg",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-19/sweden-finance-minister-warns-inflation-will-miss-target-in-2025?srnd=phx-economics-inflation-and-prices",
+    "content": "Sweden’s Finance Ministry raised its forecast for inflation this year to a level exceeding the central bank’s target, suggesting a tougher balancing act for the Riksbank in its efforts to help the largest Nordic economy to exit near-stagnation.\nThe CPIF inflation, measuring annual price increase with a fixed interest rate, is expected at 2.5% in 2025, up from the December forecast of 2%, according to the new economic outlook by the ministry, published on Wednesday."
+}

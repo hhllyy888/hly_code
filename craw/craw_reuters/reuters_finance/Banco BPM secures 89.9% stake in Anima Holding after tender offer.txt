@@ -1,0 +1,9 @@
+{
+    "headline": "Banco BPM secures 89.9% stake in Anima Holding after tender offer",
+    "published_time": "2025-04-04T16:24:25Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/markets/deals/banco-bpm-secures-899-stake-anima-holding-after-tender-offer-2025-04-04/",
+    "content": "MILAN, April 4 (Reuters) - Italy's Banco BPM (BAMI.MI), opens new tab on Friday secured more than the two-third majority threshold set for its buyout offer for asset manager Anima Holding (ANIM.MI), opens new tab required to reap the maximum benefits from the deal.\nBourse data and Reuters calculations showed on Friday, the final day of the offer, take-up had reached around 68% of Anima's share capital.\nConsidering the 22% stake that Banco BPM already owns, the bank secured 89.9% of the fund manager's capital."
+}

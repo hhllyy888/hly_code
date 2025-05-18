@@ -1,0 +1,9 @@
+{
+    "headline": "UBS informs Italian unions of plans to cut a third of its jobs in the country",
+    "published_time": "2025-04-01T17:07:37Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/world-at-work/ubs-informs-italian-unions-plans-cut-one-third-jobs-country-2025-04-01/",
+    "content": "MILAN, April 1 (Reuters) - Swiss bank UBS (UBSG.S), opens new tab informed unions in Italy on Tuesday of plans to cut 180 jobs in the country, around a third of the total, documents reviewed by Reuters showed.\nOne of the letters to unions seen by Reuters showed that UBS planned to shed 18 jobs out of 34 at UBS Fiduciaria, an asset custody services company that, according to its website, merged with Credit Suisse Servizi Fiduciari.\nThe bulk of the reductions will be at the Italian arm of UBS Europe SE, with 162 of its 568 jobs set to be cut, another letter showed.\nThe cuts will be from some group functions, the letter said, while the rest are in global wealth management, excluding corporate advisory and front office positions.\nInvestment banking will not be affected, the letter added.\nUBS confirmed in a statement that it was planning \"a business model alignment and operational harmonization of the structure of the Italy Branch and UBS Fiduciaria SpA, as well as the aligned functions\".\n\"Italy remains a strategic geography for the group's future growth,\" it added."
+}

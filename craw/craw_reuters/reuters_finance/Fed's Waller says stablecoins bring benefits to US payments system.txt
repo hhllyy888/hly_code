@@ -1,0 +1,9 @@
+{
+    "headline": "Fed's Waller says stablecoins bring benefits to US payments system",
+    "published_time": "2025-04-04T18:08:15Z",
+    "author": [
+        "Michael S. Derby"
+    ],
+    "href": "https://www.reuters.com/technology/feds-waller-stablecoins-bring-benefits-payment-system-2025-04-04/",
+    "content": "April 4 (Reuters) - Federal Reserve Governor Christopher Waller said on Friday that stablecoins are a good thing for the U.S. payments system, but he doubts the financial system can support a large number of these assets.\n\"I'll say I'm a personal, big advocate of stablecoins,\" Waller said at a New York Fed event. \"I have been saying this for over three-plus years now, about how this could bring competition, efficiency and speed into the payments system.\"\n\"Do I think there's going to be 100 stablecoins circulating after legislation happens? I don't think so,\" he added.\nWaller is leading the work on payments system issues for the U.S. central bank, a job he acknowledges would have at one point been grim but is now \"fascinating\" given the level of innovation happening in the sector. He noted \"if you had told the (Fed) governor 25 years ago they had to oversee the payments committee, they'd put a gun in their mouth.\"\nWaller again noted that he sees no need for the Fed to adopt its own fully digital dollar and said that it's best when the private sector leads payments system innovation.\n\"I prefer to let the private sector solve these problems,\" Waller said. \"It's not my job as an unelected bureaucrat to tell everybody how they should do things,\" he said, adding that the Fed's role is to \"convene the industry together to think about what the problems are\" and how they can be solved.\nWaller also reiterated that the challenge of speeding up the payments system is that everyone wants to get paid quickly but not everyone wants to send the cash as quickly."
+}

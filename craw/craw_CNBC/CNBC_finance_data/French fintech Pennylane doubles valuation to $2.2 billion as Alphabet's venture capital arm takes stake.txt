@@ -1,0 +1,7 @@
+{
+    "headline": "French fintech Pennylane doubles valuation to $2.2 billion as Alphabet's venture capital arm takes stake",
+    "published_time": "2025-04-06T22:00:01+0000",
+    "author": "Ryan Browne",
+    "href": "https://www.cnbc.com/2025/04/06/pennylane-doubles-valuation-as-alphabet-vc-fund-takes-stake.html",
+    "content": "key point \nAccounting software startup Pennylane has raised 75 million euros in a new funding round co-led by Sequoia Capital, Alphabet's CapitalG and Meritech.\nThe round, which was also backed by DST Global, values the five-year-old startup at 2 billion euros — doubling from last year.\nPennylane plans to use the fresh cash to expand its services across Europe, starting with Germany in the summer.\nFrench accounting software firm Pennylane has doubled its valuation to 2 billion euros ($2.16 billion) in a new 75 million euro funding round.\nPennylane told CNBC that it raised the fresh funds from a host of venture funds, co-led by Sequoia Capital, Alphabet's CapitalG and Meritech. DST Global also partipcated in the round.\nFounded in 2020, Pennylane sells what it calls an \"all-in-one\" accounting platform that's used by accountants and other financial professionals.\nThe platform is primarily targeted toward small to medium-sized firms, offering tools for functions spanning expensing, invoicing, cash flow management and financial forecasting."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Euro zone lending growth accelerates further, ECB data shows",
+    "published_time": "2025-03-27T09:25:14Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/markets/europe/euro-zone-lending-growth-accelerates-further-ecb-data-shows-2025-03-27/",
+    "content": "FRANKFURT, March 27 (Reuters) - Euro zone lending growth accelerated further last month, suggesting that credit growth bottomed out in late 2024 and a mild expansion is now underway as interest rates fall, European Central Bank data showed on Thursday.\nLending to firms expanded by 2.2% in February, its best level since mid-2023, and above the 2.0% growth a month earlier, the ECB said. Credit to households meanwhile grew by 1.5% after 1.3% a month earlier.\nThe M3 measure of money circulating in the bloc, often an indicator of future economic activity, grew by 4.0% in February after 3.8% in January, above expectations for 3.8%."
+}

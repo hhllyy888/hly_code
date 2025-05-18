@@ -1,0 +1,9 @@
+{
+    "headline": "Truist Q1 profit falls on weakness in investment banking and trading business",
+    "published_time": "2025-04-17T10:49:11Z",
+    "chinese_publish_time": "2025-04-17T18:49:11",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/truist-q1-profit-falls-weakness-investment-banking-trading-business-2025-04-17/",
+    "source": "Reuters",
+    "content": "April 17 (Reuters) - Truist Financial (TFC.N), opens new tab reported a fall in first-quarter profit on Thursday due to weakness in its investment banking and trading unit amid U.S. President Donald Trump's whiplash trade policies.\nShifting expectations of global tariffs have triggered market turbulence and sharp declines, prompting CEOs to adopt a cautious stance and delaying deals and IPOs, hurting Truist's investment banking and trading income.\nIts quarterly investment banking and trading income fell 15.5% to $273 million versus a year ago.\nThe decrease was due to lower merger and acquisition fees and trading income, the company said in a statement.\nMeanwhile, its net interest income, or the difference between what a bank earns on loans and pays out on deposits, rose 3.8% to $3.56 billion in the quarter, compared to the previous year.\nTruist reported an adjusted profit of 87 cents per share in the reported quarter, compared with 91 cents per share in the same quarter last year. The profit was in line with analysts' average expectation of 87 cents per share, according to data compiled by LSEG.\nTruist's shares have fallen 17% in 2025, as of last close, lagging a 15% drop in the KBW Regional Banking Index (.KRX), opens new tab."
+}

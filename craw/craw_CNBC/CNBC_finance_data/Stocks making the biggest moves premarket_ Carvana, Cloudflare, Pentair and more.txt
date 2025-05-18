@@ -1,0 +1,7 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Carvana, Cloudflare, Pentair and more",
+    "published_time": "2025-03-25T12:14:04+0000",
+    "author": "Sean Conlon",
+    "href": "https://www.cnbc.com/2025/03/25/stocks-making-the-biggest-moves-premarket-cnva-net-pnr.html",
+    "content": ""
+}

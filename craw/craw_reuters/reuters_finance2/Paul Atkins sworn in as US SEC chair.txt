@@ -1,0 +1,9 @@
+{
+    "headline": "Paul Atkins sworn in as US SEC chair",
+    "published_time": "2025-04-21T23:42:08Z",
+    "chinese_publish_time": "2025-04-22T07:42:08",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/world/us/paul-atkins-sworn-us-sec-chair-2025-04-21/",
+    "source": "Reuters",
+    "content": "WASHINGTON, April 21 (Reuters) - Paul Atkins, who previously served as a U.S. Securities and Exchange Commission member from 2002 to 2008 and was seen as a business-friendly lawyer, was sworn in on Monday as the SEC chairman, the regulator said in a statement."
+}

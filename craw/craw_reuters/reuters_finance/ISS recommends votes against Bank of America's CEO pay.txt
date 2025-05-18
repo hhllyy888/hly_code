@@ -1,0 +1,9 @@
+{
+    "headline": "ISS recommends votes against Bank of America's CEO pay",
+    "published_time": "2025-04-04T18:16:15Z",
+    "author": [
+        "Ross Kerber"
+    ],
+    "href": "https://www.reuters.com/sustainability/boards-policy-regulation/iss-recommends-votes-against-bank-americas-ceo-pay-2025-04-04/",
+    "content": "April 4 (Reuters) - Proxy adviser Institutional Shareholder Services has recommended that investors cast advisory votes against the pay of top Bank of America (BAC.N), opens new tab executives including CEO Brian Moynihan, citing concerns about the process used to set the compensation.\nMoynihan earned $35 million last year, an increase of roughly 21%. ISS said in a report on Thursday that the increase \"appears directionally aligned with company performance.\"\nBut the process for determining his short-term incentive includes discretionary determinations and the bank did not disclose enough details, which \"inhibits a fulsome assessment of pay program rigor and the reasonableness of the specific pay determinations,\" ISS said.\nAsked for comment about the ISS report, a Bank of America spokesperson referred to language in its recent proxy statement, opens new tab. In the document the bank credited Moynihan with growing its net income 2.3% last year compared to 2023 and growing revenue 3.4% last year compared to 2023.\nRival proxy advisor Glass Lewis had recommended on March 28 that investors vote in support of Bank of America's executive pay."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Generali will not come to loggerheads with Rome over Natixis deal, CEO tells paper",
+    "published_time": "2025-04-04T05:29:51Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/generali-will-not-come-loggerheads-with-rome-over-natixis-deal-ceo-tells-paper-2025-04-04/",
+    "content": "ROME, April 4 (Reuters) - Generali (GASI.MI), opens new tab has no intention to come to a showdown with the Italian government over its proposed asset management tie-up with BPCE-owned Natixis Investment Manager, CEO Philippe Donnet said in an interview published on Friday.\n\"There will be no showdown with the government,\" Donnet told daily Corriere della Sera, adding that the group's relations with Rome have always been based on dialogue and constructive collaboration.\nItaly's government is due to review the deal under so-called \"golden power\" procedures, and Donnet said this would provide the opportunity to give clarity over \"a deal that we have proposed because we think it is good for Generali and for the entire country\".\nHe added that if \"real concerns or misunderstandings\" were to emerge during the process, Generali's \"board would certainly not be able to ignore them\"."
+}

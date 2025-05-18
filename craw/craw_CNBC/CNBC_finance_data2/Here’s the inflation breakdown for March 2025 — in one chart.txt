@@ -1,0 +1,9 @@
+{
+    "headline": "Here’s the inflation breakdown for March 2025 — in one chart",
+    "published_time": "2025-04-10T14:42:14Z",
+    "chinese_publish_time": "2025-04-10T22:42:14",
+    "author": "Greg Iacurci",
+    "url": "https://www.cnbc.com/2025/04/10/heres-the-inflation-breakdown-for-march-2025-in-one-chart.html",
+    "source": "CNBC",
+    "content": "key point \nThe annual consumer price index fell to 2.4% in March, down from 2.8% in February, according to the Bureau of Labor Statistics.\nPresident Donald Trump's tariff agenda and the prospect of a global trade war threaten to reverse progress in coming months.\nInflation throttled back in March, largely on lower gasoline prices — but tariffs threaten to reverse that downward trend in coming months while trouble also lurks in certain categories like groceries, economists said.\nThe consumer price index rose 2.4% for the 12 months ended in March, down from 2.8% in February, the U.S. Bureau of Labor Statistics reported Thursday, indicating that inflation decelerated.\nAdditionally, the \"core\" CPI — a measure that strips out food and energy prices, which can be volatile — fell from 3.1% to 2.8%, the lowest level since March 2021. Economists prefer to look at core inflation to determine underlying inflation trends."
+}

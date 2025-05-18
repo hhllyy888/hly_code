@@ -1,0 +1,9 @@
+{
+    "headline": "Tariffs Will Hit Low-Income Americans Harder Than Richest, Report Says",
+    "published_time": "2025-04-24T20:51:14Z",
+    "chinese_publish_time": "2025-04-25T04:51:14",
+    "author": "Jarrell Dillard",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-24/trump-tariffs-will-hit-low-income-americans-harder-than-richest?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Supply Lines is a daily newsletter that tracks global trade.Sign up here.\nPresidentDonald Trump’s tariffs would effectively cause a tax increase for low-income families that is more than three times higher than what wealthier Americans would pay, according to ananalysisfrom the Institute on Taxation and Economic Policy."
+}

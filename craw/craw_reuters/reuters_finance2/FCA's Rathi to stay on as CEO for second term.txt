@@ -1,0 +1,9 @@
+{
+    "headline": "FCA's Rathi to stay on as CEO for second term",
+    "published_time": "2025-04-10T08:48:49Z",
+    "chinese_publish_time": "2025-04-10T16:48:49",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/world/uk/fcas-rathi-stay-ceo-second-term-2025-04-10/",
+    "source": "Reuters",
+    "content": "LONDON, April 10 (Reuters) - Nikhil Rathi will stay in his role as chief executive of Britain's Financial Conduct Authority (FCA) for a second five-year term, the government announced on Thursday.\nThe decision extends Rathi's tenure at a critical time, with UK watchdogs under intense political pressure to pursue pro-growth reforms and against a backdrop of deepening market volatility and geopolitical tensions impacting finance firms.\nThe FCA is also reckoning with how to handle the latest potential multi-billion pound consumer finance scandal, as British courts decide how firmly to come down on lenders that charged unclear commissions on motor finance to customers.\n\"Nikhil Rathi has been crucial in this government's efforts to reform regulation so it supports growth and boosts investment – I am delighted he will be continuing his leadership of the FCA,\" finance minister Rachel Reeves said.\nRathi's second term will take his tenure to September 2030.\n\"While we must go further and faster in this age of volatility, the UK is well placed as a major international financial centre,\" Rathi said."
+}

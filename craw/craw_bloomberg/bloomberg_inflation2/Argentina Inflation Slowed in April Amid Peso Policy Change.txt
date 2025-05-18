@@ -1,0 +1,9 @@
+{
+    "headline": "Argentina Inflation Slowed in April Amid Peso Policy Change",
+    "published_time": "2025-05-14T19:13:11Z",
+    "chinese_publish_time": "2025-05-15T03:13:11",
+    "author": "Manuela Tobias",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-14/argentina-inflation-slowed-in-april-amid-currency-policy-change?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Argentina’sinflationslowed down more than expected in April despite a change in the currency policy traders were betting would fan volatility.\nConsumer prices rose 2.8% from March, less than the 3.2%median estimateof analysts surveyed by Bloomberg. That’s down from March’s 3.7% reading. Annual inflation slowed for a12th monthto 47.3%, according to government data published Wednesday. Price increases were led by food and non-alcoholic beverages."
+}

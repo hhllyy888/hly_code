@@ -1,0 +1,9 @@
+{
+    "headline": "Russia's VTB board recommends first dividend since start of Ukraine war",
+    "published_time": "2025-04-28T11:58:28Z",
+    "chinese_publish_time": "2025-04-28T19:58:28",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/russias-vtb-board-recommends-first-dividend-since-start-ukraine-war-2025-04-28/",
+    "source": "Reuters",
+    "content": "MOSCOW, April 28 (Reuters) - Russia's second largest bank, VTB, announced its first dividend payment since the start of the war in Ukraine on Monday.\nShares in the bank rose 25%, according to Moscow Stock Exchange data, after VTB unexpectedly said its board had recommended paying out 50% of 2024's profit to shareholders. CEO Andrei Kostin said this was thanks to the fact that the bank had exceeded its targets for the past year.\n\"This will ensure a record dividend yield, contribute to the long-term sustainable growth of VTB's shareholder value, and increase investor confidence in both VTB's shares and the domestic stock market as a whole,\" Kostin said.\nThe bank had previously planned to resume regular dividend payouts in 2026.\nVTB made a record profit of 551.4 billion roubles ($6.70 billion) in 2024, a 27.6% increase on the previous year, although a fall to around 430 billion roubles is expected this year.\n($1 = 82.3500 roubles)"
+}

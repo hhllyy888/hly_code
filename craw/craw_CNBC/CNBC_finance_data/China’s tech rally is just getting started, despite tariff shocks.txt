@@ -1,0 +1,7 @@
+{
+    "headline": "China’s tech rally is just getting started, despite tariff shocks",
+    "published_time": "2025-04-06T11:14:55+0000",
+    "author": "Evelyn Cheng",
+    "href": "https://www.cnbc.com/2025/04/06/chinas-tech-rally-is-still-just-getting-started-despite-tariffs.html",
+    "content": ""
+}

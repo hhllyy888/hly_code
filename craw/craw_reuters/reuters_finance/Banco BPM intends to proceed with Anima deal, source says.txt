@@ -1,0 +1,9 @@
+{
+    "headline": "Banco BPM intends to proceed with Anima deal, source says",
+    "published_time": "2025-03-27T17:01:10Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/markets/deals/banco-bpm-intends-proceed-with-anima-deal-source-says-2025-03-27/",
+    "content": "MILAN, March 27 (Reuters) - Banco BPM (BAMI.MI), opens new tab intends to proceed with its bid for fund manager Anima Holding (ANIM.MI), opens new tab regardless of the regulators' stance on capital treatment, a source with knowledge of the matter said on Thursday.\nThe European Central Bank has issued a negative opinion on Banco BPM's plan to use what is known as the 'Danish Compromise' to facilitate the deal, potentially making it more expensive."
+}

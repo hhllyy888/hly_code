@@ -1,0 +1,9 @@
+{
+    "headline": "Spain's Criteria says no current talks on stake in Naturgy",
+    "published_time": "2025-03-27T15:06:01Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/energy/spains-criteria-says-no-current-talks-stake-naturgy-2025-03-27/",
+    "content": "MADRID, March 27 (Reuters) - Spanish holding company Criteria said on Thursday it was not at present in negotiations with any potential investor regarding its stake in the energy utility Naturgy (NTGY.MC), opens new tab.\nThe statement comes after Bloomberg News reported on Monday that Abu Dhabi's TAQA (TAQA.AD), opens new tab had approached Naturgy's largest shareholder, Criteria, to revive an offer for a stake in the Spanish utility.\nCriteria, which holds a 26.7% stake in Naturgy, said in a filing to the stock market supervisor that it \"is not currently in negotiations with any potential investment group regarding its stake in Naturgy Energy Group\".\nBloomberg said on Monday the UAE's minister of investment and TAQA chairman, Mohamed Hassan Alsuwaidi, had travelled to Spain to meet with a Criteria executive to discuss a potential deal.\nLast year, TAQA was eyeing Criteria's stake for a possible partnership agreement but failed to reach a deal.\nShares in Naturgy were up 0.5% in late afternoon trading while Spain's blue-chip index Ibex-35 (.IBEX), opens new tab was flat."
+}

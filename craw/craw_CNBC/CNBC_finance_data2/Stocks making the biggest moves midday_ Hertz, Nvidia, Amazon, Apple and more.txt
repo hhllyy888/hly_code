@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves midday: Hertz, Nvidia, Amazon, Apple and more",
+    "published_time": "2025-04-21T16:41:30Z",
+    "chinese_publish_time": "2025-04-22T00:41:30",
+    "author": "Sean Conlon",
+    "url": "https://www.cnbc.com/2025/04/21/stocks-making-the-biggest-moves-midday-htz-nvda-amzn-aapl.html",
+    "source": "CNBC",
+    "content": ""
+}

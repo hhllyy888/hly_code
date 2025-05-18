@@ -1,0 +1,9 @@
+{
+    "headline": "ECB ready to ensure financial stability, Villeroy says",
+    "published_time": "2025-04-09T09:02:24Z",
+    "chinese_publish_time": "2025-04-09T17:02:24",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/markets/europe/ecb-ready-ensure-financial-stability-villeroy-says-2025-04-09/",
+    "source": "Reuters",
+    "content": "PARIS, April 9 (Reuters) - The European Central Bank stands ready to ensure the sound financing of the euro zone economy and financial stability, French ECB policymaker Francois Villeroy de Galhau said on Wednesday as U.S. tariffs fuelled fresh market turbulence.\nGlobal markets saw more volatility on Wednesday as President Donald Trump's eye-watering 104% tariffs on China took effect, and a savage selloff in U.S. bonds sparked fears that foreign funds were fleeing U.S. assets.\nThe economic uncertainty triggered by the trade tensions are impacting financial stability and could increase credit risk for some financial institutions although French banks are solid, said Villeroy, who is also head of the French central bank.\nWriting in an annual letter to President Emmanuel Macron, he added that leveraged hedge funds could in particular face big liquidity pressures.\n\"In this context, the Bank of France and the European Central Bank are fully mobilised to ensure the economy is well financed and (ensure) financial stability,\" he said.\n\"They are monitoring to make sure the financial system's liquidity is good, including in times of market stress,\" Villeroy added.\nThe Bank of France estimated that the trade tensions with Washington could reduce euro zone growth by 0.25 percentage points this year, although the impact on France will likely be lower.\nVilleroy said that uncertainty created by the Trump's administrations' announcement of \"reciprocal\" tariffs last week boosted the case for a rate cut.\n\"We still have room to cut rates,\" he told journalists as he presented the letter."
+}

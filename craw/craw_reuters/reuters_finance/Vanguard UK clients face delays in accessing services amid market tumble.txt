@@ -1,0 +1,9 @@
+{
+    "headline": "Vanguard UK clients face delays in accessing services amid market tumble",
+    "published_time": "2025-04-07T10:05:32Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/vanguard-uk-clients-face-delays-accessing-services-amid-market-tumble-2025-04-07/",
+    "content": "LONDON, April 7 (Reuters) - Vanguard's UK online investment platform is experiencing IT problems with clients facing delays in accessing account information, the company said on Monday, as global markets slide following U.S. President Donald Trump's tariff announcements.\nHundreds of Vanguard customers have experienced problems accessing services in the last few hours, according to outages tracking website Down Detector.\n\"We are aware that Vanguard clients may be experiencing delays in viewing certain account information,\" a Vanguard UK spokesperson said in a statement. \"Our tech teams are taking steps to identify the root cause and mitigate any impact. We apologize for any inconvenience as we work to resolve this issue.\"\nA Vanguard spokesperson declined to comment on whether the problems were linked to the recent market turmoil or increased trading activity."
+}

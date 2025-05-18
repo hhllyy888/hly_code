@@ -1,0 +1,9 @@
+{
+    "headline": "Spanish banking lobby to challenge new tax in court",
+    "published_time": "2025-04-10T11:31:17Z",
+    "chinese_publish_time": "2025-04-10T19:31:17",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/spanish-banking-lobby-challenge-new-tax-court-2025-04-10/",
+    "source": "Reuters",
+    "content": "MADRID, April 10 (Reuters) - The Spanish Banking Association will legally challenge the country's new banking tax, the lobby's head, Alejandra Kindelan, said on Thursday, adding that the levy represented a burden of 2 billion euros ($2.21 billion) on the sector.\nIn 2024, Spanish lawmakers approved the government's new tax plans, which included extending a modified temporary levy on banks by three years.\n\"The time has come to ask the government if they are going to remove this tax on banking and, as I fear the answer, what we are going to do on our part is to appeal the tax,\" Kindelan said, adding that the association would challenge part of its implementation.\nRanging between 1% and 7%, it taxes lenders' net interest income and commissions in accordance with their lending income volumes. For lenders whose annual volumes surpass 5 billion euros, it sets a rate of 7%, affecting Santander (SAN.MC), opens new tab, BBVA (BBVA.MC), opens new tab and Caixabank (CABK.MC), opens new tab.\n\"In the current context, it is clearer than ever that this tax represents a burden on the Spanish banking sector alone, amounting to 2 billion euros over three years,\" Kindelan said.\n($1 = 0.9031 euros)"
+}

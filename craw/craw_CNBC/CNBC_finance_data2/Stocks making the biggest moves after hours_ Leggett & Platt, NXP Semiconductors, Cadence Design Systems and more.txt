@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves after hours: Leggett & Platt, NXP Semiconductors, Cadence Design Systems and more",
+    "published_time": "2025-04-28T21:03:47Z",
+    "chinese_publish_time": "2025-04-29T05:03:47",
+    "author": "Alex Harring",
+    "url": "https://www.cnbc.com/2025/04/28/stocks-making-the-biggest-moves-after-hours-nxpi-leg-cdns-and-more.html",
+    "source": "CNBC",
+    "content": ""
+}

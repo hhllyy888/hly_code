@@ -1,0 +1,9 @@
+{
+    "headline": "UK announces draft rules for crypto industry, touts greater collaboration with U.S.",
+    "published_time": "2025-04-29T16:02:28Z",
+    "chinese_publish_time": "2025-04-30T00:02:28",
+    "author": "Ryan Browne",
+    "url": "https://www.cnbc.com/2025/04/29/uk-announces-draft-rules-for-crypto-industry-us-collaboration.html",
+    "source": "CNBC",
+    "content": "key point \nU.K. Finance Minister Rachel Reeves on Tuesday announced plans for a \"comprehensive regulatory regime for crypto assets.\"\nThe U.K.'s Treasury published draft rules aimed at bringing crypto exchanges, dealers and agents into the regulatory fold.\nReeves said that the the U.K. planned to deepen regulatory cooperation with the U.S. to boost \"responsible\" adoption of digital assets.\nLONDON — Britain on Tuesday published draft legislation for the cryptocurrency industry, touting greater collaboration with the U.S. as it looks to regulate the wild world of digital assets.\nSpeaking at a fintech event Tuesday, U.K. Finance Minister Rachel Reeves announced plans for a \"comprehensive regulatory regime for crypto assets,\" adding that the proposals would aim to make the country a \"world leader in digital assets.\"\nThe rules will bring crypto exchanges, dealers and agents into the regulatory fold, \"cracking down on bad actors while supporting legitimate innovation,\" the U.K.'s Treasury department said in a statement released following Reeves' remarks.\n\"Crypto firms with UK customers will also have to meet clear standards on transparency, consumer protection, and operational resilience — just like firms in traditional finance,\" the Treasury's statement added."
+}

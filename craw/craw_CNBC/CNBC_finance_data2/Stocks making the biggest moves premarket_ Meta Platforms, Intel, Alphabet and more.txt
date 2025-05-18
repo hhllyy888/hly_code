@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Meta Platforms, Intel, Alphabet and more",
+    "published_time": "2025-04-25T12:07:00Z",
+    "chinese_publish_time": "2025-04-25T20:07:00",
+    "author": "Hakyung Kim",
+    "url": "https://www.cnbc.com/2025/04/25/stocks-making-the-biggest-moves-premarket-meta-intc-googl-and-more.html",
+    "source": "CNBC",
+    "content": ""
+}

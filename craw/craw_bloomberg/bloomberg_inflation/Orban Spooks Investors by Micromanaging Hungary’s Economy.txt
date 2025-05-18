@@ -1,0 +1,7 @@
+{
+    "headline": "Orban Spooks Investors by Micromanaging Hungary’s Economy",
+    "publish_time": "2025-04-01T11:42:10.836Z",
+    "author": "Andras Gergely",
+    "href": "https://www.bloomberg.com/news/articles/2025-04-01/hungary-s-orban-spooks-investors-again-by-micromanaging-economy?srnd=phx-economics-inflation-and-prices",
+    "content": "Hungarian Prime MinisterViktor Orban’s cabinet is once again unnerving investors by intervening in swathes of the economy from banking to fund management before next year’s elections.\nStocks in Budapest suffered their biggest two-daydeclinein almost eight months after Economy MinisterMarton Nagyproposed freezing costs that banks charge clients, while also urging “voluntary” price cuts by telecommunication companies and limiting margins by food retailers."
+}

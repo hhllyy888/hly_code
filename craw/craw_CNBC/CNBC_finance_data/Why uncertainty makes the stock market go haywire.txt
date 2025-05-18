@@ -1,0 +1,7 @@
+{
+    "headline": "Why uncertainty makes the stock market go haywire",
+    "published_time": "2025-03-19T12:30:01+0000",
+    "author": "Greg Iacurci",
+    "href": "https://www.cnbc.com/2025/03/19/why-uncertainty-makes-the-stock-market-go-haywire.html",
+    "content": "key point \nInvestor uncertainty has led to volatile trading in the stock market.\nThey are unnerved by see-sawing Trump administration policy positions, most importantly on tariffs, experts said.\nInvestors don't know how policy will impact corporate profits, experts said.\nUncertainty isn't in short supply these days — and investors have taken notice.\nSee-sawing policy from the White House has given investors whiplash on many fronts — with tariffs being among the biggest question marks, market experts say.\nCoupled with uncertainty around federal job cuts, negotiations to end the war in Ukraine and other issues, the combination has been \"disorienting to market sentiment,\" Paul Christopher, head of global investment strategy at the Wells Fargo Investment Institute, wrote Wednesday.\nStocks have wobbled amid the vertigo.\nThe S&P 500 entered a correction last week, meaning the U.S. stock index fell 10% from its recent high mark in February. The index has recovered a bit but teetered on the edge of a correction Tuesday afternoon.\nThe benchmark is down about 5% in 2025."
+}

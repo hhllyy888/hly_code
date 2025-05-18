@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Nvidia, Best Buy, Eli Lilly, Tesla, Amazon and more",
+    "published_time": "2025-05-12T12:21:14Z",
+    "chinese_publish_time": "2025-05-12T20:21:14",
+    "author": "Sean Conlon",
+    "url": "https://www.cnbc.com/2025/05/12/stocks-making-the-biggest-moves-premarket-nvda-bby-lly-tsla-amzn.html",
+    "source": "CNBC",
+    "content": ""
+}

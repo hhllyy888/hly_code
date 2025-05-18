@@ -1,0 +1,9 @@
+{
+    "headline": "European banks extend losses amid tariff selloff",
+    "published_time": "2025-04-04T07:24:06Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/markets/europe/european-banks-extend-losses-amid-tariff-selloff-2025-04-04/",
+    "content": "April 4 (Reuters) - Shares in European lenders extended losses on Friday amid a deep selloff in equities sparked by U.S. President Donald Trump's sweeping tariffs.\nA basket of the region's banks (.SX7P), opens new tab was down 3.3% to its lowest since early February at 0710 GMT after falling 5.5% on Thursday. Losses over the past two trading days hit 8.5%, the most for this period in three years.\nItaly's BPER Banca , Germany's Deutsche Bank (DBKGn.DE), opens new tab, Spain's Sabadell (SABE.MC), opens new tab were leading losses, all down around 4.3%.\nBanking stocks elsewhere tanked overnight, with shares in many large Wall Street institutions, such as Goldman Sachs (GS.N), opens new tab, Morgan Stanley (MS.N), opens new tab and JPMorgan (JPM.N), opens new tab falling between 7-9%, marking their largest daily declines since 2020.\nAn index of financial shares in Japan fell by as much as 11% at one point on Friday (.IBNKS.T), opens new tab."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Actively managed ETFs hit $1 trillion milestone: Why tariff uncertainty may spark more growth ",
+    "published_time": "2025-04-04T11:00:02Z",
+    "chinese_publish_time": "2025-04-04T19:00:02",
+    "author": "Krysta Escobar",
+    "url": "https://www.cnbc.com/2025/04/04/wall-street-milestone-actively-managed-etfs-hit-1-trillion.html",
+    "source": "CNBC",
+    "content": "It's milestone month for the exchange-traded fund industry.\nActively managed ETFs now have more than $1 trillion in assets under management, according to independent research firm ETFGI.\nThat's roughly the market cap of Berkshire Hathaway, Saudi Arabia's gross domestic product and the value of 121 New York Yankees franchises.\nThe ETF Store's Nate Geraci thinks it will grow even bigger due to the appetite for new active investing strategies.\n\"It's interesting for an industry where the roots are passively managed products. That's what the industry was built on,\" the firm's president told CNBC's \"ETF Edge\" this week. \"It's interesting to see active ETFs getting all of the attention right now.\"\nGeraci finds most of the flows are going into \"much more systemic strategies,\" including a combination of passive and aggressive.\n\"When you look at the growth in the number of actively managed ETFs out there … these aren't what you necessarily think of as traditional active,\" he added. \"It is products like options-based income ETFs [and] buffer ETFs.\"\nActively managed ETFs now comprise almost one-tenth of the ETF industry, according to VettaFi's Kirsten Chang."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Five Chinese AI plays that could ride out trade war volatility",
+    "published_time": "2025-04-13T10:41:27Z",
+    "chinese_publish_time": "2025-04-13T18:41:27",
+    "author": "Evelyn Cheng",
+    "url": "https://www.cnbc.com/2025/04/13/five-chinese-ai-plays-that-could-ride-out-trade-war-volatility.html",
+    "source": "CNBC",
+    "content": ""
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "London No Longer Has the Fastest Rent Inflation in England",
+    "published_time": "2025-04-16T11:20:02Z",
+    "chinese_publish_time": "2025-04-16T19:20:02",
+    "author": "Irina Anghel",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-16/london-no-longer-has-the-fastest-rent-inflation-in-england?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "London’s rent inflation eased to levels last seen two years ago, official data show, in a welcome sign for those struggling with cost-of-living pressures in the UK’s most expensive housing market.\nAverage private housing rents in the capital still rose 9.1% in the year through March to £2,243 ($2,975.7) per month,figuresfrom the Office for National Statistics showed Wednesday. However, it was the weakest increase since May 2023 and a slowdown from a peak of 11.5% at the end of last year. Rents edged up just 0.3% on the month."
+}

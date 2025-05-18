@@ -1,0 +1,7 @@
+{
+    "headline": "Nigerian Inflation Cools Again Giving Impetus for Rate Pause",
+    "publish_time": "2025-03-17T13:57:54.145Z",
+    "author": "Ruth Olurounbi",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-17/nigerian-inflation-cools-again-amid-hope-prices-have-peaked?srnd=phx-economics-inflation-and-prices",
+    "content": "Nigeria’sannual inflation eased for the second straight month, stoking optimism that price pressures have peaked and will continue to moderate.\nAnnual consumer prices rose 23.2% in February from 24.5% a month earlier, according to data published by the National Bureau of Statistics on Monday. Food inflation slowed to 23.5% from 26.1% and core price growth quickened to 23% from 22.6%."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "This is what typically happens to stocks after periods of high volatility",
+    "published_time": "2025-04-29T18:07:03Z",
+    "chinese_publish_time": "2025-04-30T02:07:03",
+    "author": "Greg Iacurci",
+    "url": "https://www.cnbc.com/2025/04/29/this-is-what-typically-happens-to-stocks-after-periods-of-high-volatility.html",
+    "source": "CNBC",
+    "content": "key point \nThe S&P 500 have tended to experience significant gains in the year following periods of high volatility as measured by the VIX, Wall Street's fear gauge, a new analysis shows.\nVolatility creates a \"potential opportunity,\" Edward Lee, an investment strategy analyst at the Wells Fargo Investment Institute, wrote in an analysis.\nPeriods of extreme volatility in the stock market may feel painful for investors — but such periods are generally followed by strong stock returns, if history is a guide, according to market analysts.\nIn that sense, many investors would be wise not to sell stocks — and should perhaps even buy more, analysts said.\nThe VIX index, also known at the Wall Street fear gauge, measures the market's estimate of expected volatility in the S&P 500 stock index.\nWhen the VIX has spiked to a level above 40 — indicating \"significant\" volatility — the S&P 500 has been up 30% a year later, on average, according to a Wells Fargo Investment Institute analysis of the market from January 1990 to April 16, 2025.\nThe odds of stock returns being positive 12 months later were also above 90% during these periods, the analysis found."
+}

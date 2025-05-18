@@ -1,0 +1,9 @@
+{
+    "headline": "BNY asks employees to return to office four days a week by September",
+    "published_time": "2025-05-01T22:50:07Z",
+    "chinese_publish_time": "2025-05-02T06:50:07",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/bny-asks-employees-return-office-four-days-week-by-september-2025-04-30/",
+    "source": "Reuters",
+    "content": "NEW YORK, April 30 (Reuters) - (This April 30 story has been republished to change the image, with no changes to text)\nBank of New York Mellon (BK.N), opens new tab has asked its employees to return to the office four days a week by September 2 from a current three days, according to a memo from the bank's executive committee seen by Reuters.\nThe move comes after other Wall Street banks implemented stricter in-office mandates. JPMorgan Chase (JPM.N), opens new tab prompted staff complaints after it told workers on hybrid schedules to come back five days a week starting in March.\n\"We believe that it is important that all of us spend more time together working, leading and learning from each other,\" BNY's leaders wrote in the memo. \"We’re committed to maintaining personal flexibility, and will continue to support remote work one day a week. We have no plans to return to 5 days in office unless circumstances were to demand otherwise.\"\nBNY has required its 51,000 employees to work from the office for three days a week since the first half of 2023.\n\"Occasional remote work can be effective, but in person we can respond more quickly to dynamic, fast-paced financial markets and better serve our clients,\" BNY executives wrote. \"Most managers are already in the office 4 days a week, and we have seen the positive momentum this creates.\""
+}

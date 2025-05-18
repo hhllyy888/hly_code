@@ -1,0 +1,9 @@
+{
+    "headline": "Generali investors should vote to keep CEO in the job, proxy adviser ISS says",
+    "published_time": "2025-04-05T19:01:27Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/generali-investors-should-vote-keep-ceo-job-proxy-adviser-iss-says-2025-04-05/",
+    "content": "MILAN, April 5 (Reuters) - Leading governance adviser Institutional Shareholder Services (ISS) has recommended Generali (GASI.MI), opens new tab investors vote to hand CEO Philippe Donnet another term at a general meeting on April 24.\nDonnet has been put forward as a candidate by the insurer's main investor Mediobanca (MDBI.MI), opens new tab.\nISS recommended voting for Mediobanca's slate of board nominees, and against two others. One of these was submitted by another major Generali investor who is a longtime Donnet opposer, while the other was submitted by a group of Italian fund managers.\n\"Overall, the company has been performing well in recent years, and supporting the slate of candidates submitted by Mediobanca appears the best option for ensuring strategic and management continuity,\" ISS said.\n\"Supporting alternative slates might entail significant risk of ungovernability and strategic disruption,\" it added in a proxy voting report for investors seen by Reuters."
+}

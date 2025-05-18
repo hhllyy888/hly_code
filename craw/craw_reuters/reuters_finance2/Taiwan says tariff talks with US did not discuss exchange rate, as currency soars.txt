@@ -1,0 +1,9 @@
+{
+    "headline": "Taiwan says tariff talks with US did not discuss exchange rate, as currency soars",
+    "published_time": "2025-05-05T08:30:57Z",
+    "chinese_publish_time": "2025-05-05T16:30:57",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/taiwan-says-tariff-talks-with-us-did-not-discuss-exchange-rate-currency-soars-2025-05-05/",
+    "source": "Reuters",
+    "content": "TAIPEI, May 5 (Reuters) - Taiwan's government said on Monday that tariff talks with the United States last week did not discuss the exchange rate and Taiwan's central bank has not taken part in the discussions, after the Taiwan dollar surged against the U.S. dollar.\nThe Taiwan dollar on Monday and last Friday appreciated strongly against the greenback on market speculation that the United States had asked Taiwan to allow its currency to appreciate as part of the tariff talks.\nIn a statement, Taiwan's Office of Trade Negotiations said that the talks in Washington last week \"did not touch upon exchange rate issues\".\nSince the government set up a working group in November for Taiwan-U.S. trade, led by Vice Premier Cheng Li-chiun, it has not included the central bank, and the delegation led by Cheng last week also did not include the central bank, the office said.\nOn Saturday, the office said that Taiwan had concluded its first round of \"substantive\" tariff talks with the United States, describing the atmosphere as frank and cordial."
+}

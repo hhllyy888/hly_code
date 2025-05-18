@@ -1,0 +1,9 @@
+{
+    "headline": "Inflation Casts Shadow Over Japan’s Cherry Blossom Season",
+    "publish_time": "2025-04-02T03:27:16Z",
+    "chinese_publish_time": "2025-04-02T11:27:16",
+    "author": "Yui Hasebe",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-02/inflation-casts-shadow-over-japan-s-cherry-blossom-season?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Cherry blossoms are in full bloom across Japan, prompting the usual rush of impromptu picnics, but prices are surging for the traditional food items often enjoyed while admiring the flowers.\nA report from Dai-ichi Life Research Institute shows that the cost of typical food items eaten at the gatherings known as “hanami,” or flower-viewing parties, has risen 21.4% in the past six years."
+}

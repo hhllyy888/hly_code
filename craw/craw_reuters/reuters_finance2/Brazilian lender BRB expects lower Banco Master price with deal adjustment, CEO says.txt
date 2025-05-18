@@ -1,0 +1,9 @@
+{
+    "headline": "Brazilian lender BRB expects lower Banco Master price with deal adjustment, CEO says",
+    "published_time": "2025-04-10T16:45:17Z",
+    "chinese_publish_time": "2025-04-11T00:45:17",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/markets/deals/brazilian-lender-brb-expects-lower-banco-master-price-with-deal-adjustment-ceo-2025-04-10/",
+    "source": "Reuters",
+    "content": "SAO PAULO, April 10 (Reuters) - The acquisition of some of lender Banco Master's assets by Brazil's government-controlled bank BRB (BSLI3.SA), opens new tab is likely to exclude \"much more\" than 23 billion reais ($3.89 billion) in assets, BRB's president said on Thursday.\nBRB is still analyzing Banco Master and the final price for its assets has not been defined, although it is expected to decrease from earlier indications, President Paulo Henrique Costa said at a press conference, after the bank released fourth-quarter results.\nThe initially announced price was 2 billion reais.\n\"Due diligence at this moment is focused on the credit portfolio,\" he said, adding that only a portion of the credit operations would be considered part of the business to be analyzed by the Brazilian central bank.\nLast week, Costa told Reuters the deal would involve the purchase of Master's healthiest and most strategically relevant assets, leaving assets worth about 23 billion reais outside the deal.\nOn Thursday, Costa said the Master operations that interest BRB are those dealing with medium and large business segments, payroll credit cards, and foreign exchange services.\n\"Therefore, assets that do not have guarantees or risk profiles aligned with BRB will not be part of it,\" he said.\n($1 = 5.9060 reais)"
+}

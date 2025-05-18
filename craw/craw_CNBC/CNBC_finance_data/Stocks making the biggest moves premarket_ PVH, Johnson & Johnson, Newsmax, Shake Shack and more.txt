@@ -1,0 +1,7 @@
+{
+    "headline": "Stocks making the biggest moves premarket: PVH, Johnson & Johnson, Newsmax, Shake Shack and more",
+    "published_time": "2025-04-01T11:57:47+0000",
+    "author": "Alex Harring",
+    "href": "https://www.cnbc.com/2025/04/01/stocks-making-the-biggest-moves-premarket-pvh-jnj-nmax-shak-more.html",
+    "content": ""
+}

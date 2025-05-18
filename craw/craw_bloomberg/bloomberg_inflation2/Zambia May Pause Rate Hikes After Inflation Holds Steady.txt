@@ -1,0 +1,9 @@
+{
+    "headline": "Zambia May Pause Rate Hikes After Inflation Holds Steady",
+    "published_time": "2025-04-24T08:19:38Z",
+    "chinese_publish_time": "2025-04-24T16:19:38",
+    "author": "Taonga Mitimingi",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-24/zambia-may-pause-rate-hikes-after-inflation-holds-steady?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Zambia’s annual inflation rate flatlined in April on a softer rise in food costs, providing room for the central bank to pause interest-rate increases next month.\nConsumer prices rose 16.5% this month, the same as in March, acting Statistician-General Sheila Mudenda told reporters on Thursday in Lusaka, the capital."
+}

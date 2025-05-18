@@ -1,0 +1,9 @@
+{
+    "headline": "Cheaper Eggs, Pricier Car Rentals: A Look at US April Inflation",
+    "published_time": "2025-05-13T17:29:53Z",
+    "chinese_publish_time": "2025-05-14T01:29:53",
+    "author": "Mark Niquette",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-13/cheaper-eggs-pricier-audio-gear-a-look-at-us-april-inflation?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "US inflationrose by less than expectedin April, helped by steep declines in prices for sporting events, eggs and other groceries.\nAudio equipment costs, meanwhile, jumped by the most on record, according to Bureau of Labor Statistics data out Tuesday. Consumer prices for car rentals and computer software also climbed."
+}

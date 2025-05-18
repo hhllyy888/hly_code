@@ -1,0 +1,7 @@
+{
+    "headline": "GameStop shares drop, reversing Wednesday's rally, on planned debt issue to buy bitcoin",
+    "published_time": "2025-03-27T12:33:42+0000",
+    "author": "Yun Li",
+    "href": "https://www.cnbc.com/2025/03/27/gamestop-shares-drop-on-planned-debt-issue-to-buy-bitcoin.html",
+    "content": "GameStop shares gave back much of Wednesday's rally after the video game retailer announced plans to raise debt to buy bitcoin.\nThe meme stock tumbled more than 9% Thursday, following an almost 12% rally the previous session. The reversal came after the video game chain announced plans to raise $1.3 billion through the sale of convertible senior notes due in 2030 to buy bitcoin."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Bitcoin drops to $74,000 before rebounding as cryptocurrencies join global market rout",
+    "published_time": "2025-04-06T21:13:17Z",
+    "chinese_publish_time": "2025-04-07T05:13:17",
+    "author": "Tanaya Macheel, Hakyung Kim",
+    "url": "https://www.cnbc.com/2025/04/06/bitcoin-drops-sunday-evening-as-cryptocurrencies-join-global-market-rout.html",
+    "source": "CNBC",
+    "content": "Bitcoin trimmed earlier losses in afternoon trading Monday, after joining the global market sell-off over the on tariff-fueled recession fears and dropping more than $10,000 over the weekend.\nThe price of bitcoin was last lower by more than 1% at $78,146.03, according to Coin Metrics. That was off its earlier low of $74,420.69, but down from a Friday high of nearly $85,000. It's sitting about 28% from its January peak.\n\"Today's relief rally has lifted bitcoin ... with prices recovering above $78,000 as traders deploy the cash they moved to the sidelines,\" said David Hernandez, crypto investment specialist at 21Shares. \"Uniquely, as demonstrated over the past few sessions, bitcoin tends to participate in broad market upside but doesn't always capitulate at the same time as broad risk-off moves, highlighting its growing divergence from traditional asset behavior.\"\nEther and the token tied to Solana extended their two-day losses to 13% and 10%, respectively."
+}

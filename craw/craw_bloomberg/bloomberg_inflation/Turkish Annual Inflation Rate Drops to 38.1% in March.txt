@@ -1,0 +1,7 @@
+{
+    "headline": "Turkish Annual Inflation Rate Drops to 38.1% in March",
+    "publish_time": "2025-04-03T07:03:42.629Z",
+    "author": "Beril Akman",
+    "href": "https://www.bloomberg.com/news/articles/2025-04-03/turkish-annual-inflation-drops-to-38-1-in-march?srnd=phx-economics-inflation-and-prices",
+    "content": "Turkey’s annual inflation slowed more than expected in March, though the data excludes any impact from recent political and market turmoil stemming from the detention of a leading opposition politician.\nYear-on-year price growth in March was 38.1%, compared to 39.1% the prior month, state statistics office TurkStat said on Thursday. The median forecast in a Bloomberg survey of economists was 38.7%."
+}

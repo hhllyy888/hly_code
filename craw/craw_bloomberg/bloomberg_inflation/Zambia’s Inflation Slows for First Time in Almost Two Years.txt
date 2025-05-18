@@ -1,0 +1,7 @@
+{
+    "headline": "Zambia’s Inflation Slows for First Time in Almost Two Years",
+    "publish_time": "2025-03-27T08:40:13.263Z",
+    "author": "Taonga Mitimingi",
+    "href": "https://www.bloomberg.com/news/articles/2025-03-27/zambia-s-inflation-slows-for-first-time-in-almost-two-years?srnd=phx-economics-inflation-and-prices",
+    "content": "Zambia’s annual inflation slowed for the first time since June 2023 as food price-growth eased on improved rains.\nConsumer prices rose 16.5% this month, from 16.8% in February, acting Statistician-General Sheila Mudenda told reporters on Thursday in Lusaka, the capital."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Levi Strauss, UnitedHealth, Marvell, Broadcom and more",
+    "published_time": "2025-04-08T11:58:09Z",
+    "chinese_publish_time": "2025-04-08T19:58:09",
+    "author": "Lisa Kailai Han",
+    "url": "https://www.cnbc.com/2025/04/08/stocks-making-the-biggest-moves-premarket-levi-unh-mrvl-avgo.html",
+    "source": "CNBC",
+    "content": ""
+}

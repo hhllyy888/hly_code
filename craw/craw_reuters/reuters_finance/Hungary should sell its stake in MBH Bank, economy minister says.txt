@@ -1,0 +1,9 @@
+{
+    "headline": "Hungary should sell its stake in MBH Bank, economy minister says",
+    "published_time": "2025-03-31T13:04:37Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/hungary-should-sell-its-stake-mbh-bank-economy-minister-says-2025-03-31/",
+    "content": "BUDAPEST, March 31 (Reuters) - The Hungarian state should sell its 20% stake in MBH Bank (MBHB.BU), opens new tab, the country's second-largest lender, in a potential upcoming share offering, the economy minister Marton Nagy said on Monday.\nBloomberg reported last week that MBH was working on a potential share offering, and that the government was mulling selling its stake in the bank.\nDuring a press conference in Budapest, Nagy confirmed that MBH was interested in going public.\n\"This provides an opportunity for the state to sell its stake ... My personal opinion is that it would be advisable for the state to sell its stake in MBH,\" he said.\nThe state currently owns its MBH shares through state-owned Corvinus BHG Asset Management. It reduced its stake in the bank from 30% last year.\nMBH told Reuters that it would not comment on a possible share offering or Nagy's comments.\nMBH was created by the 2020 merger of three banks - state-owned Budapest Bank, MKB Bank and savings group.\nHungary's market leader is OTP Bank."
+}

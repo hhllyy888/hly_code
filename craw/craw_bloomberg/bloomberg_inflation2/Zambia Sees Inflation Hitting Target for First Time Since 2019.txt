@@ -1,0 +1,9 @@
+{
+    "headline": "Zambia Sees Inflation Hitting Target for First Time Since 2019",
+    "published_time": "2025-04-17T13:18:09Z",
+    "chinese_publish_time": "2025-04-17T21:18:09",
+    "author": "Taonga Mitimingi, Matthew Hill",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-17/zambia-sees-inflation-hitting-target-for-first-time-since-2019?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Zambia’s annual consumer-price inflation is set to dip below 8% by year-end, the secretary to the treasury said, which would be the first time it falls within the central bank’s target range since 2019.\nPrice growth in the copper-rich southern African nation reached nearly 25% in 2021, months after Zambia became Africa’s first pandemic-era sovereign defaulter, and this year it touched 16.8% in the wake of a crippling drought."
+}

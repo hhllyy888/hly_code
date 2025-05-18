@@ -1,0 +1,9 @@
+{
+    "headline": "Portuguese police raid public offices, including central bank, in IT-related probe",
+    "published_time": "2025-04-03T11:45:10Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/world/europe/portuguese-police-raid-public-offices-including-central-bank-it-related-probe-2025-04-03/",
+    "content": "LISBON, April 3 (Reuters) - Portuguese police on Thursday raided the offices of several public institutions in a corruption probe involving the acquisition of information technology services, including at the Bank of Portugal, which confirmed the searches.\nPolice said in a statement they were carrying out 75 searches in Lisbon, Porto and Braga at homes, accounting firms, company headquarters, and public institutions, targeting employees rather than any high-ranking public officials.\nThe Bank of Portugal confirmed in a statement it was one of the entities targeted by the searches and that it was fully collaborating with the investigation.\nThe police said the searches were related to IT services contracts of several public entities and by a private company in 2017-2025, over suspicions of active and passive corruption, document forgery, fraud, influence peddling and other crimes.\nThey said the targets of the investigation were \"a group of individuals who, through joint efforts and in a premeditated manner, tainted dozens of public and private contracting procedures, for a global value of no less than 17 million euros ($19 million)\".\n\"These searches are intended to gather information related to employees of these services and were not aimed at political decision-makers,\" the police said.\n($1 = 0.9050 euros)"
+}

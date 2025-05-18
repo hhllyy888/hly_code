@@ -1,0 +1,9 @@
+{
+    "headline": "Blackstone gears up for $11 billion European property buying spree",
+    "published_time": "2025-04-09T09:12:57Z",
+    "chinese_publish_time": "2025-04-09T17:12:57",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/blackstone-gears-up-11-billion-european-property-buying-spree-2025-04-09/",
+    "source": "Reuters",
+    "content": "LONDON, April 9 (Reuters) - Blackstone (BX.N), opens new tab has said it has closed a 9.8 billion euro ($10.8 billion) European property fund, as it bets on signs of recovery for the sector despite deepening market turmoil.\nThe fundraise for the Europe Real Estate Partners VII fund is the largest ever pool of external capital amassed for European property, Blackstone said.\n\"The real estate recovery is coming into view,\" said James Seppala, head of European Real Estate at Blackstone, with the firm adding in a statement that it saw an \"opportunity-rich\" environment.\nReal estate markets had shown signs of recovery in recent months, although industry participants are wary of the impact U.S. President Donald Trump's latest barrage of tariffs could have on activity.\nBlackstone's opportunistic strategies - which generally target higher risk properties that need turning around, with potential for higher returns - have raised nearly $47 billion of capital globally, the company said.\n($1 = 0.9073 euros)"
+}

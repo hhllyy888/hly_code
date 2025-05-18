@@ -1,0 +1,7 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Lennar, Cleveland-Cliffs, FedEx, Nike and more",
+    "published_time": "2025-03-21T12:05:00+0000",
+    "author": "Alex Harring",
+    "href": "https://www.cnbc.com/2025/03/21/stocks-making-the-biggest-moves-premarket-len-clf-fdx-nke-and-more.html",
+    "content": ""
+}

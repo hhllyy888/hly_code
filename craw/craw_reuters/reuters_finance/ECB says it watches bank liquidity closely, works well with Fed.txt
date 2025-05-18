@@ -1,0 +1,9 @@
+{
+    "headline": "ECB says it watches bank liquidity closely, works well with Fed",
+    "published_time": "2025-03-27T09:38:51Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/markets/europe/ecb-says-it-watches-bank-liquidity-closely-works-well-with-fed-2025-03-27/",
+    "content": "FRANKFURT, March 27 (Reuters) - European Central Bank supervisors watch banks' liquidity \"very closely\" and continue to work well with their Federal Reserve colleagues, the ECB's chief regulator Claudia Buch said on Thursday when asked about worries concerning the Fed's commitment to providing U.S. dollar funding.\n\"We continue to cooperate well with our U.S. colleagues and generally in the international community,\" Buch told a hearing in the European Parliament in response to a question.\n\"Liquidity risk and also foreign exchange risk is something we monitor very closely as a routine part of our supervisory assessment.... It's not a specific new development.\""
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Novo Banco puts ex-Lloyds director in charge of risk before IPO",
+    "published_time": "2025-03-27T14:57:53Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/novo-banco-puts-ex-lloyds-director-charge-risk-before-ipo-2025-03-27/",
+    "content": "LISBON, March 27 (Reuters) - Portugal's fourth-largest lender Novo Banco has appointed former Lloyds Banking Group director Carmen Goncalves as chief risk officer, the bank said on Thursday, after her predecessor was fired three months ago for alleged misconduct.\nNovo Banco, which is preparing an IPO that could be one of the largest in Europe this year, said Goncalves was appointed at a shareholders' meeting on Wednesday that re-elected Chief Executive Officer Mark Bourke until 2028.\nGoncalves, who was hired by Novo Banco as head of Global Risk Management in December, had held several senior roles at Lloyds Banking Group for 17 years until 2022, when she took over as CRO of the British branch of Kuwait's Ahli United Bank.\nGoncalves has \"deep knowledge of enterprise risk management, covering credit, market, operational, liquidity and capital risk\", Novo Banco said in a statement.\nNovo Banco fired her predecessor, Carlos Brandao, in January, after reporting concerns over suspicious financial transactions in \"his personal sphere\" to the central bank and filing a complaint to the Public Prosecutor's Office, which launched an investigation.\nBrandao has not commented on the case.\nNovo Banco was created in 2014 from the collapsed BES after a state bailout. In 2017, U.S. fund Lone Star bought a 75% stake and the rest is held by the resolution fund, financed by Portugal's banks, and the Portuguese state."
+}

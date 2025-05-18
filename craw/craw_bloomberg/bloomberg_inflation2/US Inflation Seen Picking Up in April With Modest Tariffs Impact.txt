@@ -1,0 +1,9 @@
+{
+    "headline": "US Inflation Seen Picking Up in April With Modest Tariffs Impact",
+    "published_time": "2025-05-12T23:00:00Z",
+    "chinese_publish_time": "2025-05-13T07:00:00",
+    "author": "Augusta Saraiva",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-12/us-inflation-seen-picking-up-in-april-with-modest-tariffs-impact?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "US inflation likely accelerated in April after an unexpected cooldown the previous month, with higher tariffs on Chinese goods in particular starting to impact prices.\nTheconsumer price indexis seen rising 0.3% from March after declining in the prior month, according to the median forecast in a Bloomberg survey of economists. Acore metricthat excludes the often volatile food and energy categories advanced at a similar pace, based on the consensus."
+}

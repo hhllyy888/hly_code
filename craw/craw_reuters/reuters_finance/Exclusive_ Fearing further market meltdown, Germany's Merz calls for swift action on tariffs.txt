@@ -1,0 +1,9 @@
+{
+    "headline": "Exclusive: Fearing further market meltdown, Germany's Merz calls for swift action on tariffs",
+    "published_time": "2025-04-07T08:37:26Z",
+    "author": [
+        "Andreas Rinke"
+    ],
+    "href": "https://www.reuters.com/world/europe/fearing-further-market-meltdown-germanys-merz-calls-swift-action-tariffs-2025-04-07/",
+    "content": "BERLIN, April 7 (Reuters) - Chancellor-in-waiting Friedrich Merz called on Monday for swift action to secure Germany's competitiveness in response to sliding stock and bond markets, following U.S. President Donald Trump's announcement of sweeping tariffs.\n\"The situation on the international equity and bond markets is dramatic and threatens to deteriorate further. It is therefore more urgent than ever for Germany to restore its international competitiveness as quickly as possible,\" Merz said in an emailed statement to Reuters.\n\"This issue must now be at the centre of the coalition negotiations,\" he added of his conservative bloc's talks to form a government with the Social Democrats, repeating his party's calls for tax cuts, a reduction in red tape and lower energy prices.\nMajor stock indexes plunged on Monday as Trump showed no sign of backing away from his tariff plans, and investors bet the mounting risk of recession could see the Federal Reserve cutting interest rates as early as May.\nTogether with other European Union countries, Germany faces 25% import tariffs on steel and aluminium and cars, and \"reciprocal\" tariffs of 20% from Wednesday for almost all other goods.\nThe tariffs only add to Germany's economic headache, muddying attempts by the prospective new coalition government to haul Europe's largest economy out of a two-year-long recession."
+}

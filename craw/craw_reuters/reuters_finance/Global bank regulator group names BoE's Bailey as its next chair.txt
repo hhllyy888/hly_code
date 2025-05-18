@@ -1,0 +1,9 @@
+{
+    "headline": "Global bank regulator group names BoE's Bailey as its next chair",
+    "published_time": "2025-04-07T11:18:12Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/global-bank-regulator-group-names-boes-bailey-its-next-chair-2025-04-07/",
+    "content": "LONDON, April 7 (Reuters) - The Financial Stability Board, a group comprising financial regulators around the world, said on Monday it had nominated Bank of England Governor Andrew Bailey as its next chair for a three-year term starting in July.\n\"Andrew possesses the leadership, expertise, and vision needed to guide the FSB in achieving its objectives. We are pleased to put him forward to the Plenary as the next FSB Chair,\" Francois Villeroy de Galhau, governor of the Bank of France and chair of the FSB's Nomination Committee said."
+}

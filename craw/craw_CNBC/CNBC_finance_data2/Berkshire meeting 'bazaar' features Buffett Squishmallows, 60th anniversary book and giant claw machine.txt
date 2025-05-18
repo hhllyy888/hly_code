@@ -1,0 +1,9 @@
+{
+    "headline": "Berkshire meeting 'bazaar' features Buffett Squishmallows, 60th anniversary book and giant claw machine",
+    "published_time": "2025-05-02T21:17:02Z",
+    "chinese_publish_time": "2025-05-03T05:17:02",
+    "author": "Yun Li, Alex Harring",
+    "url": "https://www.cnbc.com/2025/05/02/berkshire-meeting-bazaar-features-buffett-squishmallows-60th-anniversary-book-and-giant-claw-machine.html",
+    "source": "CNBC",
+    "content": "OMAHA, Nebraska — Berkshire Hathaway shareholders are getting more bang for their buck at this year's meeting with the annual shopping event more interactive than ever.\nThe conglomerate's yearly convention kicked off Friday with a shareholder-only shopping event, called the \"Berkshire Bazaar of Bargains.\" With over 20,000 square feet of showroom space at the CHI Health Center in downtown Omaha, the exhibit hall is offering goods from a myriad of the conglomerate's holdings, including Warren Buffett-themed apparel from Brooks Sports and Berkshire chocolate coins from See's Candies.\nBuffett will take the stage 9am ET Saturday to address the most pressing issues investors face, including tariffs, the market volatility as well as the state of the economy. The 94-year-old investment legend will answer shareholder questions along with his designated successor, Greg Abel, and Berkshire's insurance chief, Ajit Jain. The Q&A session will be broadcast exclusively on CNBC."
+}

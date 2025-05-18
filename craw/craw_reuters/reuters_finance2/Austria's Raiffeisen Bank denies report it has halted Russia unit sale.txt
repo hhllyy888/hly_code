@@ -1,0 +1,9 @@
+{
+    "headline": "Austria's Raiffeisen Bank denies report it has halted Russia unit sale",
+    "published_time": "2025-04-18T11:52:25Z",
+    "chinese_publish_time": "2025-04-18T19:52:25",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/austrias-raiffeisen-bank-denies-report-it-has-halted-russia-unit-sale-2025-04-18/",
+    "source": "Reuters",
+    "content": "VIENNA, April 18 (Reuters) - Raiffeisen Bank International (RBIV.VI), opens new tab, the largest Western bank still operating in Russia, is proceeding with the sale of its Russian unit, the bank said on Friday, rejecting a media report that the process had been put on hold.\nRBI has been under pressure from authorities on both sides of the Atlantic to reduce its footprint in Russia following Moscow's invasion of Ukraine, and the bank has said a sale of 60% of its business in Russia is the most likely plan.\nEarlier on Friday, the Financial Times reported that RBI had halted efforts to sell its Russia unit amid a rapprochement between Washington and Moscow since U.S. President Donald Trump returned to power.\nAn RBI spokesperson told Reuters the report was incorrect.\n\"The sale process is neither stopped nor on hold, the sale process is continuing,\" the spokesperson said.\nThe Kremlin said it had no information on the FT report and that the bank was continuing operations in Russia."
+}

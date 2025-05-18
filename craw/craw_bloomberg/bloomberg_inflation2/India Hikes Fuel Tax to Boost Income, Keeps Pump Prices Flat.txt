@@ -1,0 +1,9 @@
+{
+    "headline": "India Hikes Fuel Tax to Boost Income, Keeps Pump Prices Flat",
+    "published_time": "2025-04-07T10:37:23Z",
+    "chinese_publish_time": "2025-04-07T18:37:23",
+    "author": "Rakesh Sharma, Ruchi Bhatia",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-07/india-increases-taxes-on-fuels-while-keeping-pump-prices-steady?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Supply Lines is a daily newsletter that tracks global trade.Sign up here.\nA slump in crude oil prompted India to increase taxes on diesel and gasoline, a move that will help the government shore up its revenue."
+}

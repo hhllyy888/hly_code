@@ -1,0 +1,9 @@
+{
+    "headline": "Singapore's Keppel gets $1.5 billion in capital commitments for its funds",
+    "published_time": "2025-04-21T01:59:03Z",
+    "chinese_publish_time": "2025-04-21T09:59:03",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/singapores-keppel-gets-15-billion-capital-commitments-its-funds-2025-04-21/",
+    "source": "Reuters",
+    "content": "SINGAPORE, April 21 (Reuters) - Keppel (KPLM.SI), opens new tab, a Singapore-based manager and operator of assets such as data centres, said on Monday that it has secured close to S$2.0 billion ($1.53 billion) of capital commitments from global institutional investors for its flagship funds.\nKeppel said in a statement that the commitments were for its Keppel Data Centre Fund III, the Keppel Education Asset Fund II, and its sustainable urban renewal strategy.\nChristina Tan, its CEO of fund management and also its Chief Investment Officer, said the securing of capital reflected the resilient demand for alternative real assets anchored to macrotrends including climate change and energy transition, urbanisation, and artificial intelligence.\nKeppel said the investors included pension and insurance funds, as well as a sovereign wealth fund. It did not name the investors.\nTan said the commitments bring Keppel closer to achieving its funds under management target of S$100 billion by 2026 and S$200 billion by 2030.\n($1 = 1.3061 Singapore dollars)"
+}

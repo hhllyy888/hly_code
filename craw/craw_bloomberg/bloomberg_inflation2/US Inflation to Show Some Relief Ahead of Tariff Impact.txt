@@ -1,0 +1,9 @@
+{
+    "headline": "US Inflation to Show Some Relief Ahead of Tariff Impact",
+    "published_time": "2025-04-09T23:00:00Z",
+    "chinese_publish_time": "2025-04-10T07:00:00",
+    "author": "Augusta Saraiva",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-09/us-inflation-to-show-some-relief-ahead-of-tariff-impact?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "US inflation likely stepped down in March, thanks in part to a drop in energy costs, offering some relief to consumers before tariffs filter through the economy.\nTheconsumer price indexis seen rising 0.1% from February, the smallest monthly gain in eight months, according to the median forecast in a Bloomberg survey of economists."
+}

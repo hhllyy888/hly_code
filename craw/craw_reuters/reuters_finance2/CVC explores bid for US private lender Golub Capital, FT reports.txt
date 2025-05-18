@@ -1,0 +1,9 @@
+{
+    "headline": "CVC explores bid for US private lender Golub Capital, FT reports",
+    "published_time": "2025-04-14T02:06:09Z",
+    "chinese_publish_time": "2025-04-14T10:06:09",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/markets/deals/cvc-explores-75-billion-bid-us-private-lender-golub-capital-ft-reports-2025-04-11/",
+    "source": "Reuters",
+    "content": "April 11 (Reuters) - (This April 11 story has been corrected to remove the $75 billion reference from the headline, and to clarify that  $75 billion are assets managed by the company, not the value of the deal, in paragraph 1)\nEuropean private equity firm CVC (CVC.AS), opens new tab is exploring a deal for $75 billion private credit lender Golub Capital (GBDC.O), opens new tab, the Financial Times reported on Friday, citing several people familiar with the situation.\nThe private credit sector, which involves institutional lending to companies outside of traditional banking channels, has grown rapidly in recent years, as stricter regulations have increased the cost for traditional lenders to finance riskier loans.\nFounded in 1991, Golub manages over $75 billion in assets and employs more than 1,000 professionals, according to its website.\nShares of Golub were up 1.6% in extended trading.\nIt remains uncertain whether ongoing discussions will result in a deal, as Golub Capital is not considering a sale, the report added, citing a person close to the matter.\nCVC and Golub did not immediately respond to Reuters' requests for comment."
+}

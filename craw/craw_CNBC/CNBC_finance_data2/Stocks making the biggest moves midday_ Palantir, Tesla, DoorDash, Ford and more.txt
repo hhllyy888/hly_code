@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves midday: Palantir, Tesla, DoorDash, Ford and more",
+    "published_time": "2025-05-06T16:20:12Z",
+    "chinese_publish_time": "2025-05-07T00:20:12",
+    "author": "Hakyung Kim",
+    "url": "https://www.cnbc.com/2025/05/06/stocks-making-the-biggest-moves-midday-palantir-tesla-doordash-ford-and-more.html",
+    "source": "CNBC",
+    "content": ""
+}

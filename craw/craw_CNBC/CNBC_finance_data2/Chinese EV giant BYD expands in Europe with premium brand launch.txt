@@ -1,0 +1,9 @@
+{
+    "headline": "Chinese EV giant BYD expands in Europe with premium brand launch",
+    "published_time": "2025-04-09T18:00:01Z",
+    "chinese_publish_time": "2025-04-10T02:00:01",
+    "author": "Evelyn Cheng",
+    "url": "https://www.cnbc.com/2025/04/09/chinese-ev-giant-byd-expands-in-europe-with-premium-brand-denza-launch.html",
+    "source": "CNBC",
+    "content": "key point \nChinese electric car giant BYD is pushing ahead into Europe by launching its premium Denza brand in the region, despite rising trade tensions.\nThe first model, the Z9GT, is set to arrive in European showrooms in the fourth quarter of 2025, BYD said Wednesday around Brera Design Week in Milan.\nBYD initially formed the Denza brand in 2010 with Daimler, now the Mercedes-Benz Group. \nBEIJING — Chinese electric car giant BYD is pushing ahead into Europe, launching its premium Denza brand in the region despite rising trade tensions.\nThe first model, the Z9GT, is set to arrive in European showrooms in the fourth quarter of 2025, BYD said Wednesday during Brera Design Week in Milan. The company did not specify prices or a delivery date for the station wagon-type car.\nThe Z9GT for Europe will come in both battery-only and plug-in hybrid versions, BYD said.\nBYD already sells electric cars in Europe. The company initially formed the Denza brand in 2010 with Daimler, now the Mercedes-Benz Group. The sub-brand was revamped in 2021 and sells cars in China, with the German automaker reducing its equity interest to 10%.\nThe European Union last year announced 17% duties on imports of BYD battery electric vehicles over claims of \"unfair\" production subsidies. Last month, Chinese and EU officials discussed issues related to the electric car supply chain during a meeting in Beijing."
+}

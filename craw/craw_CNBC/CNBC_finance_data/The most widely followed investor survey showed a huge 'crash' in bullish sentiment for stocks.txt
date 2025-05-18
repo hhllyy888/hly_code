@@ -1,0 +1,7 @@
+{
+    "headline": "The most widely followed investor survey showed a huge 'crash' in bullish sentiment for stocks",
+    "published_time": "2025-03-18T15:47:23+0000",
+    "author": "Alex Harring",
+    "href": "https://www.cnbc.com/2025/03/18/this-widely-followed-investor-survey-showed-a-crash-in-bullish-sentiment-for-stocks.html",
+    "content": ""
+}

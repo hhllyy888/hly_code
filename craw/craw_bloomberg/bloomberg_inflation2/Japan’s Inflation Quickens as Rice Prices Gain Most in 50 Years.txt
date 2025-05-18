@@ -1,0 +1,9 @@
+{
+    "headline": "Japan’s Inflation Quickens as Rice Prices Gain Most in 50 Years",
+    "published_time": "2025-04-17T23:34:02Z",
+    "chinese_publish_time": "2025-04-18T07:34:02",
+    "author": "Toru Fujioka",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-17/japan-s-inflation-quickens-to-stay-elevated-ahead-of-us-tariffs?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Japan’s consumer inflation picked up last month, bolstered in part by surging rice prices, supporting the central bank’s stance on a gradual rate hike path before US tariff measures clouded the economic outlook.\nConsumer pricesexcluding fresh food rose 3.2% from a year ago in March, accelerating from a 3% increase in the previous month, the ministry of internal affairs said Friday. That matched the median estimate of economists surveyed by Bloomberg. A gauge ofunderlying inflationthat also excludes energy prices rose 2.9%, as expected. That’s the fastest since March of last year."
+}

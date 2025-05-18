@@ -1,0 +1,9 @@
+{
+    "headline": "Walmart's former U.S. CEO Bill Simon thinks retailer can easily absorb tariff costs, criticizes its 'doom and gloom' commentary",
+    "published_time": "2025-05-15T23:47:06Z",
+    "chinese_publish_time": "2025-05-16T07:47:06",
+    "author": "Stephanie Landsman",
+    "url": "https://www.cnbc.com/2025/05/15/walmart-can-absorb-tariffs-fmr-us-ceo-simon-questions-price-hikes.html",
+    "source": "CNBC",
+    "content": "Walmart's business is strong enough to withstand tariff headwinds without increasing its prices, according to the discount retailer's former U.S. CEO.\nBill Simon, who ran Walmart U.S. from 2010 to 2014, suggests the company may be overstating challenges tied to tariffs.\n\"If you look down deep and dig into the details of their earnings release today, you know this quarter they grew their gross profit margin in the U.S. business 25 basis points. So, they're expanding their margin. They also reported their general merchandise categories were flattish because they had mid-single digit price deflation,\" he told CNBC's \"Fast Money\" on Thursday, the day Walmart reported fiscal first-quarter results. \"That sort of gives them room in my view to manage any tariff impact that they would have.\"\nSimon is optimistic consumers can largely handle price increases — citing a steady jobs market and cheaper fuel prices this year. But he notes worrisome commentary from corporate executives could be chipping away at consumer confidence.\n\"All the doom and gloom we hear about price increases and tariffs like we heard from my friends at Walmart today, I think it scares them some,\" said Simon, who's now on the Darden Restaurants board and is the chairman at Hanesbrands."
+}

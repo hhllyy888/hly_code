@@ -1,0 +1,9 @@
+{
+    "headline": "Watch Fed Chair Powell speak live on policy to the Economic Club of Chicago",
+    "published_time": "2025-04-16T17:20:24Z",
+    "chinese_publish_time": "2025-04-17T01:20:24",
+    "author": "Jeff Cox",
+    "url": "https://www.cnbc.com/2025/04/16/watch-fed-chair-powell-speak-live-on-policy-to-the-economic-club-of-chicago.html",
+    "source": "CNBC",
+    "content": "[The stream is slated to start at 1:30 p.m. ET. Please refresh the page if you do not see a player above at that time.]\nFederal Reserve Chair Jerome Powell speaks Wednesday afternoon at the Economic Club of Chicago, delivering policy remarks with markets on edge over the effect of President Donald Trump's tariffs.\nThe appearance will be the last public speech Powell delivers before the central bank's rate-setting Federal Open Market Committee meets May 6-7. Markets widely expect the FOMC to keep its key overnight borrowing rate unchanged in a range between 4.25% and 4.50%.\nHowever, Powell will have the chance to expound on where the Fed is heading from here. Recent statements from officials largely reflect a view that Fed policy is well positioned to adjust to risks posed by the economy.\nIn remarks earlier this month, Powell said he sees Trump's tariffs raising inflation and slowing growth, keeping the Fed in check at least for now.\nRead more:Powell sees tariffs raising inflation and says Fed will wait before further rate movesFed Governor Waller sees tariff inflation as 'transitory' in 'tush push' comparisonFed's Kashkari says rising bond yields, falling dollar show investors are moving on from the U.S.\nSubscribe to CNBC on YouTube."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Ghana’s World-Beating Cedi Tames Inflation at Eight-Month Low",
+    "published_time": "2025-05-07T10:20:25Z",
+    "chinese_publish_time": "2025-05-07T18:20:25",
+    "author": "Ekow Dontoh, Moses Mozart Dzawu",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-07/world-s-best-currency-subdues-ghana-inflation-to-eight-month-low?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Ghana’s inflation rate fell to an eight-month low in April as the West African nation’s world-beating currency helped rein in import costs.\nConsumer prices rose 21.2% in April, compared with 22.4% the month before, Government Statistician Alhassan Iddrisu told reporters in the capital, Accra, on Wednesday. Prices rose 0.8% in the month."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "US CFPB asks to exit Biden-era case against MoneyGram",
+    "published_time": "2025-04-08T15:43:04Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/us-cfpb-asks-exit-biden-era-case-against-moneygram-2025-04-08/",
+    "content": "April 8 (Reuters) - The top U.S. watchdog for consumer finance has asked a federal court to withdraw from the agency's own 2022 case against MoneyGram, leaving the New York attorney general as the sole plaintiff, according to court papers.\nUnder then-President Joe Biden, the agency had joined New York in accusing the cash transfer company of repeatedly and unfairly violating a federal rule designed to make it easier for people to send money to friends and family outside the United States.\nIn a motion filed on Monday, the Consumer Financial Protection Bureau, which has retreated from pending enforcement cases amid Trump administration efforts to dismantle the agency, said it could not seek a dismissal because New York officials were also suing.\nThe CFPB and MoneyGram did not immediately respond to requests for comment on Tuesday. A representative for the New York attorney general's office said the agency intended to continue pursuing the litigation in the CFPB's absence.\nThe case had faced lengthy delays while legal challenges to the constitutionality of the CFPB's funding structure worked their way through the courts, arguments the U.S. Supreme Court ultimately rejected last year.\nThe CFPB has now dismissed at least nine of the two dozen enforcement cases that were pending when the Trump administration took control in February while federal judges have paused at least seven more. Cases concerning Experian and Comerica Bank (CMA.N), opens new tab continue."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Here's why retirees shouldn't fully ditch stocks",
+    "published_time": "2025-04-16T17:42:01Z",
+    "chinese_publish_time": "2025-04-17T01:42:01",
+    "author": "Greg Iacurci",
+    "url": "https://www.cnbc.com/2025/04/16/heres-why-retirees-shouldnt-fully-ditch-stocks.html",
+    "source": "CNBC",
+    "content": "key point \nRetirees may feel they're protecting their nest eggs by getting out of stocks entirely. \nHowever, by doing so they'd increase their risk of outliving their savings during retirement, which may last decades, experts said. \nRetirees may think moving all their investments to cash and bonds — and out of stocks — protects their nest egg from risk.\nThey would be wrong, experts say.\nMost, if not all, retirees need stocks — the growth engine of an investment portfolio — to ensure they don't run out of money during a retirement that might last decades, experts said.\n\"It's important for retirees to have some equities in their portfolio to increase the long-term returns,\" said David Blanchett, head of retirement research for PGIM, an investment management arm of Prudential Financial."
+}

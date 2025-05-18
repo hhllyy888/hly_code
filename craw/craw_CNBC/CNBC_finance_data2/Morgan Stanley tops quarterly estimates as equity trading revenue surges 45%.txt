@@ -1,0 +1,9 @@
+{
+    "headline": "Morgan Stanley tops quarterly estimates as equity trading revenue surges 45%",
+    "published_time": "2025-04-11T11:00:01Z",
+    "chinese_publish_time": "2025-04-11T19:00:01",
+    "author": "Hugh Son",
+    "url": "https://www.cnbc.com/2025/04/11/morgan-stanley-ms-q1-2025-earnings.html",
+    "source": "CNBC",
+    "content": "key point \nHere's what the company reported: Earnings of $2.60 a share vs. $2.20 a share LSEG estimate \nRevenue: $17.74 billion vs. expected $16.58 billion\nMorgan Stanley on Friday reported first-quarter results that topped estimates as stock trading revenue surged 45% amid rising global volatility.\nHere's what the company reported:\nThe company said earnings rose 26% to $4.32 billion, or $2.60 per share, while revenue climbed 17% to a record $17.74 billion.\nEquity trading was the standout this quarter, as revenue jumped 45% to $4.13 billion, about $840 million more than the StreetAccount estimate.\nMorgan Stanley said that its equity results were strong across its franchise, but particularly in Asia and in operations catering to hedge funds \"driven by strong client activity amid a more volatile trading environment.\"\nElsewhere, the company mostly met expectations.\nFixed income trading rose 5% to $2.6 billion, essentially matching the StreetAccount estimate. Investment banking increased 8% to $1.56 billion, just under the $1.61 billion estimate.\nWealth management revenue jumped 6% to $7.33 billion, matching the estimate.\nShares of Morgan Stanley, like those of its peers, have whipsawed in recent days as President Donald Trump's trade policies have increased concern that the U.S. was headed for a recession.\nThe bank's massive wealth management business was helped by high stock market values in the first quarter, which inflates the management fees it collects.\nAnalysts will want to ask about the outlook for mergers and IPO listings, which may be curtailed amid the tensions."
+}

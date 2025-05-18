@@ -1,0 +1,9 @@
+{
+    "headline": "Santander sees higher profitability, buoyed by customer gain in first quarter",
+    "published_time": "2025-04-04T06:56:03Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/santander-track-meet-2025-targets-after-gaining-customers-first-quarter-2025-04-04/",
+    "content": "MADRID, April 4 (Reuters) - Spain's Santander (SAN.MC), opens new tab said on Friday it continued to gain customers in the first quarter and was on track to meet its full-year revenue and profitability targets.\nIn February, Santander said it was targeting this year revenues worth around 62 billion euros ($68.65 billion) and higher profitability after finishing 2024 with a record profit of 12.57 billion euros.\nThe lender anticipated that in the first quarter its return-on-tangible-equity ratio (ROTE), after the impact of additional Tier 1 (AT1) capital instruments, a measure of profitability, rose to 15.7%, compared to 15.5% at end of 2024.\nIt is due to release a full financial report for the first quarter at the end of this month.\nFor the whole of 2025, Santander expects an ROTE of around 16.5%, a spokesperson for the bank said.\n\"Looking forward, we expect to continue increasing profitability in 2025. While we are monitoring the implications of recent tariff announcements in the U.S.,\" Executive Chair Ana Botin said in a statement from the bank as part of a speech she was expected to deliver later during the bank's shareholders' meeting.\n($1 = 0.9032 euros)"
+}

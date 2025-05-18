@@ -1,0 +1,7 @@
+{
+    "headline": "Hedge funds turn defensive amid tariff chaos, selling tech stocks at the fastest pace in 6 months",
+    "published_time": "2025-03-31T17:24:54+0000",
+    "author": "Yun Li",
+    "href": "https://www.cnbc.com/2025/03/31/hedge-funds-turn-defensive-amid-tariff-chaos.html",
+    "content": ""
+}

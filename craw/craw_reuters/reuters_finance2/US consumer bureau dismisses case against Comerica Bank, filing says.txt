@@ -1,0 +1,9 @@
+{
+    "headline": "US consumer bureau dismisses case against Comerica Bank, filing says",
+    "published_time": "2025-04-11T17:47:08Z",
+    "chinese_publish_time": "2025-04-12T01:47:08",
+    "author": "Pete Schroeder",
+    "url": "https://www.reuters.com/business/finance/us-consumer-bureau-dismisses-case-against-comerica-bank-filing-says-2025-04-11/",
+    "source": "Reuters",
+    "content": "WASHINGTON, April 11 (Reuters) - The U.S. Consumer Financial Protection Bureau on Friday dismissed its lawsuit against Comerica Bank, after the agency previously accused the lender of systematically mistreating millions of mostly disabled and older customers.\nIn a filing submitted in U.S. District Court, the agency said it was dismissing the suit, which was filed in December under the Biden administration. The move is the latest in several enforcement actions the Trump administration has scrapped since taking over the agency.\nA spokesperson for Comerica declined to comment. A CFPB spokesperson said the agency was doing its due diligence to work with the bank.\nIn its original suit, the CFPB claimed that the bank had failed participants in the \"Direct Express\" program by disconnecting customer service phone calls and charging illegal fees. The program has operated since 2008 under a U.S. Treasury contract with Comerica to provide prepaid debit cards to recipients of federal benefits, the agency said.\nSince taking over the CFPB, the Trump administration has sought to dismiss, freeze, or reverse several high-profile cases pursued by predecessors.\nIn March, a federal judge ordered the Trump administration to halt its efforts to defang the watchdog, after a worker union and consumer advocates sued to prevent what they warned were planned mass layoffs and other efforts to effectively dismantle the agency, which was authorized as part of the 2010 Dodd-Frank financial reform law and charged with policing consumer financial products."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Apple, Nvidia, Goldman Sachs, Pfizer and more",
+    "published_time": "2025-04-14T11:53:16Z",
+    "chinese_publish_time": "2025-04-14T19:53:16",
+    "author": "Hakyung Kim",
+    "url": "https://www.cnbc.com/2025/04/14/stocks-making-the-biggest-moves-premarket-aapl-nvda-gs-pfe-and-more.html",
+    "source": "CNBC",
+    "content": ""
+}

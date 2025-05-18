@@ -1,0 +1,9 @@
+{
+    "headline": "With IPOs on hold even longer, tariffs spell trouble for private tech investors",
+    "published_time": "2025-04-11T12:48:46Z",
+    "chinese_publish_time": "2025-04-11T20:48:46",
+    "author": "Ryan Browne",
+    "url": "https://www.cnbc.com/2025/04/11/tariffs-spell-trouble-for-vcs-amid-klarna-stubhub-ipo-delays.html",
+    "source": "CNBC",
+    "content": "key point \nGlobal equity markets have been incredibly volatile recently, amid ongoing uncertainty stemming from U.S. tariffs.\nThat’s spelling trouble for venture capital, with major tech unicorns already delaying plans to go public due to tech stocks plunging.\nThe industry was already under immense pressure amid a dearth of tech IPOs and M&A deals.\nAlready under pressure amid last week's multitrillion-dollar stock market rout, the venture capital industry now faces an even tougher outlook amid ongoing uncertainty stemming from U.S. tariffs.\nA dearth of initial public offerings or mergers and acquisitions — coupled with the trend that startups are now staying private for longer — has put immense strain on VC funds. Venture capitalists can typically only realize gains on their investments when a company goes public or is sold, allowing them to cash out.\nMere days after U.S. President Donald Trump announced plans to impose so-called reciprocal tariffs on a swathe of countries, it emerged that two major tech unicorns — fintech firm Klarna and ticketing platform StubHub — were delaying plans to go public due to a sharp plunge in global equity markets. Notably, both companies had filed initial public offering prospectuses in recent weeks.\n\"No one can go out with this turbulence,\" Tobias Bengtsdahl, a partner at VC firm Antler's Nordics fund, told CNBC on a call Thursday. \"When the market plunges like it has now ... you have to do the same prediction on the private markets.\""
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "Deutsche Bank applies to ECB for share buyback in second half of 2025",
+    "published_time": "2025-05-15T17:32:49Z",
+    "chinese_publish_time": "2025-05-16T01:32:49",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/deutsche-bank-applies-ecb-share-buyback-second-half-2025-2025-05-15/",
+    "source": "Reuters",
+    "content": "FRANKFURT, May 15 (Reuters) - Deutsche Bank (DBKGn.DE), opens new tab has asked the European Central Bank for permission to conduct a share buyback in the second half of 2025, chief executive Christian Sewing said in a speech published on Thursday.\nSewing plans to deliver the speech to shareholders at an annual meeting next week."
+}

@@ -1,0 +1,9 @@
+{
+    "headline": "UniCredit's Romanian unit signs securisation deal with EBRD",
+    "published_time": "2025-04-08T15:35:28Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/business/finance/unicredits-romanian-unit-signs-securisation-deal-with-ebrd-2025-04-08/",
+    "content": "April 8 (Reuters) - UniCredit's (CRDI.MI), opens new tab Romanian unit has signed a synthetic securitisation agreement with the European Bank for Reconstruction and Development (EBRD), the Italian bank said on Tuesday.\nThe securitised portfolio, valued at around 775 million euros ($848.86 million), consists of small and medium-sized enterprises (SMEs) and corporate loans issued by UniCredit Bank S.A, part of UniCredit Group.\nThe closing of the transaction will allow the Romanian unit \"to improve its capital resilience by reducing its risk-weighted assets, thus further expanding its lending capacity to the real economy\", the bank said in a statement.\nThe operation is part of UniCredit's ARTS programme, focused on using Significant Risk Transfer (SRT) transactions that help the lender improve its capital efficiency, and it will be the first capital relief transaction in Romania for the EBRD.\nThe bank is planning to use them more often and apply them to new asset classes within its group, specifically in Central and Eastern Europe.\n($1 = 0.9130 euros)"
+}

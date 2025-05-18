@@ -1,0 +1,9 @@
+{
+    "headline": "End of an era: Warren Buffett will ask Berkshire board to replace him as CEO with Greg Abel",
+    "published_time": "2025-05-03T18:04:26Z",
+    "chinese_publish_time": "2025-05-04T02:04:26",
+    "author": "John Melloy, Yun Li",
+    "url": "https://www.cnbc.com/2025/05/03/warren-buffett-to-ask-board-to-make-greg-abel-ceo-of-berkshire-hathaway-at-year-end.html",
+    "source": "CNBC",
+    "content": "An end of an era was announced in Omaha Saturday as Warren Buffett said he will soon ask the board of Berkshire Hathaway to have Greg Abel replace him as CEO at year end.\nWhile Buffett is 94 and Abel was designated as CEO successor in 2021, it nonetheless came as a surprise to the thousands of admiring shareholders gathered for this year's annual meeting to once again hear the investing legend opine on the future of the company.\n\"Tomorrow, we're having a board meeting of Berkshire, and we have 11 directors. Two of the directors, who are my children, Howie and Susie, know of what I'm going to talk about there. The rest of them, this will come as news to, but I think the time has arrived where Greg should become the chief executive officer of the company at year end,\" said Buffett, in the final few minutes of the meeting.\nIn 1965, Buffett bought what was then a failing New England textile mill, and over six decades transformed the company into a one-of-a-kind conglomerate with businesses ranging from Geico insurance to BNSF Railway. Buffett is handing over his reins on a high note as Berkshire shares just reached a new peak, giving the conglomerate a market cap of nearly $1.2 trillion.The \"Oracle of Omaha\" said he will still \"hang around\" to help, but the final word on company operations and capital deployment would be with Abel, 62, currently the vice chairman of non-insurance operations for Berkshire."
+}

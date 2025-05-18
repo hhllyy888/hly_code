@@ -1,0 +1,9 @@
+{
+    "headline": "Peruvian Inflation Accelerated More Than Expected in April",
+    "published_time": "2025-05-01T14:43:33Z",
+    "chinese_publish_time": "2025-05-01T22:43:33",
+    "author": "Marcelo Rochabrun",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-01/peruvian-inflation-accelerated-more-than-expected-in-april?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Inflation in Peru’s capital rose faster than expected in April, but remains comfortably within the central bank’s target band.\nAnnualinflationrose 1.65%, Peru’s national statistics institute said, up from 1.28% in March. The result was higher than the 1.52%median estimateof economists surveyed by Bloomberg. On a monthly basis, inflationrose0.32%, significantly higher than the 0.2% median estimate."
+}

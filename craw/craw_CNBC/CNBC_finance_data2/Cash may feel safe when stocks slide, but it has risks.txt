@@ -1,0 +1,9 @@
+{
+    "headline": "Cash may feel safe when stocks slide, but it has risks",
+    "published_time": "2025-04-15T13:45:02Z",
+    "chinese_publish_time": "2025-04-15T21:45:02",
+    "author": "Greg Iacurci",
+    "url": "https://www.cnbc.com/2025/04/15/cash-may-feel-safe-when-stocks-slide-but-it-has-risks.html",
+    "source": "CNBC",
+    "content": "key point \nInvestors have fled stocks in favor of perceived safe havens like cash amid tariff-fueled market volatility.\nCash may feel safer, but it also comes with risks for long-term savers, experts said. \nCash interest rates generally lag stock returns by wide margins over time and are often negative after accounting for inflation.\nInvestors may feel an impulse to move to cash amid the recent tumult in the stock market. While cash might feel safer than stocks, it can also pose risks for long-term savers, financial advisors say.\nCash — like money held in a high-yield bank savings account or a money market fund — is substantially less volatile than stocks over the short term, experts said.\nBut cash has historically delivered lower returns than stocks over the long term. Holding on to more cash than you need — rather than investing it — raises the risk that you may not achieve your investing goals.\nThe upshot: Cash-heavy investors may find it challenging to achieve their long-term investment goals, and may have to save more of their discretionary income as a result, Vanguard wrote in a paper that analyzed stock and cash returns."
+}

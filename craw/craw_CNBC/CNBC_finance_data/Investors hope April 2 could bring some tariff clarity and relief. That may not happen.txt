@@ -1,0 +1,7 @@
+{
+    "headline": "Investors hope April 2 could bring some tariff clarity and relief. That may not happen",
+    "published_time": "2025-04-01T18:19:10+0000",
+    "author": "Sarah Min",
+    "href": "https://www.cnbc.com/2025/04/01/investors-hope-april-2-could-bring-some-tariff-clarity-and-relief-that-may-not-happen.html",
+    "content": ""
+}

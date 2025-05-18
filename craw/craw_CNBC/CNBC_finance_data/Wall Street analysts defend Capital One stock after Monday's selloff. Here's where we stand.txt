@@ -1,0 +1,7 @@
+{
+    "headline": "Wall Street analysts defend Capital One stock after Monday's selloff. Here's where we stand",
+    "published_time": "2025-03-18T17:53:49+0000",
+    "author": "Morgan Chittum",
+    "href": "https://www.cnbc.com/2025/03/18/wall-street-analysts-defend-capital-one-cof-stock-after-mondays-selloff.html",
+    "content": ""
+}

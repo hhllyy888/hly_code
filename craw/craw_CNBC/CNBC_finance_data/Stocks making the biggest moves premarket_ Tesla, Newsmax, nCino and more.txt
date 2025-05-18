@@ -1,0 +1,7 @@
+{
+    "headline": "Stocks making the biggest moves premarket: Tesla, Newsmax, nCino and more",
+    "published_time": "2025-04-02T12:16:05+0000",
+    "author": "Hakyung Kim",
+    "href": "https://www.cnbc.com/2025/04/02/stocks-making-the-biggest-moves-premarket-tsla-nmax-ncno-and-more.html",
+    "content": ""
+}

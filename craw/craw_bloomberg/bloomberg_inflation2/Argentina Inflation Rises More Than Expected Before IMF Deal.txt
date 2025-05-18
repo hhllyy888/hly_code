@@ -1,0 +1,9 @@
+{
+    "headline": "Argentina Inflation Rises More Than Expected Before IMF Deal",
+    "published_time": "2025-04-11T19:17:43Z",
+    "chinese_publish_time": "2025-04-12T03:17:43",
+    "author": "Manuela Tobias",
+    "url": "https://www.bloomberg.com/news/articles/2025-04-11/argentina-inflation-picks-up-more-than-expected-before-imf-deal?srnd=phx-economics-inflation-and-prices",
+    "source": "Bloomberg",
+    "content": "Argentina’sinflationlast month jumped the most since August amid increased currency volatility in the run-up to an expected vote on a fresh financing package from the International Monetary Fund.\nConsumer prices rose 3.7% from February, surpassing the 2.7%median estimateof analysts surveyed by Bloomberg. The previous monthly inflation print came in at 2.4%. Annualinflationslowed to 55.9%, according to government data published Friday."
+}

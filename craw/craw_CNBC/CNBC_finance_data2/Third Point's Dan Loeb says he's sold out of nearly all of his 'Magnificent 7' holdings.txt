@@ -1,0 +1,9 @@
+{
+    "headline": "Third Point's Dan Loeb says he's sold out of nearly all of his 'Magnificent 7' holdings",
+    "published_time": "2025-04-23T11:52:51Z",
+    "chinese_publish_time": "2025-04-23T19:52:51",
+    "author": "Yun Li",
+    "url": "https://www.cnbc.com/2025/04/23/third-points-dan-loeb-says-hes-sold-out-of-nearly-all-of-his-magnificent-7-holdings.html",
+    "source": "CNBC",
+    "content": ""
+}

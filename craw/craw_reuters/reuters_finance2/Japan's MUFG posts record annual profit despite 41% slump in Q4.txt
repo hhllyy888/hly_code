@@ -1,0 +1,9 @@
+{
+    "headline": "Japan's MUFG posts record annual profit despite 41% slump in Q4",
+    "published_time": "2025-05-15T07:48:54Z",
+    "chinese_publish_time": "2025-05-15T15:48:54",
+    "author": "Reuters",
+    "url": "https://www.reuters.com/business/finance/japans-mufg-posts-record-annual-profit-despite-41-slump-q4-2025-05-15/",
+    "source": "Reuters",
+    "content": "TOKYO, May 15 (Reuters) - Japan's largest banking group Mitsubishi UFJ Financial Group (8306.T), opens new tab clocked a record annual net profit even as fourth-quarter profit fell by 41%.\nMUFG made a net profit of 114 billion yen ($782.11 million) in the January-March quarter compared to 192.8 billion yen in the same period the previous year.\nAnnual profit hit 1.86 trillion yen, beating its previous record of 1.49 trillion yen last year.\n($1 = 145.7600 yen)"
+}

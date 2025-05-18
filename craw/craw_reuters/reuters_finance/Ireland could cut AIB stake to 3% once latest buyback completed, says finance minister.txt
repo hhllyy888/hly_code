@@ -1,0 +1,9 @@
+{
+    "headline": "Ireland could cut AIB stake to 3% once latest buyback completed, says finance minister",
+    "published_time": "2025-03-31T14:56:25Z",
+    "author": [
+        "Reuters"
+    ],
+    "href": "https://www.reuters.com/markets/deals/ireland-could-cut-aib-stake-3-once-latest-buyback-completed-says-finance-2025-03-31/",
+    "content": "DUBLIN, March 31 (Reuters) - Ireland could cut its shareholding in AIB Group (AIBG.I), opens new tab to around 3% from 12% currently after agreeing in principle to the bank's latest share buyback proposal, Finance Minister Paschal Donohoe said on Monday.\nIreland effectively nationalised AIB in 2010 when it pumped 21 billion euros ($22.7 billion) into the lender following a banking crash. It has been gradually selling down its shares over the last four years following a 2017 IPO.\nAIB, one of the country's two dominant lenders, announced the 1.2 billion euro directed buyback with the state last month as part a boost to shareholder returns following an unexpectedly strong jump in full-year profit.\nThe buyback is due to be completed shortly after AIB's annual shareholder meeting on May 1.\nDonohoe had said earlier this year that the state may exit the bank entirely this year, having sold the last of its shares in rival Bank of Ireland (BIRG.I), opens new tab in 2022. The government still holds a 57.5% stake in smaller lender Permanent TSB (PTSB.I), opens new tab.\n($1 = 0.9258 euros)"
+}
